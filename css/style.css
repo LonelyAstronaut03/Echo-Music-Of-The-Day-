@@ -257,10 +257,15 @@ button {
 
 .albums-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 24px;
   align-items: start;
+  justify-content: center;
 }
+/* 1个或2个时居中，不占满整行 */
+.albums-container.items-1 { max-width: 400px; margin: 0 auto; }
+.albums-container.items-2 { max-width: 700px; margin: 0 auto; }
+.albums-container.items-3 { max-width: var(--max-width); margin: 0 auto; }
 
 /* --- Album Card --- */
 .album-card {
@@ -762,9 +767,12 @@ button {
 /* 平板：双列 */
 @media (max-width: 1024px) {
   .albums-container {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 20px;
   }
+  .albums-container.items-1 { max-width: 380px; margin: 0 auto; }
+  .albums-container.items-2 { max-width: 620px; margin: 0 auto; }
+  .albums-container.items-3 { max-width: none; }
   .hero { padding: 48px 24px 36px; }
   .album-cover-art .cover-title { font-size: 1rem; }
 }

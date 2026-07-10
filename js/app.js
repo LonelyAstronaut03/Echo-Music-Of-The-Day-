@@ -118,6 +118,9 @@ const App = {
 
     const items = entry.items.slice(0, 3); // 最多 3 个
 
+    // 根据数量设置布局
+    container.className = 'albums-container items-' + items.length;
+
     emptyState.classList.add('hidden');
 
     const expandedId = preserveExpanded ? this.expandedCardId : null;
