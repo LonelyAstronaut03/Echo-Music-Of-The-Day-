@@ -42,10 +42,10 @@ const I18N = {
 
       // About
       about_title: '关于 Echo-Music Of The Day',
-      about_p1: 'Echo-Music Of The Day 是一个每日音乐发现平台。我们每天推荐三张发行于当日的优质专辑，带你穿越音乐史的长河，发现那些诞生在历史上的今天的伟大作品。',
-      about_p2: '三张专辑中，每天保证恰好一张来自华语乐坛，其余的精选自世界各地的优秀作品。我们注重搭配——既有你耳熟能详的经典，也有值得被更多人听到的冷门佳作。',
-      about_p3: '我们不提供音乐播放功能，以规避版权问题。但我们为每张专辑提供详尽的介绍、艺术家趣事和音乐史背景，并附上流媒体链接，方便你去自己喜欢的平台收听。',
-      about_disclaimer: '专辑数据由 AI 辅助整理，可能存在疏漏。如发现日期或信息错误，欢迎反馈纠错。',
+      about_p1: '音乐是时间的回声。在历史的同一天，无数专辑曾悄然诞生——有些成为了时代的注脚，有些则在岁月中静静等待被重新聆听。Echo-Music Of The Day 每天为你拾起三张发行于当日的专辑，让过去的声音在今天重新响起。',
+      about_p2: '我们穿梭于不同的语言与流派之间，从经典之作到沧海遗珠，每一张专辑都是一个独立的世界。三张专辑，三种声音，一段穿越时空的音乐对话。',
+      about_p3: '这里不提供直接播放——我们相信，好的音乐值得你亲自去寻找。我们为你准备了专辑的创作背景、艺术家故事和音乐史上的回响，并附上流媒体链接，让你在喜爱的平台上与这些作品相遇。',
+      about_disclaimer: '专辑数据由 AI 辅助整理，可能存在疏漏。如发现日期或信息错误，欢迎随时反馈。',
 
       // Footer
       footer_sub: '每天三张专辑，发现音乐史上的今天',
@@ -92,10 +92,10 @@ const I18N = {
 
       // About
       about_title: 'About Echo-Music Of The Day',
-      about_p1: 'Echo-Music Of The Day is a daily music discovery platform. We recommend three outstanding albums released on this date in history, taking you on a journey through music\'s past to discover great works born on this day.',
-      about_p2: 'Among the three albums each day, exactly one is from the Chinese-language music scene, with the rest selected from outstanding works worldwide. We curate a thoughtful mix — from beloved classics to hidden gems that deserve a wider audience.',
-      about_p3: 'We don\'t provide music playback to avoid copyright issues. Instead, we offer detailed introductions, artist stories, and musical context for each album, along with streaming links for you to listen on your preferred platform.',
-      about_disclaimer: 'Album data is AI-assisted and may contain inaccuracies. If you find date or content errors, we welcome your feedback and corrections.',
+      about_p1: 'Music is the echo of time. On this day across history, countless albums were born — some became landmarks of their era, others quietly waited in the dust for someone to listen again. Echo-Music Of The Day brings you three albums released on this date, letting the sounds of the past resonate anew.',
+      about_p2: 'We wander between languages and genres, from timeless masterpieces to overlooked treasures. Three albums, three voices, one conversation across time and space.',
+      about_p3: 'We don\'t stream music here — some things are worth seeking out on your own. Instead, we offer the stories behind each album: how they were made, who made them, and the ripples they left behind. Streaming links are provided so you can encounter these works on your own terms, in your own time.',
+      about_disclaimer: 'Album data is AI-assisted and may contain inaccuracies. If you spot an error, we welcome your feedback.',
 
       // Footer
       footer_sub: 'Three albums a day — discover music history, one date at a time',
