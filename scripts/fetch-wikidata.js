@@ -108,29 +108,40 @@ async function main() {
     byDate[mmdd].push(item);
   }
 
-  // Select up to 3 per day, with genre priority: Jazz > R&B > Pop > Classical > others
-  const PRIORITY = ['Jazz', 'R&B/Soul', 'Pop', 'Classical', 'Hip-Hop', 'Electronic', 'Folk/Country', 'World/Reggae', 'Rock'];
+  // Select up to 3 per day. Hard rules:
+  // - Global Rock cap: 40 total across all days
+  // - Per-day: max 1 Rock
+  // - Prioritize Jazz, R&B/Soul, Classical, Hip-Hop, Electronic
+  const PREFERRED = ['Jazz', 'R&B/Soul', 'Classical', 'Hip-Hop', 'Electronic', 'Pop', 'Folk/Country', 'World/Reggae', 'Rock'];
+  const MAX_ROCK = 40;
+  let globalRock = 0;
   const db = {};
 
   for (const [mmdd, items] of Object.entries(byDate)) {
     const selected = [];
     const usedGenres = new Set();
+    let dayRock = 0;
 
-    // Sort items by genre priority
-    const sorted = items.sort((a, b) => {
+    const sorted = [...items].sort((a, b) => {
       const ga = mapGenre(a.genre) || 'Other';
       const gb = mapGenre(b.genre) || 'Other';
-      const pa = PRIORITY.indexOf(ga), pb = PRIORITY.indexOf(gb);
+      const pa = PREFERRED.indexOf(ga), pb = PREFERRED.indexOf(gb);
       return (pa === -1 ? 99 : pa) - (pb === -1 ? 99 : pb);
     });
 
-    // Pick items, avoiding duplicate broad genres
     for (const item of sorted) {
       if (selected.length >= 3) break;
       const bg = mapGenre(item.genre) || 'Other';
-      if (!usedGenres.has(bg) || selected.length >= 2) {
+
+      // Global Rock cap reached — skip all Rock
+      if (bg === 'Rock' && globalRock >= MAX_ROCK) continue;
+      // Per-day Rock cap
+      if (bg === 'Rock' && dayRock >= 1) continue;
+
+      if (!usedGenres.has(bg)) {
         selected.push(item);
         usedGenres.add(bg);
+        if (bg === 'Rock') { dayRock++; globalRock++; }
       }
     }
 
