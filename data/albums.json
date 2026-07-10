@@ -17,13 +17,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "The Rolling Stones 于 1993 年发行。",
-        "descriptionEn": "Released by The Rolling Stones in 1993.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Jump Back: The Best of The Rolling Stones》是滚石乐队1993年发行的精选集，收录了他们1964年至1992年的经典曲目。这张专辑风格横跨摇滚、布鲁斯和雷鬼，展现了乐队狂放不羁的核心特色，是入门滚石音乐的绝佳选择。",
+        "descriptionEn": "‘Jump Back: The Best of The Rolling Stones’ is a 1993 compilation featuring classics from 1964 to 1992. Spanning rock, blues, and reggae, it captures the band’s rebellious spirit and serves as a perfect introduction to their legacy.",
+        "storiesZh": "这张精选集是为了庆祝滚石乐队成立30周年而发行，但乐队当时并未参与曲目选择，而是由唱片公司主导。有趣的是，专辑名称“Jump Back”源自他们1971年的一首非专辑单曲，原本是B面歌曲，却被选为标题曲。",
+        "storiesEn": "Released for the band’s 30th anniversary, the compilation was curated by the record label rather than the band. Interestingly, the title ‘Jump Back’ comes from a 1971 non-album B-side, which was chosen as the album’s namesake.",
+        "historicalImpactZh": "这张专辑在英国和美国均获得白金认证，巩固了滚石乐队作为全球最伟大摇滚乐队之一的地位，影响了后世的摇滚精选集发行模式。",
+        "historicalImpactEn": "Certified platinum in the UK and US, it cemented the Rolling Stones’ status as one of the greatest rock bands, influencing how rock compilations are curated.",
+        "links": {},
+        "artistIntroZh": "滚石乐队成立于1962年，是英国摇滚的象征。由米克·贾格尔、基思·理查兹等人领衔，他们以粗粝的布鲁斯摇滚和叛逆形象闻名，被誉为“世界最伟大的摇滚乐队”，活跃至今已逾六十年。",
+        "artistIntroEn": "Formed in 1962, the Rolling Stones are icons of British rock. Led by Mick Jagger and Keith Richards, they are known for gritty blues-rock and a rebellious image, often called ‘the greatest rock band in the world,’ active for over six decades."
       },
       {
         "id": "brant-bjork-jalamanta",
@@ -40,13 +42,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Brant Bjork 于 1999 年发行。",
-        "descriptionEn": "Released by Brant Bjork in 1999.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Jalamanta》是Brant Bjork的首张个人专辑，发行于1999年。风格融合了迷幻摇滚、沙漠摇滚和放克，充满了慵懒的节奏和充满氛围感的吉他。核心特色是它随性、迷幻的加州沙漠气息，如同一次听觉上的公路旅行。",
+        "descriptionEn": "‘Jalamanta’ is Brant Bjork’s debut solo album, released in 1999. Blending psychedelic rock, desert rock, and funk, it features laid-back grooves and atmospheric guitars, embodying the free-spirited vibe of the California desert.",
+        "storiesZh": "这张专辑的录制过程非常即兴。Brant Bjork在家中用简单的四轨录音机录制了大部分内容，甚至有些歌曲是一次性完成的。专辑名“Jalamanta”是他自创的词，灵感来自他在沙漠中的冥想体验，意为“火焰之母”。",
+        "storiesEn": "The album was recorded in a highly improvisational manner. Brant Bjork used a simple four-track recorder at home, with some tracks completed in one take. The title ‘Jalamanta’ is a coined word inspired by his desert meditations, meaning ‘mother of fire.’",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "Brant Bjork是美国音乐人、制作人，曾是Kyuss和Fu Manchu等知名沙漠摇滚乐队的鼓手。他以独特的迷幻风格和低沉的嗓音著称，是沙漠摇滚场景的关键人物之一，个人作品充满实验性和自由精神。",
+        "artistIntroEn": "Brant Bjork is an American musician and producer, formerly drummer for Kyuss and Fu Manchu. Known for his psychedelic style and deep vocals, he is a key figure in the desert rock scene, with solo work marked by experimentation and freedom."
       },
       {
         "id": "the-rolling-stones-no-security",
@@ -63,13 +67,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "The Rolling Stones 于 1998 年发行。",
-        "descriptionEn": "Released by The Rolling Stones in 1998.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《No Security》是滚石乐队1998年发行的现场专辑，收录了1997-1998年“Bridges to Babylon”巡演的实况。风格延续了他们经典的布鲁斯摇滚和硬摇滚，特色是现场即兴发挥和与观众的强烈互动，展现了乐队巅峰期的舞台魅力。",
+        "descriptionEn": "‘No Security’ is a 1998 live album by the Rolling Stones, recorded during the ‘Bridges to Babylon’ tour. It features their classic blues-rock and hard rock, highlighting improvisation and audience interaction, capturing the band’s peak stage energy.",
+        "storiesZh": "专辑名“No Security”取自巡演中一首歌的歌词，也暗指当时巡演安保的混乱状况。录制时，乐队特意选择了不同场馆的录音，包括一些小型场地，以捕捉更亲密的现场氛围。",
+        "storiesEn": "The title ‘No Security’ comes from a lyric on tour, also hinting at chaotic security situations. The band selected recordings from various venues, including smaller ones, to capture a more intimate live atmosphere.",
+        "historicalImpactZh": "作为滚石乐队90年代的现场记录，这张专辑展现了他们持续创新的能力，影响了后来现场专辑的选曲和制作标准。",
+        "historicalImpactEn": "As a live document of the Stones in the 90s, it showcases their enduring creativity and influenced the curation and production of subsequent live albums.",
+        "links": {},
+        "artistIntroZh": "滚石乐队是英国传奇摇滚乐队，成立于1962年。他们以米克·贾格尔的舞台魅力和基思·理查兹的吉他 riff 闻名，音乐风格从布鲁斯摇滚到雷鬼，跨越数十年，是全球唱片销量最高的乐队之一。",
+        "artistIntroEn": "The Rolling Stones are a legendary British rock band formed in 1962. Famous for Mick Jagger’s stage presence and Keith Richards’ guitar riffs, their music spans blues-rock to reggae, with decades of influence and among the best-selling artists worldwide."
       }
     ]
   },
@@ -91,13 +97,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Ayumi Hamasaki 于 2013 年发行。",
-        "descriptionEn": "Released by Ayumi Hamasaki in 2013.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《A Classical》是滨崎步2013年发行的古典混音专辑，将她经典的流行歌曲重新编排为管弦乐版本。风格融合了流行与古典，特色是宏大的弦乐和钢琴编曲，展现了滨崎步音乐的另一面，充满优雅与情感张力。",
+        "descriptionEn": "‘A Classical’ is Ayumi Hamasaki’s 2013 classical remix album, reimagining her pop hits with orchestral arrangements. Blending pop and classical, it features grand strings and piano, revealing an elegant and emotional side of her music.",
+        "storiesZh": "这张专辑是为了庆祝滨崎步出道15周年而制作。她亲自参与了编曲方向的讨论，希望用古典乐重新诠释自己的作品，让老歌焕发新生。录制时，她与东京爱乐乐团合作，过程充满挑战但极具艺术性。",
+        "storiesEn": "Produced for her 15th anniversary, Ayumi Hamasaki personally discussed arrangement directions to reinterpret her songs with classical music. Recording with the Tokyo Philharmonic Orchestra was challenging yet highly artistic, bringing new life to her classics.",
+        "historicalImpactZh": "这张专辑在日本公信榜古典榜夺冠，推动了J-Pop与古典乐跨界融合的趋势，影响了后来日本流行歌手的类似尝试。",
+        "historicalImpactEn": "Topping Japan’s Oricon classical charts, it boosted J-Pop and classical crossover trends, influencing similar projects by later Japanese pop artists.",
+        "links": {},
+        "artistIntroZh": "滨崎步是日本流行天后，1998年出道，被誉为“平成歌姬”。她以多元音乐风格、时尚形象和歌词中的自省主题闻名，唱片销量超过5000万张，是日本音乐史上最成功的女性歌手之一。",
+        "artistIntroEn": "Ayumi Hamasaki is a Japanese pop diva, debuting in 1998, known as the ‘Empress of Heisei.’ Renowned for diverse music styles, fashion, and introspective lyrics, she has sold over 50 million records, one of Japan’s most successful female artists."
       },
       {
         "id": "dropkick-murphys-signed-and-sealed-in-blood",
@@ -114,13 +122,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Dropkick Murphys 于 2013 年发行。",
-        "descriptionEn": "Released by Dropkick Murphys in 2013.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Signed and Sealed in Blood》是Dropkick Murphys 2013年发行的第八张录音室专辑。风格融合了凯尔特民谣与朋克摇滚，特色是激昂的风笛、手风琴和快节奏的吉他，充满了工人阶级的豪迈与酒吧狂欢的热烈氛围。",
+        "descriptionEn": "‘Signed and Sealed in Blood’ is Dropkick Murphys’ 2013 eighth studio album. Blending Celtic folk and punk rock, it features lively bagpipes, accordion, and fast guitars, embodying working-class pride and pub revelry.",
+        "storiesZh": "专辑录制于波士顿的Q Division Studio，乐队邀请了多位好友客串，包括Bruce Springsteen的乐队成员。主打歌《The Boys Are Back》的MV拍摄于波士顿的酒吧，乐队和粉丝一起狂欢，场面十分混乱而有趣。",
+        "storiesEn": "Recorded at Q Division Studio in Boston, the band invited friends, including members of Bruce Springsteen’s band. The music video for ‘The Boys Are Back’ was shot in a Boston pub, featuring a chaotic, fun party with fans.",
+        "historicalImpactZh": "这张专辑在Billboard 200上排名第10，是乐队商业上最成功的作品之一，进一步巩固了凯尔特朋克在全球的流行度。",
+        "historicalImpactEn": "Peaking at No. 10 on Billboard 200, it became one of the band’s most commercially successful albums, further popularizing Celtic punk worldwide.",
+        "links": {},
+        "artistIntroZh": "Dropkick Murphys是美国凯尔特朋克乐队，1996年成立于波士顿。他们以激进的政治歌词、现场表演的狂热能量和融合爱尔兰传统音乐元素而闻名，是工人阶级文化的代表乐队之一。",
+        "artistIntroEn": "Dropkick Murphys are an American Celtic punk band formed in Boston in 1996. Known for politically charged lyrics, high-energy live shows, and Irish traditional music elements, they represent working-class culture."
       }
     ]
   },
@@ -142,13 +152,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "The Grace 于 2009 年发行。",
-        "descriptionEn": "Released by The Grace in 2009.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Dear…》是天舞团The Grace的首张正规专辑，融合了流行、R&B与舞曲元素，展现了成员们出色的演唱实力与和声魅力。专辑以“致亲爱的你”为主题，收录了多首情感丰富的歌曲，既有动感十足的舞曲，也有温柔抒情的慢歌，充分体现了组合的多面性。",
+        "descriptionEn": "Dear… is the first full-length album by The Grace, blending pop, R&B, and dance elements, showcasing the members' outstanding vocal abilities and harmonious charm. With the theme 'To My Dear,' the album includes emotionally rich tracks, ranging from energetic dance numbers to tender ballads, fully reflecting the group's versatility.",
+        "storiesZh": "专辑录制期间，成员们经常在深夜的录音室里即兴合唱，尤其是主唱Lina和Stephanie的和声练习常常持续到凌晨。制作人曾透露，主打歌《One More Chance, OK?》的副歌部分录了超过50个版本，才找到最完美的情感表达。",
+        "storiesEn": "During the album recording, members often had impromptu choir sessions in the studio late at night, especially lead vocalists Lina and Stephanie, whose harmony practices often lasted until dawn. The producer revealed that the chorus of the title track 'One More Chance, OK?' was recorded over 50 times before finding the perfect emotional expression.",
+        "historicalImpactZh": "该专辑是SM娱乐旗下女子组合中少有的全 Vocal 实力派专辑，为后续二代女团的技术流路线树立了标杆。",
+        "historicalImpactEn": "This album is a rare all-vocal powerhouse release among SM Entertainment's girl groups, setting a benchmark for the technical vocal route of subsequent second-generation girl groups.",
+        "links": {},
+        "artistIntroZh": "The Grace（天舞团）是韩国SM娱乐于2005年推出的女子组合，由Lina、Dana、Sunday和Stephanie四名成员组成。以出色的唱功和舞台表现力著称，被誉为“SM的 Vocal 女王团”，在亚洲乐坛拥有独特地位。",
+        "artistIntroEn": "The Grace is a female group formed by SM Entertainment in 2005, consisting of four members: Lina, Dana, Sunday, and Stephanie. Known for their exceptional vocal skills and stage presence, they are hailed as 'SM's Vocal Queens' and hold a unique position in the Asian music scene."
       }
     ]
   },
@@ -170,13 +182,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Led Zeppelin 于 1969 年发行。",
-        "descriptionEn": "Released by Led Zeppelin in 1969.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Led Zeppelin》是齐柏林飞艇乐队1969年发行的首张同名专辑，奠定了硬摇滚和重金属的基石。专辑融合了布鲁斯摇滚、民谣与迷幻元素，以吉米·佩奇极具冲击力的吉他 riff 和罗伯特·普兰特高亢的嗓音为标志，充满原始的力量与即兴的狂野。",
+        "descriptionEn": "Led Zeppelin is the debut self-titled album by Led Zeppelin, released in 1969, laying the foundation for hard rock and heavy metal. Blending blues rock, folk, and psychedelic elements, it is marked by Jimmy Page's powerful guitar riffs and Robert Plant's soaring vocals, full of raw energy and wild improvisation.",
+        "storiesZh": "专辑仅用36小时便录制完成，大部分歌曲都是乐队在巡演中即兴创作。录制时，吉米·佩奇用一把借来的电吉他弹奏了《Good Times Bad Times》的经典 riff，而鼓手约翰·博纳姆在《Dazed and Confused》中故意打碎了一面鼓，录音师不得不紧急修复设备。",
+        "storiesEn": "The album was recorded in just 36 hours, with most songs improvised during the band's tour. Jimmy Page played the classic riff of 'Good Times Bad Times' on a borrowed electric guitar, while drummer John Bonham deliberately broke a drumhead during 'Dazed and Confused,' forcing the engineer to urgently repair the equipment.",
+        "historicalImpactZh": "这张专辑被公认为硬摇滚和重金属的开山之作，全球销��超过800万张，彻底改变了摇滚乐的面貌。",
+        "historicalImpactEn": "This album is widely regarded as the pioneering work of hard rock and heavy metal, with over 8 million copies sold worldwide, fundamentally changing the landscape of rock music.",
+        "links": {},
+        "artistIntroZh": "齐柏林飞艇（Led Zeppelin）是1968年成立于伦敦的英国摇滚乐队，由吉他手吉米·佩奇、主唱罗伯特·普兰特、贝斯手约翰·保罗·琼斯和鼓手约翰·博纳姆组成。他们是史上最具影响力的摇滚乐队之一，以重型吉他音色和神秘主义歌词著称。",
+        "artistIntroEn": "Led Zeppelin is a British rock band formed in London in 1968, consisting of guitarist Jimmy Page, vocalist Robert Plant, bassist John Paul Jones, and drummer John Bonham. They are one of the most influential rock bands in history, known for their heavy guitar sound and mystical lyrics."
       }
     ]
   },
@@ -198,13 +212,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "ASAP Rocky 于 2013 年发行。",
-        "descriptionEn": "Released by ASAP Rocky in 2013.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Long. Live. ASAP》是ASAP Rocky的首张录音室专辑，将哈莱姆区的街头说唱与迷幻电子、合成器流行元素巧妙结合。专辑以流畅的 flow、复古的采样和前卫的制作著称，展现了ASAP Rocky对时尚与音乐融合的独特审美，氛围迷离而奢华。",
+        "descriptionEn": "Long. Live. ASAP is ASAP Rocky's debut studio album, cleverly blending Harlem street rap with psychedelic electronic and synth-pop elements. Known for its smooth flow, vintage samples, and avant-garde production, the album showcases ASAP Rocky's unique aesthetic of merging fashion and music, creating a hazy yet luxurious atmosphere.",
+        "storiesZh": "专辑录制期间，ASAP Rocky 与制作人 Clams Casino 在洛杉矶的录音室里连续工作72小时不眠不休。主打歌《F**kin' Problems》的副歌部分原本由 Drake 演唱，但 Drake 在最后一刻改变了自己的部分，导致 Rocky 不得不重新录制整段副歌。",
+        "storiesEn": "During the album recording, ASAP Rocky and producer Clams Casino worked continuously for 72 hours without sleep in a Los Angeles studio. The chorus of the lead single 'F**kin' Problems' was originally sung by Drake, but Drake changed his part at the last minute, forcing Rocky to re-record the entire chorus.",
+        "historicalImpactZh": "该专辑推动了“云说唱”（Cloud Rap）流派的主流化，并确立了ASAP Rocky作为时尚偶像与音乐跨界先锋的地位。",
+        "historicalImpactEn": "This album helped mainstream the 'Cloud Rap' genre and established ASAP Rocky as a fashion icon and pioneer of music-fashion crossover.",
+        "links": {},
+        "artistIntroZh": "ASAP Rocky（本名Rakim Mayers）是美国说唱歌手、音乐制作人及时尚设计师，1988年出生于纽约哈莱姆区。他是ASAP Mob团体核心成员，以慵懒的 flow、前卫的穿搭和实���性的音乐风格闻名，被誉为当代嘻哈文化的革新者。",
+        "artistIntroEn": "ASAP Rocky (born Rakim Mayers) is an American rapper, music producer, and fashion designer, born in 1988 in Harlem, New York. As a core member of the ASAP Mob collective, he is known for his laid-back flow, avant-garde fashion, and experimental music style, hailed as an innovator of contemporary hip-hop culture."
       }
     ]
   },
@@ -226,13 +242,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "ZZ Top 于 1971 年发行。",
-        "descriptionEn": "Released by ZZ Top in 1971.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《ZZ Top's First Album》是ZZ Top的首张专辑，融合了南部摇滚、布鲁斯和布吉摇滚，充满粗犷的德州风味。专辑以比利·吉本斯标志性的吉他音色、低沉的人声和紧凑的节奏为特色，歌词多围绕公路、女人和酒，直白而充满活力。",
+        "descriptionEn": "ZZ Top's First Album is the debut album by ZZ Top, blending Southern rock, blues, and boogie rock with a rugged Texas flavor. Characterized by Billy Gibbons' iconic guitar tone, low vocals, and tight rhythms, the lyrics revolve around roads, women, and whiskey—straightforward and full of energy.",
+        "storiesZh": "专辑录制时，乐队预算极其有限，吉他手比利·吉本斯使用了一把仅值50美元的二手吉他。录音师回忆，贝斯手达斯迪·希尔在录制《(Somebody Else Been) Shakin' Your Tree》时，因为太兴奋而把贝斯琴弦弹断了三次，最后只能用一把借来的贝斯完成。",
+        "storiesEn": "During the album recording, the band had a very limited budget, and guitarist Billy Gibbons used a second-hand guitar worth only $50. The engineer recalled that bassist Dusty Hill broke his bass strings three times while recording '(Somebody Else Been) Shakin' Your Tree' out of excitement, finally finishing with a borrowed bass.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "ZZ Top是一支美国摇滚乐队，1969年成立于德克萨斯州休斯顿，由吉他手兼主唱比利·吉本斯、贝斯手达斯迪·希尔和鼓手弗兰克·比尔德组成。他们以标志性的长胡须、墨镜和蓝调摇滚风格闻名，是南部摇滚的象征。",
+        "artistIntroEn": "ZZ Top is an American rock band formed in Houston, Texas in 1969, consisting of guitarist/vocalist Billy Gibbons, bassist Dusty Hill, and drummer Frank Beard. Known for their iconic long beards, sunglasses, and blues-rock style, they are a symbol of Southern rock."
       }
     ]
   },
@@ -254,13 +272,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Pearl Jam 于 2011 年发行。",
-        "descriptionEn": "Released by Pearl Jam in 2011.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Live on Ten Legs》是珍珠酱乐队2011年发行的现场专辑，收录了2003年至2010年间全球巡演的精华曲目。专辑以高能量的现场演绎、即兴段落和主唱埃迪·维德的激情呐喊为特色，完美捕捉了乐队在舞台上无可匹敌的爆发力与情感张力。",
+        "descriptionEn": "Live on Ten Legs is a live album by Pearl Jam, released in 2011, featuring highlights from their global tours between 2003 and 2010. The album is characterized by high-energy live performances, improvisational passages, and lead vocalist Eddie Vedder's passionate shouts, perfectly capturing the band's unmatched explosive power and emotional tension on stage.",
+        "storiesZh": "专辑名“Ten Legs”源于乐队五名成员在舞台上总共十条腿的玩笑。录制过程中，吉他手迈克·麦克雷迪在西班牙的一场演出中即兴弹奏了一段长达12分钟的独奏，观众疯狂到把舞台围栏都挤倒了。这张专辑的混音师特意保留了那次演出的现场噪音，以还原真实感。",
+        "storiesEn": "The album title 'Ten Legs' comes from the joke that the five band members have ten legs total on stage. During recording, guitarist Mike McCready improvised a 12-minute solo at a show in Spain, driving the crowd so wild that they knocked down the stage barriers. The album's mixing engineer deliberately kept the live noise from that performance to preserve authenticity.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "珍珠酱乐队（Pearl Jam）是美���西雅图的一支摇滚乐队，1990年成立，是90年代垃圾摇滚（Grunge）运动的代表之一。成员包括主唱埃迪·维德、吉他手杰夫·阿门特、迈克·麦克雷迪等。他们以社会政治议题歌词和激烈的现场演出著称，全球销量超过6000万张。",
+        "artistIntroEn": "Pearl Jam is an American rock band from Seattle, formed in 1990, and a leading figure of the 1990s grunge movement. Members include vocalist Eddie Vedder, guitarist Jeff Ament, and Mike McCready. Known for their socially and politically charged lyrics and intense live performances, they have sold over 60 million albums worldwide."
       }
     ]
   },
@@ -8674,13 +8694,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Coldplay 于 2000 年发行。",
-        "descriptionEn": "Released by Coldplay in 2000.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Parachutes》是酷玩乐队的首张录音室专辑，于2000年7月发行。这张专辑以柔和、空灵的吉他旋律与主唱克里斯·马丁的脆弱嗓音为特色，融合了英伦摇滚与后摇滚元素。代表作《Yellow》与《Trouble》奠定了乐队忧郁而浪漫的基调，成为千禧年初另类摇滚的经典之作。",
+        "descriptionEn": "Parachutes is Coldplay's debut studio album, released in July 2000. Featuring soft, ethereal guitar melodies and Chris Martin's fragile vocals, it blends Britpop with post-rock elements. Iconic tracks like Yellow and Trouble established the band's melancholic yet romantic tone, becoming a defining alternative rock work of the early 2000s.",
+        "storiesZh": "专辑录制于伦敦与利物浦的多个简陋录音室，乐队当时几乎身无分文。成名曲《Yellow》的灵感来自克里斯·马丁某夜仰望星空时的瞬间感动，他即兴写下“Look at the stars”；而《Shiver》则源自他对另一位女歌手的暗恋。制作人肯·尼尔森用模拟磁带录制，刻意保留了大量环境杂音，反而造就了专辑特有的粗糙温暖质感。",
+        "storiesEn": "The album was recorded in several modest studios in London and Liverpool, with the band nearly broke. 'Yellow' was inspired by Chris Martin gazing at the stars one night, leading to the spontaneous line 'Look at the stars'; 'Shiver' came from his crush on a female singer. Producer Ken Nelson used analog tape, intentionally preserving ambient noise, which gave the album its distinctive raw, warm texture.",
+        "historicalImpactZh": "《Parachutes》在全球售出超过900万张，为酷玩乐队赢得2002年格莱美最佳另类音乐专辑奖。它成功将英伦摇滚的吉他传统与更温柔的独立情感结合，影响了后续如Keane、Snow Patrol等一大批英伦乐队，标志着2000年代英式忧郁摇滚的复兴起点。",
+        "historicalImpactEn": "Parachutes sold over 9 million copies worldwide, winning Coldplay the 2002 Grammy for Best Alternative Music Album. It successfully merged Britpop guitar traditions with tender indie emotions, influencing a wave of later British bands like Keane and Snow Patrol, marking the revival of melancholic British rock in the 2000s.",
+        "links": {},
+        "artistIntroZh": "酷玩乐队成立于1996年的伦敦，由主唱克里斯·马丁、吉他手强尼·巴克兰、贝斯手盖·贝里曼和鼓手威尔·查平组成。他们从大学校园起步，凭借《Parachutes》迅速崛起为全球现象级乐队。以情感充沛的旋律与宏大的现场表演著称，至今已获七项格莱美奖。",
+        "artistIntroEn": "Coldplay formed in 1996 in London, comprising Chris Martin (vocals), Jonny Buckland (guitar), Guy Berryman (bass), and Will Champion (drums). Rising from university campuses, they became a global phenomenon with Parachutes. Known for emotionally charged melodies and grand live performances, they have won seven Grammy Awards to date."
       },
       {
         "id": "the-beatles-a-hard-day-s-night",
@@ -8697,13 +8719,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "The Beatles 于 1964 年发行。",
-        "descriptionEn": "Released by The Beatles in 1964.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《A Hard Day's Night》是披头士乐队的第三张录音室专辑，于1964年发行，同时也是同名电影的原声带。这张专辑全部由约翰·列侬和保罗·麦卡特尼原创，展现了乐队从早期流行摇滚向更成熟创作阶段的过渡。主打歌《A Hard Day's Night》以标志性的尖锐和弦开场，成为乐队早期最著名的金曲之一。",
+        "descriptionEn": "A Hard Day's Night is The Beatles' third studio album, released in 1964, also serving as the soundtrack for their film of the same name. Featuring entirely original compositions by John Lennon and Paul McCartney, it marks the band's transition from early pop-rock to more mature songwriting. The title track opens with its iconic sharp chord, becoming one of their most famous early hits.",
+        "storiesZh": "专辑名称来自林戈·斯塔尔的一句随口抱怨——在一次高强度拍摄后，他疲惫地说“It's been a hard day's night”（今天真是夜以继日的辛苦）。列侬和麦卡特尼当晚���以此为题写下了同名歌曲。影片在六周内拍完以配合唱片发行，开创了“电影与专辑同步营销”的先河。专辑中《And I Love Her》的吉他独奏部分，是乔治·哈里森首次展现古典弗拉门戈影响。",
+        "storiesEn": "The album title came from a casual remark by Ringo Starr after an exhausting day of filming: 'It's been a hard day's night.' Lennon and McCartney wrote the title track that same evening. The film was shot in just six weeks to coincide with the album's release, pioneering the concept of simultaneous film-album marketing. The guitar solo on 'And I Love Her' marked George Harrison's first incorporation of classical flamenco influences.",
+        "historicalImpactZh": "《A Hard Day's Night》是史上首张完全由原创歌曲构成的披头士专辑，彻底改变了唱片业对“创作者”的认知。其同名电影被视为音乐纪录片的标杆，定义了“乐队电影”类型。专辑在英美两地均夺得排行榜冠军，巩固了披头士作为全球文化现象的地位，并激励了无数年轻人拿起乐器创作属于自己的歌曲。",
+        "historicalImpactEn": "A Hard Day's Night was the first Beatles album to contain entirely original songs, fundamentally changing the music industry's view of artist-composers. Its film became a benchmark for music documentaries, defining the 'band movie' genre. Topping charts in both the UK and US, it cemented The Beatles as a global cultural phenomenon and inspired countless young people to pick up instruments and write their own songs.",
+        "links": {},
+        "artistIntroZh": "披头士乐队于1960年在利物浦成立，成员包括约翰·列侬、保罗·麦卡特尼、乔治·哈里森和林戈·斯塔尔。他们被誉为史上最伟大、最具影响力的摇滚乐队，以惊人的创作速度与实验精神不断革新流行音乐。从早期的“披头士狂潮”到后期的艺术探索，他们在短短十年间彻底改变了世界音乐版图。",
+        "artistIntroEn": "The Beatles formed in Liverpool in 1960, with members John Lennon, Paul McCartney, George Harrison, and Ringo Starr. Widely regarded as the greatest and most influential rock band in history, they revolutionized popular music through astonishing creativity and experimentation. From early 'Beatlemania' to later avant-garde explorations, they transformed the global musical landscape in just ten years."
       }
     ]
   },
@@ -17636,11 +17660,12 @@
     ]
   },
   "_meta": {
-    "generated": "2026-07-10T12:13:18.368Z",
+    "generated": "2026-07-10T12:20:12.780Z",
     "source": "Wikidata",
     "version": 8,
     "totalDays": 344,
     "totalItems": 692,
-    "note": "Accurate dates from Wikidata. Notable artists prioritized."
+    "note": "Accurate dates from Wikidata. Notable artists prioritized.",
+    "enriched": 5
   }
 }

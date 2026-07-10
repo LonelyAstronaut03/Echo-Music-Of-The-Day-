@@ -94,12 +94,12 @@ async function main() {
       // Parse JSON array from response
       const json = response.replace(/```json\n?/g, '').replace(/```/g, '').trim();
       const match = json.match(/\[[\s\S]*\]/);
-      const enriched = JSON.parse(match ? match[0] : json);
+      const results = JSON.parse(match ? match[0] : json);
 
       // Apply to items
       batch.forEach(({ date, item }, idx) => {
-        if (enriched[idx]) {
-          Object.assign(item, enriched[idx]);
+        if (results[idx]) {
+          Object.assign(item, results[idx]);
         }
       });
 
