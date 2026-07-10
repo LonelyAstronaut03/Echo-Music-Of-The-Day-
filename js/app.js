@@ -494,8 +494,16 @@ const App = {
       message = lang === 'zh'
         ? `${dateStr}，是你的生日。这一天暂无收录的音乐作品，但每一天都独一无二——就像你一样。生日快乐！🎂`
         : `${dateStr} is your birthday. No works on record for this day — but every day is unique, just like you. Happy birthday! 🎂`;
+    } else if (entry && (entry.birthdayZh || entry.birthdayEn)) {
+      message = (lang === 'zh' ? entry.birthdayZh : entry.birthdayEn) || entry.birthdayZh || '';
     } else {
-      message = this.generateBirthdayMessage(dateStr, albums);
+      const names = albums.map(a => lang === 'zh' ? (a.nameZh || a.name) : a.name);
+      const artists = albums.map(a => lang === 'zh' ? (a.artistZh || a.artist) : a.artist);
+      if (lang === 'zh') {
+        message = `${dateStr}，是你的生日。\n\n在音乐的长河里，这一天同样闪耀——${artists[0]}的《${names.join('》《')}》，就在历史上的今天诞生。愿这些穿越时光的旋律，陪伴你的新一岁。生日快乐！🎂`;
+      } else {
+        message = `${dateStr} is your birthday.\n\nOn this day in music history, "${names.join('", "')}" by ${artists[0]} was born. May these melodies, echoing across time, accompany your new year. Happy birthday! 🎂`;
+      }
     }
 
     // 显示结果
@@ -516,45 +524,6 @@ const App = {
       }).join('');
     } else {
       albumsDiv.innerHTML = '';
-    }
-  },
-
-  generateBirthdayMessage(dateStr, albums) {
-    const lang = I18N.current;
-
-    // 提取专辑名和关键词来构建温暖祝福
-    const names = albums.map(a => lang === 'zh' ? (a.nameZh || a.name) : a.name);
-    const artists = albums.map(a => lang === 'zh' ? (a.artistZh || a.artist) : a.artist);
-
-    // 从简介中提取温暖的关键词
-    const warmWords = ['爱', '梦想', '自由', '温暖', '光芒', '希望', '青春', '热情', '温柔', '勇敢', '坚持', '绽放', '旅程', '星辰', '彩虹', '阳光', '飞翔',
-      'love', 'dream', 'freedom', 'hope', 'light', 'shine', 'passion', 'courage', 'journey', 'star', 'heart', 'soul', 'spirit', 'rise'];
-
-    const allText = albums.map(a => (a.descriptionZh || '') + (a.descriptionEn || '')).join(' ').toLowerCase();
-    const found = warmWords.filter(w => allText.includes(w)).slice(0, 3);
-    const themes = found.length > 0 ? found : (lang === 'zh' ? ['美好', '独特', '精彩'] : ['beauty', 'wonder', 'joy']);
-
-    if (lang === 'zh') {
-      const nameList = names.map((n, i) => `《${n}》`).join('和');
-      const themeStr = themes.join('、');
-      const lines = [
-        `${dateStr}，是你的生日。`,
-        ``,
-        `在音乐的长河里，这一天同样闪耀——${artists[0]}的${nameList}，就在历史上的今天诞生。`,
-        `这些作品诉说着${themeStr}，就像每一个崭新的生命所带来的光芒。`,
-        `愿这些穿越时光的旋律，陪伴你的新一岁。生日快乐！🎂`
-      ];
-      return lines.join('\n');
-    } else {
-      const nameList = names.map((n, i) => `"${n}"`).join(' and ');
-      const themeStr = themes.join(', ');
-      const lines = [
-        `${dateStr} is your birthday.`,
-        ``,
-        `On this day in music history, ${nameList} by ${artists[0]} was born — songs that speak of ${themeStr}.`,
-        `May these melodies, echoing across time, accompany your new year. Happy birthday! 🎂`
-      ];
-      return lines.join('\n');
     }
   },
 
