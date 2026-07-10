@@ -42,7 +42,7 @@
         "artistZh": "崔健",
         "releaseDate": "01-01",
         "year": 1991,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/5/5e/Cui_Jian_-_Solution.jpg",
         "genres": [
           "Rock",
           "Chinese Rock",
@@ -66,7 +66,7 @@
         "artistZh": "地下丝绒",
         "releaseDate": "01-01",
         "year": 1970,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/3/37/Velvet_Underground_Loaded.jpg",
         "genres": [
           "Rock",
           "Pop Rock"
@@ -121,7 +121,7 @@
         "artistZh": "王菲",
         "releaseDate": "01-11",
         "year": 1994,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/4/4f/Faye_Wong_-_Sky.jpg",
         "genres": [
           "Mandopop",
           "Dream Pop"
@@ -144,7 +144,7 @@
         "artistZh": "弗兰克·奥申",
         "releaseDate": "01-11",
         "year": 2012,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/2/28/Channel_ORANGE.jpg",
         "genres": [
           "R&B",
           "Neo Soul",
@@ -200,7 +200,7 @@
         "artistZh": "王菲",
         "releaseDate": "01-15",
         "year": 1996,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/d/d8/Faye_Wong_-_Restless.jpg",
         "genres": [
           "Art Pop",
           "Alternative Rock",
@@ -277,7 +277,7 @@
         "artistZh": "万能青年旅店",
         "releaseDate": "02-13",
         "year": 2012,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/c/c7/Omnipotent_Youth_Society.jpg",
         "genres": [
           "Indie Rock",
           "Chinese Rock",
@@ -303,7 +303,7 @@
         "artistZh": "特蕾西·查普曼",
         "releaseDate": "02-13",
         "year": 1988,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/60/Tracy_Chapman_album.jpg",
         "genres": [
           "Folk",
           "Singer-Songwriter"
@@ -356,7 +356,7 @@
         "artistZh": "崔健",
         "releaseDate": "02-24",
         "year": 1989,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/3/3a/Cui_Jian_-_Rock_n_Roll_on_the_New_Long_March.jpg",
         "genres": [
           "Rock",
           "Chinese Rock"
@@ -486,7 +486,7 @@
         "artistZh": "艾瑞莎·弗兰克林",
         "releaseDate": "03-21",
         "year": 1967,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/7/7a/Aretha_Franklin_-_I_Never_Loved_a_Man.jpg",
         "genres": [
           "Soul",
           "R&B"
@@ -509,7 +509,7 @@
         "artistZh": "五月天",
         "releaseDate": "03-21",
         "year": 2006,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/3/39/Mayday_-_Born_to_Love.jpg",
         "genres": [
           "Rock",
           "Pop Rock",
@@ -559,7 +559,7 @@
         "artistZh": "涅槃",
         "releaseDate": "04-05",
         "year": 1993,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/e/e3/In_Utero.jpg",
         "genres": [
           "Grunge",
           "Alternative Rock",
@@ -583,7 +583,7 @@
         "artistZh": "张悬",
         "releaseDate": "04-05",
         "year": 2006,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/5/5e/Deserts_Chang_-_My_Life_Will.jpg",
         "genres": [
           "Folk",
           "Singer-Songwriter",
@@ -662,7 +662,7 @@
         "artistZh": "李宗盛",
         "releaseDate": "04-19",
         "year": 1989,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/0/0f/Jonathan_Lee_-_Spirit_of_Life.jpg",
         "genres": [
           "Folk",
           "Singer-Songwriter",
@@ -816,7 +816,7 @@
         "artistZh": "陶喆",
         "releaseDate": "05-23",
         "year": 2002,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/7/7c/David_Tao_-_Black_Tangerine.jpg",
         "genres": [
           "R&B",
           "Mandopop",
@@ -840,7 +840,7 @@
         "artistZh": "精灵乐队",
         "releaseDate": "05-23",
         "year": 1989,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/6b/Pixies-Doolittle.jpg",
         "genres": [
           "Alternative Rock",
           "Indie Rock"
@@ -894,7 +894,7 @@
         "artistZh": "郑钧",
         "releaseDate": "06-01",
         "year": 1994,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/8/84/Zheng_Jun_-_Naked.jpg",
         "genres": [
           "Rock",
           "Chinese Rock",
@@ -972,7 +972,7 @@
         "artistZh": "蔡依林",
         "releaseDate": "06-16",
         "year": 2012,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/8/8b/Jolin_Tsai_-_Muse.jpg",
         "genres": [
           "Mandopop",
           "Dance Pop"
@@ -1022,7 +1022,7 @@
         "artistZh": "比约克",
         "releaseDate": "07-01",
         "year": 1993,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/7/77/Bj%C3%B6rk_-_Debut.png",
         "genres": [
           "Art Pop",
           "Electronic",
@@ -1178,7 +1178,7 @@
         "artistZh": "披头士",
         "releaseDate": "08-15",
         "year": 1965,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album%29.jpg",
         "genres": [
           "Pop Rock",
           "Folk Rock"
@@ -1296,7 +1296,7 @@
         "artistZh": "尼克·德雷克",
         "releaseDate": "09-08",
         "year": 1972,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/5/5f/Nick_Drake_Pink_Moon.jpg",
         "genres": [
           "Folk",
           "Singer-Songwriter"
@@ -1349,7 +1349,7 @@
         "artistZh": "许巍",
         "releaseDate": "09-24",
         "year": 1997,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/2/21/Xu_Wei_-_Elsewhere.jpg",
         "genres": [
           "Rock",
           "Chinese Rock",
@@ -1403,7 +1403,7 @@
         "artistZh": "托尼·班奈特",
         "releaseDate": "10-01",
         "year": 1994,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/d/dd/Tony_Bennett_MTV_Unplugged.jpg",
         "genres": [
           "Jazz",
           "Vocal Jazz",
@@ -1646,7 +1646,7 @@
         "artistZh": "汪苏泷",
         "releaseDate": "11-22",
         "year": 2014,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/d/dc/Wang_Sulong_-_Mystery_Guest.jpg",
         "genres": [
           "Mandopop",
           "R&B"
@@ -1695,7 +1695,7 @@
         "artistZh": "杰斯",
         "releaseDate": "12-03",
         "year": 2003,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/1/1a/The_Black_Album_%28Jay-Z_album%29.jpg",
         "genres": [
           "Hip-Hop",
           "Rap"
@@ -1767,7 +1767,7 @@
         "artistZh": "约翰·柯川",
         "releaseDate": "12-25",
         "year": 1964,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/4/4e/John_Coltrane_-_A_Love_Supreme.jpg",
         "genres": [
           "Jazz",
           "Modal Jazz",
@@ -1793,7 +1793,7 @@
         "artistZh": "邓丽君",
         "releaseDate": "12-25",
         "year": 1983,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/8/8a/Teresa_Teng_-_Dan_Dan_You_Qing.jpg",
         "genres": [
           "Mandopop",
           "Chinese Classical"
@@ -1818,7 +1818,7 @@
         "artistZh": "保罗·西蒙",
         "releaseDate": "12-25",
         "year": 1986,
-        "coverImage": "",
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/1/12/Paul_Simon_-_Graceland.jpg",
         "genres": [
           "Folk Rock",
           "World Music",
