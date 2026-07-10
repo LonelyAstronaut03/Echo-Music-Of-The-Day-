@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="每天三张专辑，发现音乐史上的今天。Every day, three albums released on this date in music history.">
+
+  <title>Everyday Music — 历史上的今天 · 每日专辑推荐</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:wght@300;400;500;700&family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+  <!-- Header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/" class="logo">
+        <span class="logo-icon">🎵</span>
+        <span class="logo-text">Everyday Music</span>
+      </a>
+      <nav class="header-nav">
+        <a href="#" class="nav-link active" id="nav-today" data-i18n="nav_today">今天</a>
+        <a href="#" class="nav-link" id="nav-about" data-i18n="nav_about">关于</a>
+        <button class="lang-toggle" id="lang-toggle" aria-label="Switch language">
+          <span class="lang-zh">中</span>
+          <span class="lang-divider">/</span>
+          <span class="lang-en">EN</span>
+        </button>
+      </nav>
+      <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Mobile Menu -->
+  <div class="mobile-menu" id="mobile-menu">
+    <a href="#" class="mobile-nav-link" data-i18n="nav_today">今天</a>
+    <a href="#" class="mobile-nav-link" data-i18n="nav_about">关于</a>
+    <button class="lang-toggle mobile-lang-toggle" id="mobile-lang-toggle">
+      <span class="lang-zh">中</span>
+      <span class="lang-divider">/</span>
+      <span class="lang-en">EN</span>
+    </button>
+  </div>
+
+  <!-- Main Content -->
+  <main>
+    <!-- Hero Section -->
+    <section class="hero" id="hero">
+      <div class="hero-content">
+        <p class="hero-subtitle" id="hero-subtitle" data-i18n="hero_subtitle">历史上的今天，这些专辑诞生了</p>
+        <h1 class="hero-date" id="hero-date">7月10日</h1>
+        <p class="hero-subtitle-en" id="hero-date-en">July 10</p>
+      </div>
+      <div class="hero-decoration">
+        <div class="vinyl-record"></div>
+      </div>
+    </section>
+
+    <!-- Albums Section -->
+    <section class="albums-section" id="albums-section">
+      <div class="albums-container" id="albums-container">
+        <!-- Album cards will be rendered by JS -->
+      </div>
+    </section>
+
+    <!-- Loading State -->
+    <div class="loading" id="loading">
+      <div class="loading-spinner"></div>
+      <p data-i18n="loading">正在寻找今天的专辑...</p>
+    </div>
+
+    <!-- Error State -->
+    <div class="error-state hidden" id="error-state">
+      <div class="error-icon">📡</div>
+      <h2 data-i18n="error_title">数据加载失败</h2>
+      <p data-i18n="error_desc">请检查网络连接或稍后再试</p>
+      <button class="btn-retry" id="btn-retry" data-i18n="error_retry">重新加载</button>
+    </div>
+
+    <!-- No Data State -->
+    <div class="empty-state hidden" id="empty-state">
+      <div class="empty-icon">📅</div>
+      <h2 data-i18n="empty_title">今天没有发行记录</h2>
+      <p data-i18n="empty_desc">明天再来看看吧，也许会有惊喜</p>
+    </div>
+
+    <!-- About Modal -->
+    <div class="modal-overlay hidden" id="about-modal">
+      <div class="modal-content about-modal">
+        <div class="modal-header">
+          <h3 data-i18n="about_title">关于 Everyday Music</h3>
+          <button class="modal-close" id="about-close">&times;</button>
+        </div>
+        <div class="about-body">
+          <p data-i18n="about_p1">Everyday Music 是一个每日音乐发现平台。我们每天推荐三张发行于当日的优质专辑，带你穿越音乐史的长河，发现那些诞生在历史上的今天的伟大作品。</p>
+          <p data-i18n="about_p2">三张专辑中，每天保证恰好一张来自华语乐坛，其余的精选自世界各地的优秀作品。我们注重搭配——既有你耳熟能详的经典，也有值得被更多人听到的冷门佳作。</p>
+          <p data-i18n="about_p3">我们不提供音乐播放功能，以规避版权问题。但我们为每张专辑提供详尽的介绍、艺术家趣事和音乐史背景，并附上流媒体链接，方便你去自己喜欢的平台收听。</p>
+          <p class="about-disclaimer" data-i18n="about_disclaimer">专辑数据由 AI 辅助整理，可能存在疏漏。如发现日期或信息错误，欢迎反馈纠错。</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-text">Built with ❤️ | Everyday Music &copy; 2026</p>
+      <p class="footer-sub" data-i18n="footer_sub">每天三张专辑，发现音乐史上的今天</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/utils.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
