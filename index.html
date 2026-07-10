@@ -25,6 +25,7 @@
       </a>
       <nav class="header-nav">
         <a href="#" class="nav-link active" id="nav-today" data-i18n="nav_today">今天</a>
+        <a href="#" class="nav-link" id="nav-birthday" data-i18n="nav_birthday">生日</a>
         <a href="#" class="nav-link" id="nav-about" data-i18n="nav_about">关于</a>
         <button class="lang-toggle" id="lang-toggle" aria-label="Switch language">
           <span class="lang-zh">中</span>
@@ -41,6 +42,7 @@
   <!-- Mobile Menu -->
   <div class="mobile-menu" id="mobile-menu">
     <a href="#" class="mobile-nav-link" data-i18n="nav_today">今天</a>
+    <a href="#" class="mobile-nav-link" data-i18n="nav_birthday">生日</a>
     <a href="#" class="mobile-nav-link" data-i18n="nav_about">关于</a>
     <button class="lang-toggle mobile-lang-toggle" id="mobile-lang-toggle">
       <span class="lang-zh">中</span>
@@ -89,6 +91,40 @@
       <div class="empty-icon">📅</div>
       <h2 data-i18n="empty_title">今天没有发行记录</h2>
       <p data-i18n="empty_desc">明天再来看看吧，也许会有惊喜</p>
+    </div>
+
+    <!-- Birthday Modal -->
+    <div class="modal-overlay hidden" id="birthday-modal">
+      <div class="modal-content birthday-modal">
+        <div class="modal-header">
+          <h3 data-i18n="birthday_title">你的生日，音乐的回声</h3>
+          <button class="modal-close" id="birthday-close">&times;</button>
+        </div>
+        <div class="birthday-body">
+          <p class="birthday-desc" data-i18n="birthday_desc">选择你的生日，看看那一天诞生了哪些音乐作品</p>
+          <div class="birthday-inputs">
+            <div class="birthday-select-group">
+              <label data-i18n="birthday_month">月</label>
+              <select id="bday-month"></select>
+            </div>
+            <div class="birthday-select-group">
+              <label data-i18n="birthday_day">日</label>
+              <select id="bday-day"></select>
+            </div>
+          </div>
+          <button class="btn-birthday-submit" id="btn-birthday-submit" data-i18n="birthday_submit">
+            看看这一天的音乐
+          </button>
+          <div class="birthday-loading hidden" id="birthday-loading">
+            <div class="loading-spinner"></div>
+            <p data-i18n="birthday_loading">正在为你准备生日惊喜...</p>
+          </div>
+          <div class="birthday-result hidden" id="birthday-result">
+            <div class="birthday-message" id="birthday-message"></div>
+            <div class="birthday-albums" id="birthday-albums"></div>
+          </div>
+        </div>
+      </div>
     </div>
 
     <!-- About Modal -->

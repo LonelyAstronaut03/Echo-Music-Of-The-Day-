@@ -42,7 +42,8 @@ const App = {
       link.addEventListener('click', (e) => {
         e.preventDefault();
         document.getElementById('mobile-menu').classList.remove('open');
-        if (i === 1) this.openAbout();
+        if (i === 1) this.openBirthday();
+        if (i === 2) this.openAbout();
       });
     });
 
@@ -50,6 +51,10 @@ const App = {
     document.getElementById('nav-today').addEventListener('click', (e) => {
       e.preventDefault();
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    document.getElementById('nav-birthday').addEventListener('click', (e) => {
+      e.preventDefault();
+      this.openBirthday();
     });
     document.getElementById('nav-about').addEventListener('click', (e) => {
       e.preventDefault();
@@ -67,9 +72,16 @@ const App = {
       if (e.target === e.currentTarget) this.closeAbout();
     });
 
+    // 生日模态
+    document.getElementById('birthday-close').addEventListener('click', () => this.closeBirthday());
+    document.getElementById('birthday-modal').addEventListener('click', (e) => {
+      if (e.target === e.currentTarget) this.closeBirthday();
+    });
+    document.getElementById('btn-birthday-submit').addEventListener('click', () => this.handleBirthdaySubmit());
+
     // 键盘：Escape 关闭模态
     document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') this.closeAbout();
+      if (e.key === 'Escape') { this.closeAbout(); this.closeBirthday(); }
     });
   },
 
@@ -404,6 +416,146 @@ const App = {
     const modal = document.getElementById('about-modal');
     modal.classList.add('hidden');
     document.body.style.overflow = '';
+  },
+
+  // ---- 生日功能 ----
+  openBirthday() {
+    const modal = document.getElementById('birthday-modal');
+    modal.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+
+    // 初始化选择器
+    const monthSel = document.getElementById('bday-month');
+    const daySel = document.getElementById('bday-day');
+    const lang = I18N.current;
+
+    if (monthSel.children.length === 0) {
+      const monthsZh = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
+      const monthsEn = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      for (let m = 1; m <= 12; m++) {
+        const opt = document.createElement('option');
+        opt.value = m;
+        opt.textContent = lang === 'zh' ? monthsZh[m-1] : monthsEn[m-1];
+        monthSel.appendChild(opt);
+      }
+      this.updateDaySelect(1);
+    }
+
+    // 重置状态
+    document.getElementById('birthday-result').classList.add('hidden');
+    document.getElementById('birthday-loading').classList.add('hidden');
+    document.getElementById('btn-birthday-submit').style.display = '';
+
+    monthSel.onchange = () => this.updateDaySelect(parseInt(monthSel.value));
+  },
+
+  updateDaySelect(month) {
+    const daySel = document.getElementById('bday-day');
+    daySel.innerHTML = '';
+    const days = new Date(2024, month, 0).getDate();
+    for (let d = 1; d <= days; d++) {
+      const opt = document.createElement('option');
+      opt.value = d;
+      opt.textContent = d + (I18N.current === 'zh' ? '日' : '');
+      daySel.appendChild(opt);
+    }
+  },
+
+  closeBirthday() {
+    const modal = document.getElementById('birthday-modal');
+    modal.classList.add('hidden');
+    document.body.style.overflow = '';
+  },
+
+  async handleBirthdaySubmit() {
+    const month = parseInt(document.getElementById('bday-month').value);
+    const day = parseInt(document.getElementById('bday-day').value);
+    const mmdd = `${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+
+    const submitBtn = document.getElementById('btn-birthday-submit');
+    const loading = document.getElementById('birthday-loading');
+    const result = document.getElementById('birthday-result');
+
+    submitBtn.style.display = 'none';
+    loading.classList.remove('hidden');
+    result.classList.add('hidden');
+
+    const entry = this.albumData[mmdd];
+    const albums = entry ? entry.items.slice(0, 3) : [];
+
+    // 生成生日祝福
+    const lang = I18N.current;
+    const dateStr = lang === 'zh'
+      ? `${month}月${day}日`
+      : `${['','Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][month]} ${day}`;
+
+    let message;
+    if (albums.length === 0) {
+      message = lang === 'zh'
+        ? `${dateStr}，是你的生日。这一天暂无收录的音乐作品，但每一天都独一无二——就像你一样。生日快乐！🎂`
+        : `${dateStr} is your birthday. No works on record for this day — but every day is unique, just like you. Happy birthday! 🎂`;
+    } else {
+      message = this.generateBirthdayMessage(dateStr, albums);
+    }
+
+    // 显示结果
+    loading.classList.add('hidden');
+    result.classList.remove('hidden');
+
+    document.getElementById('birthday-message').innerHTML = message.replace(/\n/g, '<br>');
+
+    const albumsDiv = document.getElementById('birthday-albums');
+    if (albums.length > 0) {
+      albumsDiv.innerHTML = albums.map(a => {
+        const title = lang === 'zh' ? (a.nameZh || a.name) : a.name;
+        const artist = lang === 'zh' ? (a.artistZh || a.artist) : a.artist;
+        return `<div class="birthday-album-item">
+          <span class="bai-icon">💿</span>
+          <span class="bai-name">${this.escapeHtml(title)} — <span class="bai-artist">${this.escapeHtml(artist)}</span> (${a.year})</span>
+        </div>`;
+      }).join('');
+    } else {
+      albumsDiv.innerHTML = '';
+    }
+  },
+
+  generateBirthdayMessage(dateStr, albums) {
+    const lang = I18N.current;
+
+    // 提取专辑名和关键词来构建温暖祝福
+    const names = albums.map(a => lang === 'zh' ? (a.nameZh || a.name) : a.name);
+    const artists = albums.map(a => lang === 'zh' ? (a.artistZh || a.artist) : a.artist);
+
+    // 从简介中提取温暖的关键词
+    const warmWords = ['爱', '梦想', '自由', '温暖', '光芒', '希望', '青春', '热情', '温柔', '勇敢', '坚持', '绽放', '旅程', '星辰', '彩虹', '阳光', '飞翔',
+      'love', 'dream', 'freedom', 'hope', 'light', 'shine', 'passion', 'courage', 'journey', 'star', 'heart', 'soul', 'spirit', 'rise'];
+
+    const allText = albums.map(a => (a.descriptionZh || '') + (a.descriptionEn || '')).join(' ').toLowerCase();
+    const found = warmWords.filter(w => allText.includes(w)).slice(0, 3);
+    const themes = found.length > 0 ? found : (lang === 'zh' ? ['美好', '独特', '精彩'] : ['beauty', 'wonder', 'joy']);
+
+    if (lang === 'zh') {
+      const nameList = names.map((n, i) => `《${n}》`).join('和');
+      const themeStr = themes.join('、');
+      const lines = [
+        `${dateStr}，是你的生日。`,
+        ``,
+        `在音乐的长河里，这一天同样闪耀——${artists[0]}的${nameList}，就在历史上的今天诞生。`,
+        `这些作品诉说着${themeStr}，就像每一个崭新的生命所带来的光芒。`,
+        `愿这些穿越时光的旋律，陪伴你的新一岁。生日快乐！🎂`
+      ];
+      return lines.join('\n');
+    } else {
+      const nameList = names.map((n, i) => `"${n}"`).join(' and ');
+      const themeStr = themes.join(', ');
+      const lines = [
+        `${dateStr} is your birthday.`,
+        ``,
+        `On this day in music history, ${nameList} by ${artists[0]} was born — songs that speak of ${themeStr}.`,
+        `May these melodies, echoing across time, accompany your new year. Happy birthday! 🎂`
+      ];
+      return lines.join('\n');
+    }
   },
 
   escapeHtml(str) {
