@@ -639,78 +639,6 @@
       }
     ]
   },
-  "07-10": {
-    "date": "07-10",
-    "items": [
-      {
-        "id": "beastie-boys-licensed-1986",
-        "name": "Licensed to Ill",
-        "nameZh": "获许可耍酷",
-        "artist": "Beastie Boys",
-        "artistZh": "野兽男孩",
-        "releaseDate": "07-10",
-        "year": 1986,
-        "coverImage": "",
-        "genres": [
-          "Hip-Hop",
-          "Rap Rock"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "type": "album",
-        "descriptionZh": "史上第一张登顶Billboard的嘻哈专辑。Rick Rubin制作，摇滚吉他融合说唱节奏。",
-        "descriptionEn": "First hip-hop album to top Billboard. Rick Rubin production fusing rock guitars with rap beats.",
-        "storiesZh": "Beastie Boys最初是硬核朋克乐队，做嘻哈纯因好玩。《Fight For Your Right》本是讽刺派对男孩文化——很多人当真了。",
-        "storiesEn": "Started as hardcore punk band, switched to hip-hop for fun. Fight For Your Right was satire — many took it literally.",
-        "links": {}
-      },
-      {
-        "id": "jay-chou-fantasy-plus-2001",
-        "name": "范特西Plus",
-        "nameZh": "范特西Plus",
-        "artist": "Jay Chou",
-        "artistZh": "周杰伦",
-        "releaseDate": "07-10",
-        "year": 2001,
-        "coverImage": "",
-        "genres": [
-          "Mandopop",
-          "R&B"
-        ],
-        "language": "chinese",
-        "languageZh": "华语",
-        "type": "album",
-        "descriptionZh": "周杰伦R&B、嘻哈、古典与中国风融合完全成熟。从录音室助理到重塑华语流行，传奇崛起。",
-        "descriptionEn": "Jay Chou fusion of R&B, hip-hop, classical, Chinese elements reached maturity. From studio assistant to reshaping Chinese pop.",
-        "storiesZh": "两年前还是睡在录音室地板的小助理。两年后终结了华语乐坛翻唱日韩歌曲的模式，开启原创为主的新纪元。",
-        "storiesEn": "Two years earlier: studio assistant sleeping on floor. Two years later: ended Chinese pop tradition of covering J-pop/K-pop.",
-        "links": {}
-      },
-      {
-        "id": "bjork-post-1995",
-        "name": "Post",
-        "nameZh": "邮递",
-        "artist": "Björk",
-        "artistZh": "比约克",
-        "releaseDate": "07-10",
-        "year": 1995,
-        "coverImage": "",
-        "genres": [
-          "Art Pop",
-          "Electronic",
-          "Trip Hop"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "type": "album",
-        "descriptionZh": "从狂暴《Army of Me》到华丽《It's Oh So Quiet》，每首歌都是一个独立世界。封面红色夹克成90年代最标志性视觉之一。",
-        "descriptionEn": "From ferocious Army of Me to gorgeous It's Oh So Quiet, each track is its own universe. Red jacket: most iconic 90s visual.",
-        "storiesZh": "录制期间经历邮包炸弹事件——迷恋她的粉丝寄来的。让Björk重新思考名人与粉丝的边界。",
-        "storiesEn": "During recording, experienced mail-bomb incident from obsessed fan. Made her rethink celebrity-fan boundary.",
-        "links": {}
-      }
-    ]
-  },
   "08-15": {
     "date": "08-15",
     "items": [
@@ -1210,6 +1138,6 @@
     "generated": "2026-07-10T11:51:37.905Z",
     "version": 5,
     "totalDays": 17,
-    "note": "Strictly accurate release dates. Items can be albums or singles. Max 3 per day. Each day has exactly 1 Chinese entry where possible."
+    "note": "Strictly verified dates. If uncertain, removed."
   }
 }
