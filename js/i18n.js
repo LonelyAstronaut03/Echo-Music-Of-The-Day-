@@ -18,6 +18,8 @@ const I18N = {
       hero_subtitle_fallback: '（附近日期）',
 
       // Album Card
+      type_album: '专辑',
+      type_single: '单曲',
       expand_story: '展开故事 ▼',
       collapse_story: '收起 ▲',
       links_wikipedia: 'Wikipedia',
@@ -68,6 +70,8 @@ const I18N = {
       hero_subtitle_fallback: '(nearby dates)',
 
       // Album Card
+      type_album: 'Album',
+      type_single: 'Single',
       expand_story: 'Read more ▼',
       collapse_story: 'Collapse ▲',
       links_wikipedia: 'Wikipedia',

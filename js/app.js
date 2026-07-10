@@ -104,60 +104,43 @@ const App = {
     this.currentDate = today;
     this.updateHero(today);
 
-    // 查找当天数据，不够则 fallback 前后 ±3 天
-    let entry = this.albumData[today];
-    let isFallback = false;
-
-    if (!entry) {
-      const nearby = getNearbyDates(today, 3);
-      for (const d of nearby) {
-        if (this.albumData[d]) {
-          entry = this.albumData[d];
-          isFallback = true;
-          break;
-        }
-      }
-    }
+    // 仅严格匹配当天日期，不 fallback
+    const entry = this.albumData[today];
 
     const container = document.getElementById('albums-container');
     const emptyState = document.getElementById('empty-state');
 
-    if (!entry || !entry.albums || entry.albums.length === 0) {
+    if (!entry || !entry.items || entry.items.length === 0) {
       container.innerHTML = '';
       emptyState.classList.remove('hidden');
       return;
     }
 
+    const items = entry.items.slice(0, 3); // 最多 3 个
+
     emptyState.classList.add('hidden');
 
-    const expandedAlbumId = preserveExpanded ? this.expandedCardId : null;
+    const expandedId = preserveExpanded ? this.expandedCardId : null;
 
-    container.innerHTML = entry.albums
-      .map((album, index) => this.renderAlbumCard(album, index, isFallback))
+    container.innerHTML = items
+      .map((item, index) => this.renderItemCard(item, index))
       .join('');
 
-    if (expandedAlbumId) {
-      this.expandCard(expandedAlbumId, false);
-    }
+    if (expandedId) this.expandCard(expandedId, false);
 
-    entry.albums.forEach((album) => this.bindCardEvents(album.id));
+    items.forEach((item) => this.bindCardEvents(item.id));
 
-    if (isFallback) {
-      const subtitle = document.getElementById('hero-subtitle');
-      if (subtitle) subtitle.textContent = I18N.t('hero_subtitle_fallback');
-    }
-
-    // JSONP 方式从 iTunes 加载封面（绕过 CORS）
-    this.loadCoversFromiTunes(entry.albums);
+    // JSONP 方式从 iTunes 加载封面
+    this.loadCoversFromiTunes(items);
 
   },
 
   /** JSONP 从 iTunes 搜索专辑封面（避免 CORS 限制） */
   loadCoversFromiTunes(albums) {
     albums.forEach((album) => {
-      const isChinese = album.language === 'chinese';
-      const searchArtist = isChinese ? (album.artistZh || album.artist) : album.artist;
-      const searchName = isChinese ? (album.nameZh || album.name) : album.name;
+      const isChinese = item.language === 'chinese';
+      const searchArtist = isChinese ? (item.artistZh || item.artist) : item.artist;
+      const searchName = isChinese ? (item.nameZh || item.name) : item.name;
 
       const cb = '_itunes' + Math.random().toString(36).slice(2);
       const query = encodeURIComponent(`${searchArtist} ${searchName}`);
@@ -169,7 +152,7 @@ const App = {
           if (data.results && data.results.length > 0) {
             const art = data.results[0].artworkUrl100;
             if (art) {
-              const img = document.querySelector(`.album-cover-img[data-album-id="${album.id}"]`);
+              const img = document.querySelector(`.album-cover-img[data-album-id="${item.id}"]`);
               if (img) {
                 img.src = art.replace(/\/\d+x\d+bb/, '/600x600bb');
               }
@@ -194,17 +177,17 @@ const App = {
   },
 
   /** 渲染单张专辑卡片 HTML */
-  renderAlbumCard(album, index, isFallback) {
-    const langTag = getLanguageTag(album);
+  renderItemCard(item, index) {
+    const langTag = getLanguageTag(item);
     const lang = I18N.current;
 
     // 非华语专辑始终显示原名，华语专辑中文界面显示中文名
-    const isChinese = album.language === 'chinese';
-    const title = (!isChinese) ? album.name : (lang === 'zh' ? (album.nameZh || album.name) : album.name);
-    const artist = (!isChinese) ? album.artist : (lang === 'zh' ? (album.artistZh || album.artist) : album.artist);
-    const description = I18N.getAlbumText(album, 'description') || '';
+    const isChinese = item.language === 'chinese';
+    const title = (!isChinese) ? item.name : (lang === 'zh' ? (item.nameZh || item.name) : item.name);
+    const artist = (!isChinese) ? item.artist : (lang === 'zh' ? (item.artistZh || item.artist) : item.artist);
+    const description = I18N.getAlbumText(item, 'description') || '';
 
-    const genreTags = album.genres
+    const genreTags = item.genres
       .map((g) => `<span class="tag tag-genre">${g}</span>`)
       .join('');
 
@@ -212,15 +195,15 @@ const App = {
     const languageTag = `<span class="tag tag-language">${langTag.emoji} ${langLabel}</span>`;
 
     let linksHTML = '';
-    if (album.links) {
-      if (album.links.wikipedia) {
-        linksHTML += `<a href="${album.links.wikipedia}" target="_blank" rel="noopener" class="btn-link" title="Wikipedia">📖 ${I18N.t('links_wikipedia')}</a>`;
+    if (item.links) {
+      if (item.links.wikipedia) {
+        linksHTML += `<a href="${item.links.wikipedia}" target="_blank" rel="noopener" class="btn-link" title="Wikipedia">📖 ${I18N.t('links_wikipedia')}</a>`;
       }
-      if (album.links.spotify) {
-        linksHTML += `<a href="${album.links.spotify}" target="_blank" rel="noopener" class="btn-link" title="Spotify">🎧 ${I18N.t('links_spotify')}</a>`;
+      if (item.links.spotify) {
+        linksHTML += `<a href="${item.links.spotify}" target="_blank" rel="noopener" class="btn-link" title="Spotify">🎧 ${I18N.t('links_spotify')}</a>`;
       }
-      if (album.links.douban) {
-        linksHTML += `<a href="${album.links.douban}" target="_blank" rel="noopener" class="btn-link" title="豆瓣">📚 ${I18N.t('links_douban')}</a>`;
+      if (item.links.douban) {
+        linksHTML += `<a href="${item.links.douban}" target="_blank" rel="noopener" class="btn-link" title="豆瓣">📚 ${I18N.t('links_douban')}</a>`;
       }
     }
 
@@ -239,11 +222,11 @@ const App = {
 
     // 封面图片：有 URL 就尝试加载，失败则保留 CSS 封面
     let coverImgHTML = '';
-    if (album.coverImage) {
+    if (item.coverImage) {
       coverImgHTML = `
           <img
             class="album-cover-img"
-            src="${this.escapeAttr(album.coverImage)}"
+            src="${this.escapeAttr(item.coverImage)}"
             alt="${this.escapeAttr(title)}"
             loading="lazy"
             referrerpolicy="no-referrer"
@@ -253,14 +236,14 @@ const App = {
     }
 
     return `
-      <article class="album-card" id="album-${album.id}">
+      <article class="album-card" id="album-${item.id}">
         <div class="album-cover-wrapper" style="background: ${coverGradient};">
           ${coverImgHTML}
           <div class="album-cover-art">
             <span class="cover-icon">${coverIcon}</span>
             <span class="cover-title">${this.escapeHtml(title)}</span>
             <span class="cover-artist">${this.escapeHtml(artist)}</span>
-            <span class="cover-year">${album.year}</span>
+            <span class="cover-year">${item.year}</span>
           </div>
           <div class="album-cover-overlay"></div>
         </div>
@@ -268,20 +251,20 @@ const App = {
         <div class="album-info">
           <h3 class="album-title">${this.escapeHtml(title)}</h3>
           <p class="album-artist">${this.escapeHtml(artist)}</p>
-          <p class="album-year">${album.year}</p>
+          <p class="album-year">${item.year}</p>
           <div class="album-tags">${languageTag}${genreTags}</div>
           <p class="album-description">${this.escapeHtml(description)}</p>
         </div>
 
         <div class="album-actions">
-          <button class="btn-expand" id="btn-expand-${album.id}">
+          <button class="btn-expand" id="btn-expand-${item.id}">
             ${I18N.t('expand_story')}
           </button>
           <div class="album-links">${linksHTML}</div>
         </div>
 
-        <div class="album-expanded" id="expanded-${album.id}">
-          <div class="album-expanded-inner" id="expanded-inner-${album.id}"></div>
+        <div class="album-expanded" id="expanded-${item.id}">
+          <div class="album-expanded-inner" id="expanded-inner-${item.id}"></div>
         </div>
       </article>
     `;
@@ -321,7 +304,7 @@ const App = {
 
     let album = null;
     for (const entry of Object.values(this.albumData)) {
-      const found = entry.albums.find((a) => a.id === albumId);
+      const found = entry.items.find((i) => i.id === albumId);
       if (found) { album = found; break; }
     }
     if (!album) return;
@@ -393,15 +376,15 @@ const App = {
     const lang = I18N.current;
     const sections = [];
 
-    const desc = I18N.getAlbumText(album, 'description');
+    const desc = I18N.getAlbumText(item, 'description');
     if (desc) {
       sections.push(`<div class="expanded-section"><h4>${I18N.t('section_intro')}</h4><p>${this.escapeHtml(desc)}</p></div>`);
     }
-    const stories = I18N.getAlbumText(album, 'stories');
+    const stories = I18N.getAlbumText(item, 'stories');
     if (stories) {
       sections.push(`<div class="expanded-section"><h4>${I18N.t('section_stories')}</h4><p>${this.escapeHtml(stories)}</p></div>`);
     }
-    const impact = I18N.getAlbumText(album, 'historicalImpact');
+    const impact = I18N.getAlbumText(item, 'historicalImpact');
     if (impact && impact.trim()) {
       sections.push(`<div class="expanded-section"><h4>${I18N.t('section_impact')}</h4><p>${this.escapeHtml(impact)}</p></div>`);
     }

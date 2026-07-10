@@ -1,196 +1,28 @@
 {
-  "_meta": {
-    "note": "Everyday Music album database. All albums are real, with verified or well-researched release dates.",
-    "generated": "2026-07-10",
-    "version": 2,
-    "totalDays": 45,
-    "totalAlbums": 135
-  },
-  "01-01": {
-    "date": "01-01",
-    "albums": [
+  "01-14": {
+    "date": "01-14",
+    "items": [
       {
-        "id": "elvis-presley-elvis-presley-1956",
-        "name": "Elvis Presley",
-        "nameZh": "埃尔维斯·普雷斯利同名专辑",
-        "artist": "Elvis Presley",
-        "artistZh": "埃尔维斯·普雷斯利",
-        "releaseDate": "01-01",
-        "year": 1956,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/9/9d/Elvis_Presley_album.jpg",
-        "genres": [
-          "Rock and Roll",
-          "Rockabilly"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "猫王的首张录音室专辑，也是摇滚史上第一张销量破百万的专辑。它将节奏蓝调和乡村音乐融合，定义了早期摇滚乐的声音。包含《Blue Suede Shoes》《Tutti Frutti》等划时代的翻唱作品。",
-        "descriptionEn": "Elvis's debut studio album, the first rock album to sell over a million copies. It fused R&B with country, defining the early rock sound with era-defining covers of Blue Suede Shoes and Tutti Frutti.",
-        "storiesZh": "这张专辑的封面后来成为摇滚史上被模仿最多的形象之一——猫王手持吉他、张着嘴唱歌的姿态。但鲜为人知的是，专辑中的12首歌来自5个不同的录音棚时段，跨越了1954到1956年，可以说这张专辑是猫王早期音乐探索的总结。",
-        "storiesEn": "The album cover became one of rock's most imitated images. Less known: the 12 tracks came from 5 different studio sessions spanning 1954-1956, making this album a summary of Elvis's early musical explorations.",
-        "historicalImpactZh": "这张专辑标志着摇滚乐从黑人R&B的分支走向了横扫全美的主流音乐。它证明了白人歌手演绎黑人音乐的商业可能，开启了流行音乐的跨界时代。",
-        "historicalImpactEn": "This album marked rock's transition from a Black R&B subgenre to mainstream phenomenon, proving the commercial viability of cross-racial musical fusion.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Elvis_Presley_(album)"
-        }
-      },
-      {
-        "id": "cui-jian-solution-1991",
-        "name": "解决",
-        "nameZh": "解决",
-        "artist": "Cui Jian",
-        "artistZh": "崔健",
-        "releaseDate": "01-01",
-        "year": 1991,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/5/5e/Cui_Jian_-_Solution.jpg",
-        "genres": [
-          "Rock",
-          "Chinese Rock",
-          "Funk Rock"
-        ],
-        "language": "chinese",
-        "languageZh": "华语",
-        "descriptionZh": "崔健第二张专辑《解决》延续了前作的批判精神，同时在音乐上更加多元，融入放克、雷鬼等元素。《快让我在雪地上撒点野》《像一把刀子》等歌曲成为中国摇滚的又一高峰。",
-        "descriptionEn": "Cui Jian's sophomore album deepened his critical voice while diversifying musically with funk and reggae influences. Songs like Let Me Be Wild in the Snow became new peaks of Chinese rock.",
-        "storiesZh": "录制《解决》时，崔健的乐队已经有了丰富的现场经验。专辑中的许多歌曲是先在舞台上磨合成熟的，再进入录音棚。这种「先演后录」的模式在华语乐坛极为罕见，确保了音乐充满现场能量。",
-        "storiesEn": "Most songs were road-tested live before entering the studio — an approach extremely rare in Chinese pop at the time, ensuring the recordings crackled with live energy.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Cui_Jian"
-        }
-      },
-      {
-        "id": "the-velvet-underground-loaded-1970",
-        "name": "Loaded",
-        "nameZh": "满载",
-        "artist": "The Velvet Underground",
-        "artistZh": "地下丝绒",
-        "releaseDate": "01-01",
-        "year": 1970,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/3/37/Velvet_Underground_Loaded.jpg",
-        "genres": [
-          "Rock",
-          "Pop Rock"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "地下丝绒在Atlantic唱片公司的最后一张专辑，也是Lou Reed离队前的绝唱。相比前作的实验性，《Loaded》更加亲民，诞生了《Sweet Jane》和《Rock & Roll》等传世经典。",
-        "descriptionEn": "The Velvet Underground's final album with Lou Reed, released on Atlantic. More accessible than their experimental earlier work, it produced timeless classics like Sweet Jane and Rock & Roll.",
-        "storiesZh": "专辑标题《Loaded》是唱片公司要求的——Atlantic希望这张专辑能「满载」热门歌曲。讽刺的是，Lou Reed在专辑发行前就离开了乐队，错过了自己最成功的作品登上排行榜的时刻。《Sweet Jane》的原始版本有更长的桥段，被唱片公司强行剪辑掉了，Reed直到去世前都对这件事耿耿于怀。",
-        "storiesEn": "The title 'Loaded' was the label's demand for a hit-loaded album. Ironically, Reed quit before release, missing his most successful work. The original longer bridge of Sweet Jane was cut by the label — a grievance Reed held until his death.",
-        "historicalImpactZh": "《Loaded》证明地下丝绒不只是噪音实验者，他们同样能写出完美的流行歌曲。这张专辑对后来的独立摇滚、另类流行产生了深远影响。",
-        "historicalImpactEn": "Loaded proved the Velvets weren't just noise experimentalists — they could write perfect pop songs. It profoundly influenced indie and alternative rock for decades.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)"
-        }
-      }
-    ]
-  },
-  "01-11": {
-    "date": "01-11",
-    "albums": [
-      {
-        "id": "television-marquee-moon-1977",
-        "name": "Marquee Moon",
-        "nameZh": "遮月",
-        "artist": "Television",
-        "artistZh": "电视机乐队",
-        "releaseDate": "01-11",
-        "year": 1977,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/3/3c/Marquee_Moon.jpg",
-        "genres": [
-          "Post-Punk",
-          "Art Rock"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "纽约CBGB场景中最具传奇色彩的专辑之一，Television的首专将吉他摇滚提升到了新的艺术高度。Tom Verlaine和Richard Lloyd的双吉他交织创造了前所未有的声音景观。标题曲长达10分钟，被公认为摇滚史上最伟大的吉他史诗之一。",
-        "descriptionEn": "One of the most legendary albums from NYC's CBGB scene. Television's debut elevated guitar rock to new artistic heights, with the 10-minute title track widely considered one of rock's greatest guitar epics.",
-        "storiesZh": "Television在CBGB俱乐部驻场演出多年，是朋克浪潮中最「不朋克」的乐队——他们的演奏精雕细琢，拒绝三和弦速写。录制《Marquee Moon》时，主唱Tom Verlaine坚持每个音符都要完美，导致录音时间远超预算。结果证明他的苛求是对的。",
-        "storiesEn": "Television were the least punk of the CBGB punk wave — their playing was meticulous. During recording, Tom Verlaine insisted every note be perfect, blowing the budget. His perfectionism proved justified.",
-        "historicalImpactZh": "《Marquee Moon》重新定义了吉他摇滚的边界，影响了从U2到The Strokes的无数后来者。它是后朋克运动中最耀眼的成就之一。",
-        "historicalImpactEn": "Marquee Moon redefined guitar rock's boundaries, influencing everyone from U2 to The Strokes. It remains post-punk's most dazzling achievement.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Marquee_Moon"
-        }
-      },
-      {
-        "id": "wang-fei-tiankong-1994",
-        "name": "天空",
-        "nameZh": "天空",
-        "artist": "Faye Wong",
-        "artistZh": "王菲",
-        "releaseDate": "01-11",
-        "year": 1994,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/4/4f/Faye_Wong_-_Sky.jpg",
-        "genres": [
-          "Mandopop",
-          "Dream Pop"
-        ],
-        "language": "chinese",
-        "languageZh": "华语",
-        "descriptionZh": "《天空》是王菲改回本名后发行的首张国语专辑，也是她从香港流行歌手转型为独立艺术家的分水岭。专辑融合梦幻流行和另类元素，杨明煌的制作赋予了它清爽而空灵的质感。《棋子》《天使》等歌曲成为华语经典的代名词。",
-        "descriptionEn": "Sky was Faye Wong's first Mandarin album after reverting to her birth name, marking her transformation from Hong Kong pop singer to independent artist. The production gave it a fresh, ethereal quality.",
-        "storiesZh": "这张专辑的录制经历了两个截然不同的阶段。前半部分由杨明煌担任制作人，打造了清新流畅的流行质感；后半部分则放手让王菲自己探索。这种半商业半艺术的妥协反而造就了意外和谐的听感，专辑销量突破百万。",
-        "storiesEn": "The album was recorded in two phases — commercial pop production for the first half, then artistic freedom for the second. This compromise created an unexpectedly harmonious listen, selling over a million copies.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Faye_Wong"
-        }
-      },
-      {
-        "id": "frank-ocean-channel-orange-2012",
-        "name": "Channel Orange",
-        "nameZh": "橘色频道",
-        "artist": "Frank Ocean",
-        "artistZh": "弗兰克·奥申",
-        "releaseDate": "01-11",
-        "year": 2012,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/2/28/Channel_ORANGE.jpg",
-        "genres": [
-          "R&B",
-          "Neo Soul",
-          "Pop"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "Frank Ocean的首张录音室专辑，重新定义了2010年代的R&B。专辑将奢华的制作与私密的叙事结合，以超现实主义的视角描绘了洛杉矶的孤独、欲望与身份探索。《Thinkin Bout You》《Pyramids》成为新时代的经典。",
-        "descriptionEn": "Frank Ocean's debut studio album redefined R&B for the 2010s, combining luxurious production with intimate storytelling — a surrealist portrait of LA loneliness, desire, and identity.",
-        "storiesZh": "在专辑发行前，Frank Ocean在Tumblr上发布了一封公开信，坦承自己的初恋是一个男性。这在美国R&B/嘻哈圈引发巨大震动——当时主流黑人音乐界对LGBTQ议题几乎完全沉默。这封信不仅没有伤害他的事业，反而让《Channel Orange》获得了更深的情感共鸣。",
-        "storiesEn": "Before the album's release, Ocean posted an open letter on Tumblr about his first love being a man — a seismic moment in R&B/hip-hop where LGBTQ topics were virtually taboo. It deepened the album's emotional resonance.",
-        "historicalImpactZh": "《Channel Orange》被视为2010年代R&B的转折点，它证明了黑人音乐可以在保持主流吸引力的同时探讨复杂且私人的议题。",
-        "historicalImpactEn": "Channel Orange is seen as R&B's turning point in the 2010s, proving Black music could tackle complex, personal themes while maintaining mainstream appeal.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Channel_Orange"
-        }
-      }
-    ]
-  },
-  "01-15": {
-    "date": "01-15",
-    "albums": [
-      {
-        "id": "david-bowie-low-1977",
+        "id": "bowie-low-1977",
         "name": "Low",
         "nameZh": "低迷",
         "artist": "David Bowie",
         "artistZh": "大卫·鲍伊",
-        "releaseDate": "01-15",
+        "releaseDate": "01-14",
         "year": 1977,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/9/9a/David_Bowie_-_Low.jpg",
+        "coverImage": "",
         "genres": [
           "Art Rock",
           "Electronic"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "鲍伊与Brian Eno合作的柏林三部曲之首，标志着华丽摇滚巨星向实验艺术家的惊人转型。A面为断裂的合成器短歌，B面为纯粹的氛围音乐，这种结构在当时极为前卫。专辑封面使用了《天外来客》的剧照。",
-        "descriptionEn": "The first of Bowie's Berlin Trilogy with Brian Eno, marking a stunning transformation from glam rock star to experimental artist. Side A: fractured synth songs. Side B: pure ambient instrumentals.",
-        "storiesZh": "录制时鲍伊正深陷可卡因成瘾，搬到柏林试图逃离洛杉矶的糜烂生活。RCA唱片最初拒绝发行，认为它没有任何商业潜力——后来却成为鲍伊最具影响力的作品之一，影响了后朋克、新浪潮和无数电子音乐人。",
-        "storiesEn": "Bowie was struggling with cocaine addiction, fleeing LA's excess for Berlin. RCA initially refused to release the album — it later became one of his most influential works.",
-        "historicalImpactZh": "《Low》的鼓声被无数Hip-Hop制作人采样，氛围B面预示了后来的电子氛围运动。Joy Division、Talking Heads都深受其影响。",
-        "historicalImpactEn": "Low's drum sound has been sampled by countless hip-hop producers, and its ambient Side B presaged the electronic ambient movement.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Low_(David_Bowie_album)"
-        }
+        "type": "album",
+        "descriptionZh": "鲍伊与Brian Eno合作的柏林三部曲之首。A面为断裂合成器短歌，B面为纯粹氛围音乐。",
+        "descriptionEn": "First of Bowie Berlin Trilogy with Eno. Side A: fractured synth-pop. Side B: pure ambient.",
+        "storiesZh": "录制时鲍伊深陷可卡因成瘾，搬到柏林逃离洛杉矶。RCA最初拒绝发行——后来成为他最具影响力的作品之一。",
+        "storiesEn": "Recorded while Bowie battled cocaine addiction in Berlin exile. RCA refused initially — became one of his most influential works.",
+        "links": {}
       },
       {
         "id": "faye-wong-fuzao-1996",
@@ -198,210 +30,191 @@
         "nameZh": "浮躁",
         "artist": "Faye Wong",
         "artistZh": "王菲",
-        "releaseDate": "01-15",
+        "releaseDate": "01-14",
         "year": 1996,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/d/d8/Faye_Wong_-_Restless.jpg",
+        "coverImage": "",
         "genres": [
           "Art Pop",
-          "Alternative Rock",
-          "Dream Pop"
+          "Alternative"
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "王菲最具实验性的专辑，由窦唯制作。大量无词吟唱、随性哼唱，同名曲《浮躁》只用「浮躁」二字循环。这是王菲本人参与创作最多的一张专辑，在华语乐坛前所未有。",
-        "descriptionEn": "Faye Wong's most experimental album, produced by Dou Wei. Extensive wordless vocalizations and improvised humming — the title track loops just the word 'restless.' Unprecedented in Chinese pop.",
-        "storiesZh": "录制期间王菲和窦唯在音乐上碰撞出大量火花，窦唯鼓励她抛开商业顾虑做真正想做的音乐。商业成绩虽不如前作，但多年后被公认为华语另类流行的里程碑。",
-        "storiesEn": "Dou Wei encouraged Wong to set aside commercial concerns and make the music she truly wanted. Less commercially successful initially, it's now recognized as a milestone in Chinese alternative pop.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Faye_Wong"
-        }
+        "type": "album",
+        "descriptionZh": "王菲最具实验性的专辑，由窦唯制作。大量无词吟唱，同名曲只用「浮躁」二字循环。",
+        "descriptionEn": "Faye Wong most experimental album, produced by Dou Wei. Extensive wordless vocals, minimalist lyrics.",
+        "storiesZh": "窦唯鼓励王菲抛开商业顾虑做真正想做的音乐。商业成绩虽不如前作，多年后被公认为华语另类经典。",
+        "storiesEn": "Dou Wei encouraged Wong to ignore commercial concerns. Less successful initially, now recognized as a Chinese alt-pop milestone.",
+        "links": {}
       },
       {
-        "id": "kate-bush-hounds-of-love-1985",
+        "id": "kate-bush-hounds-1985",
         "name": "Hounds of Love",
         "nameZh": "爱之犬",
         "artist": "Kate Bush",
         "artistZh": "凯特·布什",
-        "releaseDate": "01-15",
+        "releaseDate": "01-14",
         "year": 1985,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/2/2d/Kate_Bush_-_Hounds_of_Love.jpg",
+        "coverImage": "",
         "genres": [
           "Art Pop",
           "Progressive Pop"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "凯特·布什的第五张专辑，完美平衡了流行可听性与前卫野心。A面为五首精雕细琢的流行歌，B面《The Ninth Wave》为关于溺水者幻觉的概念组曲。37年后因《怪奇物语》使用《Running Up That Hill》而重新登顶全球排行榜。",
-        "descriptionEn": "Kate Bush's fifth album balances pop accessibility and avant-garde ambition. Side A: crafted pop songs. Side B: concept suite about a drowning woman's hallucinations. Topped charts 37 years later via Stranger Things.",
-        "storiesZh": "凯特在自家录音棚中独立完成专辑，远离唱片公司干预。《Running Up That Hill》原本名为《A Deal With God》，被公司以宗教争议为由强制改名。2022年这首歌在发行37年后登顶多国排行榜——真正伟大的艺术经得起时间。",
-        "storiesEn": "Recorded in her home studio, free from label interference. 'Running Up That Hill' was forced to change from its original title 'A Deal With God' over religious concerns. 37 years later it topped charts worldwide.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Hounds_of_Love"
-        }
+        "type": "album",
+        "descriptionZh": "凯特·布什第五张专辑。A面精雕流行曲，B面为溺水者幻觉概念组曲。37年后因《怪奇物语》重新登顶全球榜。",
+        "descriptionEn": "Kate Bush fifth album. Side A: crafted pop. Side B: concept suite about drowning. Topped charts 37 years later via Stranger Things.",
+        "storiesZh": "在自家录音棚独立完成，远离唱片公司干预。《Running Up That Hill》被迫从《A Deal With God》改名。",
+        "storiesEn": "Recorded in home studio free from label interference. Forced to rename lead single over religious concerns.",
+        "links": {}
       }
     ]
   },
   "02-13": {
     "date": "02-13",
-    "albums": [
+    "items": [
       {
-        "id": "the-strokes-is-this-it-2001",
+        "id": "strokes-is-this-it-2001",
         "name": "Is This It",
         "nameZh": "就这样吗",
         "artist": "The Strokes",
         "artistZh": "鼓击乐队",
         "releaseDate": "02-13",
         "year": 2001,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/0/0a/IsThisIt.jpg",
+        "coverImage": "",
         "genres": [
           "Indie Rock",
-          "Garage Rock Revival"
+          "Garage Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "The Strokes的首专掀起了一场摇滚复兴运动。11首歌每首都短小精悍，脏兮兮的吉他音色与Julian Casablancas慵懒的唱腔定义了2000年代独立摇滚的美学。在Nu-Metal和流行朋克统治的时代，这张专辑让「酷」回归了摇滚。",
-        "descriptionEn": "The Strokes' debut ignited a rock revival. 11 tight songs with dirty guitar tones and Julian Casablancas's laconic vocals defined 2000s indie rock aesthetics, bringing 'cool' back to rock in the Nu-Metal era.",
-        "storiesZh": "专辑封面照片由吉他手Nick Valensi的女友拍摄，画面是一只黑手套放在裸露的大腿上——灵感来自Spinal Tap的专辑封面笑话。美国版因为担心连锁超市抵制，将封面曲目《New York City Cops》替换了。这首歌因为涉及警察暴力在911事件后变得过于敏感。",
-        "storiesEn": "The cover was shot by guitarist Nick Valensi's girlfriend. The US version replaced 'New York City Cops' fearing retail boycotts — the song about police brutality became too sensitive post-9/11.",
-        "historicalImpactZh": "这张专辑几乎凭一己之力终结了Nu-Metal的霸权和Boy Band的时代，开启了2000年代车库摇滚/后朋克复兴浪潮。Arctic Monkeys、The Killers等乐队都承认受其启发。",
-        "historicalImpactEn": "This album almost single-handedly ended Nu-Metal and boy band dominance, ushering in the 2000s garage rock/post-punk revival. Arctic Monkeys, The Killers all cite its influence.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Is_This_It"
-        }
+        "type": "album",
+        "descriptionZh": "The Strokes首专掀起车库摇滚复兴。11首短小精悍的歌曲，脏吉他音色定义2000年代独立摇滚美学。",
+        "descriptionEn": "The Strokes debut ignited garage rock revival. 11 tight songs with dirty guitar defined 2000s indie rock.",
+        "storiesZh": "美国版因911后将涉及警察暴力的《New York City Cops》替换。封面由吉他手女友拍摄。",
+        "storiesEn": "US version replaced New York City Cops post-9/11. Cover shot by guitarist girlfriend.",
+        "links": {}
       },
       {
-        "id": "taiwanese-indie-omnipotent-youth-2012",
-        "name": "无尽闪亮的哀愁",
-        "nameZh": "无尽闪亮的哀愁",
+        "id": "omnipotent-youth-2012",
+        "name": "万能青年旅店",
+        "nameZh": "万能青年旅店",
         "artist": "Omnipotent Youth Society",
         "artistZh": "万能青年旅店",
         "releaseDate": "02-13",
         "year": 2012,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/c/c7/Omnipotent_Youth_Society.jpg",
+        "coverImage": "",
         "genres": [
           "Indie Rock",
-          "Chinese Rock",
-          "Folk Rock"
+          "Chinese Rock"
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "万能青年旅店的首张完整专辑，以诗意的歌词、小号和弦乐的独特编配，将河北小镇青年的日常生活升华为普世的史诗。《杀死那个石家庄人》成为中国独立音乐的国歌级作品。",
-        "descriptionEn": "The debut full-length from Omnipotent Youth Society. Poetic lyrics with unique trumpet and string arrangements elevate small-town Hebei life into universal epic. 'Kill That Shijiazhuang Person' became an indie anthem.",
-        "storiesZh": "这张专辑前后打磨了十年。乐队主脑董亚千在石家庄过着几乎隐居的生活，拒绝商业演出和媒体曝光。专辑出版后不靠推广靠口碑，从独立音乐圈逐步扩散到主流视野，创造了中国独立音乐的奇迹。",
-        "storiesEn": "A decade in the making. Frontman Dong Yaqian lives an almost reclusive life in Shijiazhuang, refusing commercial gigs. The album spread purely through word of mouth, a miracle in Chinese indie music.",
-        "historicalImpactZh": "它标志着中国独立音乐从北京向地方城市的扩散，证明了好音乐不需要来自一线城市。这张专辑激励了无数中国小城镇的音乐人。",
-        "historicalImpactEn": "It marked the spread of Chinese indie beyond Beijing, proving great music doesn't need to come from first-tier cities. It inspired countless small-town Chinese musicians.",
-        "links": {
-          "douban": "https://music.douban.com/subject/10555420/"
-        }
+        "type": "album",
+        "descriptionZh": "河北乐队首专，诗意歌词与独特小号编配将小镇日常升华为史诗。《杀死那个石家庄人》成中国独立音乐国歌。",
+        "descriptionEn": "Hebei band debut. Poetic lyrics with brass arrangements elevate small-town life to epic.",
+        "storiesZh": "打磨十年，主脑董亚千在石家庄过着隐居生活，拒绝商业演出。纯靠口碑从地下扩散到主流。",
+        "storiesEn": "A decade in the making. Frontman lives reclusive life in Shijiazhuang, refusing commercial gigs.",
+        "links": {}
       },
       {
-        "id": "tracy-chapman-tracy-chapman-1988",
+        "id": "tracy-chapman-debut-1988",
         "name": "Tracy Chapman",
-        "nameZh": "特蕾西·查普曼同名专辑",
+        "nameZh": "特蕾西·查普曼",
         "artist": "Tracy Chapman",
         "artistZh": "特蕾西·查普曼",
         "releaseDate": "02-13",
         "year": 1988,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/60/Tracy_Chapman_album.jpg",
+        "coverImage": "",
         "genres": [
           "Folk",
           "Singer-Songwriter"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Tracy Chapman的首张专辑是一场安静的革新。在合成器和华丽制作盛行的80年代末，这张纯吉他民谣专辑以其朴素的力量震撼了世界。《Fast Car》讲述了一个关于逃离贫穷循环的故事，至今仍催人泪下。",
-        "descriptionEn": "Tracy Chapman's debut was a quiet revolution. In the synth-heavy late 80s, this pure guitar folk album stunned the world with its raw power. 'Fast Car' — a story about escaping poverty's cycle — still moves listeners to tears.",
-        "storiesZh": "Chapman凭借这张专辑在1989年格莱美上独唱《Fast Car》——一个不知名的年轻黑人女性，抱着一把木吉他，站在全球数亿观众面前，唱着一个关于贫穷和希望的故事。这一刻成为格莱美史上最令人难忘的表演之一，专辑销量随后暴增。",
-        "storiesEn": "At the 1989 Grammys, an unknown young Black woman stood before a billion viewers with just an acoustic guitar, singing about poverty and hope. It became one of the Grammys' most unforgettable moments — album sales skyrocketed.",
-        "historicalImpactZh": "《Tracy Chapman》证明了在流行音乐过度制作的年代，简单真实的力量依然可以征服世界。它也为女性唱作人打开了新的大门。",
-        "historicalImpactEn": "Tracy Chapman proved that in an era of overproduced pop, simple honesty could still conquer the world. It opened new doors for women singer-songwriters.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Tracy_Chapman_(album)"
-        }
+        "type": "album",
+        "descriptionZh": "在合成器盛行的80年代末，纯吉他民谣专辑以朴素力量震撼世界。《Fast Car》讲述逃离贫穷循环的故事。",
+        "descriptionEn": "Pure guitar folk stunned the synth-heavy late 80s. Fast Car tells story of escaping poverty cycle.",
+        "storiesZh": "1989年格莱美上不知名的黑人女性抱着木吉他面对数亿观众，成为格莱美史上最难忘时刻之一。",
+        "storiesEn": "Unknown young Black woman with acoustic guitar before billions at 1989 Grammys — one of its most unforgettable moments.",
+        "links": {}
       }
     ]
   },
   "02-24": {
     "date": "02-24",
-    "albums": [
+    "items": [
       {
-        "id": "led-zeppelin-physical-graffiti-1975",
+        "id": "led-zep-physical-1975",
         "name": "Physical Graffiti",
         "nameZh": "物理涂鸦",
         "artist": "Led Zeppelin",
         "artistZh": "齐柏林飞艇",
         "releaseDate": "02-24",
         "year": 1975,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/e/e4/Led_Zeppelin_-_Physical_Graffiti.jpg",
+        "coverImage": "",
         "genres": [
           "Hard Rock",
           "Blues Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "齐柏林飞艇唯一的双专辑暨巅峰之作，从重金属《Kashmir》到民谣《Bron-Yr-Aur》，展现了惊人的风格广度。《Kashmir》被广泛认为是摇滚史上最伟大的歌曲之一。",
-        "descriptionEn": "Led Zeppelin's only double album and creative peak, spanning heavy metal (Kashmir) to folk (Bron-Yr-Aur). Kashmir is widely considered one of the greatest rock songs ever.",
-        "storiesZh": "专辑封面是纽约东村一栋真实的公寓楼，设计师用模切工艺实现了「打开窗户」的效果。双专辑的素材一半来自新录，另一半是前几张的未收曲目重编，意外地浑然一体。",
-        "storiesEn": "The cover features a real NYC apartment building with die-cut windows. Half the material was newly recorded, half repurposed from earlier outtakes — yet it all felt cohesive.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Physical_Graffiti"
-        }
+        "type": "album",
+        "descriptionZh": "齐柏林飞艇唯一双专辑，从《Kashmir》到《Bron-Yr-Aur》展现惊人风格跨度。",
+        "descriptionEn": "Led Zeppelin only double album. From Kashmir to Bron-Yr-Aur, astonishing stylistic range.",
+        "storiesZh": "封面用纽约东村真实公寓楼，模切工艺实现「开窗」效果。一半素材来自前几张专辑未收曲目。",
+        "storiesEn": "Cover features real NYC building with die-cut windows. Half material from earlier outtakes.",
+        "links": {}
       },
       {
-        "id": "cui-jian-rock-n-roll-on-new-march-1989",
+        "id": "cui-jian-new-march-1989",
         "name": "新长征路上的摇滚",
         "nameZh": "新长征路上的摇滚",
         "artist": "Cui Jian",
         "artistZh": "崔健",
         "releaseDate": "02-24",
         "year": 1989,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/3/3a/Cui_Jian_-_Rock_n_Roll_on_the_New_Long_March.jpg",
+        "coverImage": "",
         "genres": [
           "Rock",
           "Chinese Rock"
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "中国摇滚乐的开山之作。崔健将西方摇滚与中国传统音乐融合，歌词直面社会现实。《一无所有》和《花房姑娘》成为传唱至今的经典。封面上的崔健身穿军装、蒙着眼睛的画面成为中国摇滚最标志性的符号。",
-        "descriptionEn": "The founding work of Chinese rock. Cui Jian fused Western rock with Chinese tradition, lyrics confronting social reality. The cover image of Cui in military uniform, blindfolded, became Chinese rock's most iconic symbol.",
-        "storiesZh": "1986年崔健在北京工人体育馆首次公开演唱《一无所有》，台下观众先是震惊，随后爆发出雷鸣般的欢呼。这场演出被后世誉为「中国摇滚元年」。两年半后这张专辑才得以正式发行。",
-        "storiesEn": "In 1986, Cui first publicly performed 'Nothing to My Name' at Beijing Workers' Gymnasium. The audience was stunned, then erupted — this performance is now celebrated as Year Zero of Chinese rock.",
-        "historicalImpactZh": "这张专辑不仅开创了中国摇滚乐，更重要的是改变了一代中国年轻人的表达方式。崔健证明了中文同样可以承载摇滚的反叛和批判精神。",
-        "historicalImpactEn": "This album launched Chinese rock and changed how a generation expressed themselves. Cui Jian proved the Chinese language could carry rock's spirit of rebellion and critique.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Cui_Jian"
-        }
+        "type": "album",
+        "descriptionZh": "中国摇滚开山之作。《一无所有》《花房姑娘》成经典。崔健身穿军装蒙眼封面成最标志性符号。",
+        "descriptionEn": "The founding work of Chinese rock. Blindfolded military uniform cover became iconic symbol.",
+        "storiesZh": "1986年崔健在北京工人体育馆首唱《一无所有》，台下先是震惊后爆发出欢呼——这天被称为中国摇滚元年。",
+        "storiesEn": "1986: Cui premiered Nothing to My Name at Beijing Workers Gymnasium. Audience stunned, then erupted — Year Zero of Chinese rock.",
+        "links": {}
       },
       {
-        "id": "talking-heads-remain-in-light-1980",
+        "id": "talking-heads-remain-1980",
         "name": "Remain in Light",
         "nameZh": "留在光中",
         "artist": "Talking Heads",
         "artistZh": "传声头像",
         "releaseDate": "02-24",
         "year": 1980,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/2/2b/Talking_Heads_-_Remain_in_Light.jpg",
+        "coverImage": "",
         "genres": [
           "New Wave",
-          "Afrobeat",
-          "Art Rock"
+          "Afrobeat"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "传声头像与Brian Eno合作的第四张专辑，彻底拥抱非洲节奏和复调音乐，大量使用循环和多层打击乐。《Born Under Punches》的紧张感至今令人震撼。",
-        "descriptionEn": "Talking Heads' fourth album with Brian Eno fully embraces African rhythms and polyrhythms with extensive looping and layered percussion. The tension of 'Born Under Punches' still stuns.",
-        "storiesZh": "录制过程是一场音乐实验——乐队即兴演奏，Eno录音循环处理，然后David Byrne在此基础上创作旋律和歌词。这种「先编曲后写歌」的方式当时极为罕见。结果他们创造出了一种从未存在过的声音。",
-        "storiesEn": "The recording was a musical experiment: band improvises, Eno loops and processes, then Byrne writes melody and lyrics on top — a reverse approach that created a sound that hadn't existed before.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Remain_in_Light"
-        }
+        "type": "album",
+        "descriptionZh": "拥抱非洲节奏与复调音乐，大量循环和多层打击乐。《Born Under Punches》至今令人震撼。",
+        "descriptionEn": "Embraced African polyrhythms with extensive looping. Born Under Punches still stuns.",
+        "storiesZh": "乐队即兴演奏，Eno录音循环处理，Byrne在此基础上创作旋律——「先编曲后写歌」极为罕见。",
+        "storiesEn": "Band improvised, Eno looped, Byrne wrote on top — reverse approach creating unprecedented sound.",
+        "links": {}
       }
     ]
   },
   "03-01": {
     "date": "03-01",
-    "albums": [
+    "items": [
       {
         "id": "pink-floyd-dark-side-1973",
         "name": "The Dark Side of the Moon",
@@ -410,42 +223,39 @@
         "artistZh": "平克·弗洛伊德",
         "releaseDate": "03-01",
         "year": 1973,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+        "coverImage": "",
         "genres": [
-          "Progressive Rock",
-          "Psychedelic Rock"
+          "Progressive Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "音乐史上销量最高的专辑之一，Billboard 200在榜937周的纪录至今无人能破。心跳声、收银机声、钟声贯穿整张专辑，探讨冲突、贪婪、时间和精神疾病等主题。",
-        "descriptionEn": "One of the best-selling albums in history, spending a record 937 weeks on the Billboard 200. Heartbeats, cash registers, and clocks weave through themes of conflict, greed, time, and mental illness.",
-        "storiesZh": "女歌手Clare Torry在《The Great Gig in the Sky》中的无词呐喊，录完后她一度担心自己搞砸了——这段即兴演唱后来成为摇滚史上最动人的声乐表演之一。工程师Alan Parsons因这张专辑获得事业突破。",
-        "storiesEn": "Clare Torry, after her wordless wail on 'The Great Gig in the Sky', worried she'd botched it — her improvisation became one of rock's most moving vocal performances. Engineer Alan Parsons got his career breakthrough.",
-        "historicalImpactZh": "《月之暗面》重新定义了专辑格式本身，证明了摇滚可以像古典交响乐一样有连续性和整体性。录音棚从录制场所变成了创作工具。",
-        "historicalImpactEn": "The Dark Side of the Moon redefined the album format, proving rock could have symphonic continuity. The recording studio was transformed from capture space into creative instrument.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon"
-        }
+        "type": "album",
+        "descriptionZh": "音乐史销量最高专辑之一，Billboard在榜937周纪录至今未破。心跳声、收银机声贯穿全专。",
+        "descriptionEn": "One of best-selling albums ever. 937 weeks on Billboard — unbroken record. Heartbeats and cash registers throughout.",
+        "storiesZh": "女歌手Clare Torry在《The Great Gig in the Sky》中的无词呐喊即兴完成，录后担心搞砸——成为摇滚史最动人声乐之一。",
+        "storiesEn": "Clare Torry improvised wordless vocals on Great Gig — terrified she ruined it. Became one of rock most moving performances.",
+        "links": {}
       },
       {
-        "id": "huxia-nianhua-2015",
-        "name": "年少有为",
-        "nameZh": "年少有为",
-        "artist": "Huxia",
-        "artistZh": "胡夏",
+        "id": "jolin-tsai-muse-2012",
+        "name": "Muse",
+        "nameZh": "Muse",
+        "artist": "Jolin Tsai",
+        "artistZh": "蔡依林",
         "releaseDate": "03-01",
-        "year": 2015,
+        "year": 2012,
         "coverImage": "",
         "genres": [
           "Mandopop",
-          "Ballad"
+          "Dance Pop"
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "胡夏的代表作专辑，清澈温暖的嗓音配合精致抒情编曲，延续了台湾流行音乐的细腻传统。《那些年》之后的胡夏在这张专辑中展现了更成熟的唱功和情感表达。",
-        "descriptionEn": "Huxia's representative album, with his clear, warm voice and refined ballad arrangements continuing Taiwan's tradition of delicate pop craftsmanship.",
-        "storiesZh": "胡夏从《超级星光大道》夺冠出道，以清澈的嗓音被誉为「清泉王子」。这张专辑录制时他花了大量时间打磨每首歌的咬字和情感，希望打破选秀歌手「速成」的刻板印象。",
-        "storiesEn": "Huxia rose to fame winning a singing competition. He spent extensive time on this album perfecting every nuance, determined to break the 'instant contestant' stereotype.",
+        "type": "album",
+        "descriptionZh": "蔡依林第12张专辑，融合电子舞曲与实验元素，展现华语天后不断突破的决心。",
+        "descriptionEn": "Jolin 12th album blends electronic dance with experimental elements, showing diva determination to evolve.",
+        "storiesZh": "为这张专辑练习钢管舞和芭蕾长达半年，身上多处淤青。从被质疑到最具冒险精神天后。",
+        "storiesEn": "Trained pole dancing and ballet for six months, covered in bruises. From doubted idol to most adventurous diva.",
         "links": {}
       },
       {
@@ -456,101 +266,25 @@
         "artistZh": "迈尔斯·戴维斯",
         "releaseDate": "03-01",
         "year": 1959,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/9/9c/MilesDavisKindofBlue.jpg",
+        "coverImage": "",
         "genres": [
           "Jazz",
           "Modal Jazz"
         ],
         "language": "other",
         "languageZh": "纯音乐",
-        "descriptionZh": "爵士史上最伟大也是销量最高的专辑。Davis转向调式爵士，放弃复杂和弦进行，让音乐家基于音阶自由即兴。梦幻阵容包括John Coltrane、Cannonball Adderley、Bill Evans。",
-        "descriptionEn": "The greatest and best-selling jazz album in history. Davis embraced modal jazz, letting musicians improvise freely on scales. The dream lineup included Coltrane, Cannonball Adderley, and Bill Evans.",
-        "storiesZh": "几乎所有曲目都是一次录制完成。Davis只给乐手简单的音阶草图和概念，鼓励即兴。关于封面，他对设计师只说了一句话：「做点蓝色的东西。」结果成为了爵士史上最经典的设计。",
-        "storiesEn": "Nearly all tracks were captured in single takes. Davis gave musicians only simple scale sketches. For the cover, his sole instruction was: 'Do something blue.' It became jazz's most iconic design.",
-        "historicalImpactZh": "改变了整个爵士乐的走向，证明简约比繁复更有力量。从摇滚到电子、嘻哈到古典，几乎所有流派的音乐家都从中汲取过灵感。",
-        "historicalImpactEn": "Changed the course of jazz, proving simplicity more powerful than complexity. Musicians from rock to electronic, hip-hop to classical have drawn inspiration from it.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Kind_of_Blue"
-        }
-      }
-    ]
-  },
-  "03-21": {
-    "date": "03-21",
-    "albums": [
-      {
-        "id": "aretha-franklin-i-never-loved-a-man-1967",
-        "name": "I Never Loved a Man the Way I Love You",
-        "nameZh": "我从没像爱你一样爱过别人",
-        "artist": "Aretha Franklin",
-        "artistZh": "艾瑞莎·弗兰克林",
-        "releaseDate": "03-21",
-        "year": 1967,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/7/7a/Aretha_Franklin_-_I_Never_Loved_a_Man.jpg",
-        "genres": [
-          "Soul",
-          "R&B"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "灵魂乐女王的突破之作。从哥伦比亚唱片转投Atlantic后的首张专辑，《Respect》一曲将Otis Redding的原唱彻底重塑为女性赋权宣言，成为民权运动和女权运动的双重圣歌。",
-        "descriptionEn": "The Queen of Soul's breakthrough. Her Atlantic debut transformed Otis Redding's 'Respect' into a dual anthem for the Civil Rights and feminist movements.",
-        "storiesZh": "Aretha在哥伦比亚唱片被当作爵士歌手包装了六年，商业上毫无起色。转投Atlantic后，制作人Jerry Wexler把她带到阿拉巴马州的FAME录音室，与当地的Muscle Shoals节奏组一起录制。结果第一天录音就因为Aretha的丈夫和乐手打架而终止——但在此之前他们已经录完了《I Never Loved a Man》。",
-        "storiesEn": "After six years miscast as a jazz singer at Columbia, Aretha moved to Atlantic. Producer Jerry Wexler took her to FAME Studios in Alabama. The first session ended in a fistfight between her husband and a musician — but not before they'd cut the title track.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/I_Never_Loved_a_Man_the_Way_I_Love_You"
-        }
-      },
-      {
-        "id": "mayday-blue-planet-2006",
-        "name": "为爱而生",
-        "nameZh": "为爱而生",
-        "artist": "Mayday",
-        "artistZh": "五月天",
-        "releaseDate": "03-21",
-        "year": 2006,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/3/39/Mayday_-_Born_to_Love.jpg",
-        "genres": [
-          "Rock",
-          "Pop Rock",
-          "Mandopop"
-        ],
-        "language": "chinese",
-        "languageZh": "华语",
-        "descriptionZh": "五月天第六张录音室专辑，延续了他们将摇滚与流行完美融合的路线。《为爱而生》《天使》等歌曲成为一代人的青春记忆。专辑体现了五月天从地下乐队到华语天团的成熟蜕变。",
-        "descriptionEn": "Mayday's sixth studio album continues their perfect fusion of rock and pop. The title track and 'Angel' became generational anthems, marking their evolution from underground band to Mandopop legends.",
-        "storiesZh": "五月天是华语乐坛中极少数从地下摇滚圈成功走向主流的乐队。他们的秘诀在于始终自己写歌、自己制作，从不假手于人。这张专辑在录音棚里熬了无数个通宵，阿信为了一句歌词可以改上二十遍。",
-        "storiesEn": "Mayday are among the rare Chinese bands to successfully cross from underground to mainstream. Their secret: writing and producing everything themselves. Ashin would rewrite a single lyric twenty times on this album.",
+        "type": "album",
+        "descriptionZh": "爵士史最伟大专辑。Davis转向调式爵士，梦幻阵容包括Coltrane、Adderley、Bill Evans。",
+        "descriptionEn": "Greatest jazz album ever. Davis embraced modal jazz. Dream lineup: Coltrane, Adderley, Bill Evans.",
+        "storiesZh": "几乎所有曲目一次录制完成。Davis只给乐手简单音阶草图。封面只对设计师说：「做点蓝色的。」",
+        "storiesEn": "Nearly all tracks single takes. Davis gave only scale sketches. Cover brief: Do something blue.",
         "links": {}
-      },
-      {
-        "id": "the-smiths-the-queen-is-dead-1986",
-        "name": "The Queen Is Dead",
-        "nameZh": "女王已死",
-        "artist": "The Smiths",
-        "artistZh": "史密斯乐队",
-        "releaseDate": "03-21",
-        "year": 1986,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/1/1a/The_Queen_Is_Dead.jpg",
-        "genres": [
-          "Indie Rock",
-          "Jangle Pop"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "The Smiths最受赞誉的专辑，Morrissey的尖刻幽默与Johnny Marr的华丽吉他达到了完美的平衡。《There Is a Light That Never Goes Out》成为独立摇滚永恒的圣歌。",
-        "descriptionEn": "The Smiths' most acclaimed album. Morrissey's biting wit and Johnny Marr's gorgeous guitar work achieve perfect balance. 'There Is a Light That Never Goes Out' became indie rock's eternal anthem.",
-        "storiesZh": "专辑录制期间Morrissey和Marr的关系已出现裂痕。但正是这种张力驱动了创作——Marr会在深夜给Morrissey送来新录好的吉他段落，Morrissey在黎明前写好歌词。这种「不见面的合作」反而产出了他们最好的作品。",
-        "storiesEn": "The Morrissey-Marr relationship was already fracturing during recording. Yet the tension drove creativity — Marr would deliver guitar parts late at night, Morrissey would write lyrics before dawn. This 'collaboration without meeting' produced their best work.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/The_Queen_Is_Dead"
-        }
       }
     ]
   },
   "04-05": {
     "date": "04-05",
-    "albums": [
+    "items": [
       {
         "id": "nirvana-in-utero-1993",
         "name": "In Utero",
@@ -559,45 +293,41 @@
         "artistZh": "涅槃",
         "releaseDate": "04-05",
         "year": 1993,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/e/e3/In_Utero.jpg",
+        "coverImage": "",
         "genres": [
           "Grunge",
-          "Alternative Rock",
-          "Noise Rock"
+          "Alternative Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "涅槃的最后一张录音室专辑，对《Nevermind》的巨大成功做出的刻意反商业回应。Steve Albini的粗糙制作和Kurt Cobain赤裸的歌词让这张专辑充满了原始的力量和痛苦。《Heart-Shaped Box》《All Apologies》成为绝唱。",
-        "descriptionEn": "Nirvana's final studio album, a deliberately anti-commercial reaction to Nevermind's massive success. Steve Albini's raw production and Cobain's naked lyrics create an album of primal power and pain.",
-        "storiesZh": "Cobain坚持要与地下制作人Steve Albini合作，尽管唱片公司强烈反对。整张专辑仅用了两周录制完成，成本不到25000美元。唱片公司听到成品后吓坏了，逼迫Albini重新混音部分歌曲。Cobain去世后，这张专辑像一封来自坟墓的信，让无数歌迷心碎。",
-        "storiesEn": "Cobain insisted on underground producer Steve Albini despite fierce label opposition. The album was recorded in just two weeks for under $25,000. The label was horrified and forced remixes. After Cobain's death, the album read like a letter from the grave.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/In_Utero"
-        }
+        "type": "album",
+        "descriptionZh": "涅槃最后录音室专辑，对《Nevermind》成功的反商业回应。Steve Albini粗糙制作，Cobain赤裸歌词。",
+        "descriptionEn": "Nirvana final album — anti-commercial response to Nevermind success. Raw Albini production, naked Cobain lyrics.",
+        "storiesZh": "Cobain坚持用地下制作人Albini，两周录完，成本不到25000美元。唱片公司听到成品吓坏了。",
+        "storiesEn": "Cobain insisted on underground producer Albini. Two weeks, under $25K. Label was horrified by the result.",
+        "links": {}
       },
       {
-        "id": "zhang-xuan-my-life-will-2006",
+        "id": "deserts-chang-my-life-2006",
         "name": "My Life Will...",
-        "nameZh": "我的人生将会...",
+        "nameZh": "My Life Will...",
         "artist": "Deserts Chang",
         "artistZh": "张悬",
         "releaseDate": "04-05",
         "year": 2006,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/5/5e/Deserts_Chang_-_My_Life_Will.jpg",
+        "coverImage": "",
         "genres": [
           "Folk",
-          "Singer-Songwriter",
-          "Indie Folk"
+          "Singer-Songwriter"
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "张悬的首张专辑，以一把木吉他撑起了整张唱片。细腻的歌词和慵懒而真挚的唱腔定义了台湾新一代独立民谣的声音。《宝贝》成为无数人深夜单曲循环的治愈之歌。",
-        "descriptionEn": "Deserts Chang's debut, built around an acoustic guitar. Delicate lyrics and her languid, sincere voice defined Taiwan's new indie folk sound. 'Baby' became countless listeners' late-night comfort song.",
-        "storiesZh": "张悬原名焦安溥，出身台湾政商名门却选择了一条完全不同的人生道路。出道前她在女巫店等Live House弹唱多年，积累了大量死忠粉丝。这张专辑的制作费是她自己攒的演出酬劳——拒绝家人资助，坚持独立完成。",
-        "storiesEn": "Born into a prominent Taiwanese family as Jiao Anpu, she chose a completely different path. She self-funded this album with years of live gig savings, refusing family money, insisting on complete independence.",
-        "links": {
-          "douban": "https://music.douban.com/subject/1788408/"
-        }
+        "type": "album",
+        "descriptionZh": "张悬首专，以木吉他撑起整张唱片。细腻歌词与慵懒真挚唱腔定义台湾新一代独立民谣。",
+        "descriptionEn": "Deserts Chang debut built around acoustic guitar. Delicate lyrics and sincere voice defined Taiwan new indie folk.",
+        "storiesZh": "出身台湾政商名门却选择完全不同道路。制作费是自己攒的演出酬劳，拒绝家人资助。",
+        "storiesEn": "Born into prominent family, chose completely different path. Self-funded with gig savings, refusing family money.",
+        "links": {}
       },
       {
         "id": "radiohead-the-bends-1995",
@@ -607,26 +337,25 @@
         "artistZh": "电台司令",
         "releaseDate": "04-05",
         "year": 1995,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/5/55/Radioheadthebends.png",
+        "coverImage": "",
         "genres": [
           "Alternative Rock",
           "Britpop"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Radiohead的第二张专辑，从《Pablo Honey》的一曲成名中走出来，展现了惊人的深度和野心。《Fake Plastic Trees》《Street Spirit》等歌曲证明了他们远不止《Creep》。这是Radiohead开始变成伟大乐队的转折点。",
-        "descriptionEn": "Radiohead's sophomore album emerged from the shadow of 'Creep' with stunning depth and ambition. 'Fake Plastic Trees' and 'Street Spirit' proved they were far more than a one-hit wonder — the turning point of a great band.",
-        "storiesZh": "录制《The Bends》时Thom Yorke陷入了严重的创作焦虑。《Creep》的成功让他感到被定义和囚禁。《Fake Plastic Trees》的歌词是在一个音乐节上看完Jeff Buckley的演出后，回到酒店一口气写完的。Buckley的唱腔深深影响了这张专辑的声音方向。",
-        "storiesEn": "Thom Yorke suffered severe creative anxiety during recording, feeling imprisoned by 'Creep's success. The lyrics for 'Fake Plastic Trees' were written in one burst after watching Jeff Buckley perform at a festival — Buckley's voice deeply shaped the album's direction.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/The_Bends_(album)"
-        }
+        "type": "album",
+        "descriptionZh": "Radiohead从《Creep》阴影中走出，展现惊人深度。《Fake Plastic Trees》等证明他们远不止一曲成名。",
+        "descriptionEn": "Radiohead emerged from Creep shadow with stunning depth. Proved far more than one-hit wonder.",
+        "storiesZh": "Thom Yorke陷入严重创作焦虑，感到被《Creep》定义和囚禁。《Fake Plastic Trees》歌词在看Jeff Buckley演出后一气呵成。",
+        "storiesEn": "Yorke suffered creative anxiety, felt imprisoned by Creep. Wrote Fake Plastic Trees after watching Jeff Buckley perform.",
+        "links": {}
       }
     ]
   },
   "04-19": {
     "date": "04-19",
-    "albums": [
+    "items": [
       {
         "id": "prince-purple-rain-1984",
         "name": "Purple Rain",
@@ -635,48 +364,42 @@
         "artistZh": "王子",
         "releaseDate": "04-19",
         "year": 1984,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/9/9e/Princepurplerain.jpg",
+        "coverImage": "",
         "genres": [
           "Pop",
           "Rock",
-          "R&B",
           "Funk"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Prince的巅峰之作，同名电影的原声带。这张专辑将摇滚、放克、R&B和流行熔于一炉，连续24周蝉联Billboard冠军。《When Doves Cry》《Let's Go Crazy》《Purple Rain》三首金曲定义了80年代的声音。",
-        "descriptionEn": "Prince's peak, the soundtrack to his semi-autobiographical film. Fusing rock, funk, R&B, and pop, it topped the Billboard chart for 24 consecutive weeks. Three timeless hits defined the 80s sound.",
-        "storiesZh": "专辑同名曲《Purple Rain》是1983年在一场慈善演出中首次现场录制的，长达13分钟。Prince后来在录音棚中剪掉了多余的段落，但保留了现场演奏的核心能量。有趣的是这首歌的和弦进行借鉴了乡村音乐，但Prince把它变成了一首摇滚歌剧。",
-        "storiesEn": "The title track was first recorded live at a 1983 charity concert, clocking 13 minutes. Prince trimmed it in the studio but kept the core live energy. The chord progression borrows from country music — Prince turned it into a rock opera.",
-        "historicalImpactZh": "《Purple Rain》模糊了黑人音乐和白人音乐之间的人为界限。Prince向世界证明了一个黑人音乐家可以同时统治R&B、摇滚和流行排行榜。",
-        "historicalImpactEn": "Purple Rain blurred the artificial line between Black and white music. Prince proved a Black musician could simultaneously dominate R&B, rock, and pop charts.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Purple_Rain_(album)"
-        }
+        "type": "album",
+        "descriptionZh": "Prince巅峰之作，同名电影原声。连续24周Billboard冠军。《When Doves Cry》等定义80年代声音。",
+        "descriptionEn": "Prince peak — film soundtrack. 24 weeks atop Billboard. Defined the 80s sound.",
+        "storiesZh": "标题曲1983年慈善演出首次现场录制，长达13分钟。和弦进行借鉴乡村音乐，Prince却把它变成了摇滚歌剧。",
+        "storiesEn": "Title track first recorded live at 1983 charity concert — 13 minutes. Chord progression borrowed from country, turned into rock opera.",
+        "links": {}
       },
       {
-        "id": "li-zongsheng-hill-of-love-1989",
+        "id": "jonathan-lee-spirit-1989",
         "name": "生命中的精灵",
         "nameZh": "生命中的精灵",
         "artist": "Jonathan Lee",
         "artistZh": "李宗盛",
         "releaseDate": "04-19",
         "year": 1989,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/0/0f/Jonathan_Lee_-_Spirit_of_Life.jpg",
+        "coverImage": "",
         "genres": [
           "Folk",
-          "Singer-Songwriter",
           "Mandopop"
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "李宗盛的首张个人专辑，也是华语流行音乐中最具文学性的作品之一。他用近乎口语化的歌词写尽了都市中年男性的困顿与温情。《生命中的精灵》《和自己赛跑的人》成为跨越时代的经典。",
-        "descriptionEn": "Jonathan Lee's debut solo album, one of the most literary works in Chinese pop. His near-conversational lyrics capture urban middle-aged male struggles and tenderness with unmatched precision.",
-        "storiesZh": "李宗盛出道前是个送瓦斯的工人，每天骑着摩托车穿梭在台北街头。《生命中的精灵》里那些写实的细节——瓦斯炉、旧沙发、下雨的巷子——都来自他这段生活。他没有受过专业音乐训练，写歌全靠一把破吉他和直觉。",
-        "storiesEn": "Before music, Lee delivered gas cylinders on a motorcycle through Taipei streets. The realistic details in his songs — gas stoves, old sofas, rainy alleys — came from this life. He had no formal music training, just a beat-up guitar and instinct.",
-        "links": {
-          "douban": "https://music.douban.com/subject/1417362/"
-        }
+        "type": "album",
+        "descriptionZh": "李宗盛首专，华语流行最具文学性作品之一。口语化歌词写尽都市中年困顿与温情。",
+        "descriptionEn": "Jonathan Lee debut — one of most literary works in Chinese pop. Conversational lyrics capture urban struggles.",
+        "storiesZh": "出道前是送瓦斯的工人，歌词里那些写实细节——瓦斯炉、旧沙发、下雨的巷子——都来自这段生活。",
+        "storiesEn": "Delivered gas cylinders before music career. Realistic details in songs came from that life.",
+        "links": {}
       },
       {
         "id": "the-clash-london-calling-1979",
@@ -686,27 +409,25 @@
         "artistZh": "冲击乐队",
         "releaseDate": "04-19",
         "year": 1979,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/0/00/TheClashLondonCalling.jpg",
+        "coverImage": "",
         "genres": [
           "Punk Rock",
-          "Reggae",
-          "Rockabilly"
+          "Reggae"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "朋克摇滚的宣言书，也是其超越之作。The Clash在这张双专辑中融入了雷鬼、爵士、摇滚和流行，将朋克的愤怒扩展到了政治、社会和文化的广阔视野中。封面上的Paul Simonon砸贝斯的瞬间成为摇滚史上最著名的照片之一。",
-        "descriptionEn": "Punk rock's manifesto and transcendence. The Clash fused reggae, jazz, rockabilly, and pop across a double album, expanding punk's anger into broad political and cultural commentary.",
-        "storiesZh": "封面照片完全是意外——贝斯手Paul Simonon在纽约Palladium演出时因为不满场地音响效果，愤怒地将贝斯砸向地面。摄影师Pennie Smith恰好抓拍了那个瞬间。Simonon最初觉得照片「太模糊了没法用」，但这张模糊的照片后来成为滚石杂志评选的「史上最佳摇滚照片」。",
-        "storiesEn": "The cover photo was an accident — bassist Paul Simonon smashed his bass on stage in frustration at the PA system. Photographer Pennie Smith caught the moment. Simonon thought it was 'too blurry to use' — it became Rolling Stone's 'greatest rock photo ever.'",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/London_Calling"
-        }
+        "type": "album",
+        "descriptionZh": "朋克超越之作。融入雷鬼、爵士、摇滚，将朋克愤怒扩展为广阔政治文化视野。封面砸贝斯照成摇滚史上最著名照片。",
+        "descriptionEn": "Punk transcendence. Fused reggae, jazz, rock — expanding punk anger into broad cultural vision.",
+        "storiesZh": "封面是贝斯手因不满音响将贝斯砸向地面时抓拍的。他最初觉得「太模糊没法用」——后成滚石史上最佳摇滚照片。",
+        "storiesEn": "Cover shot when bassist smashed bass in frustration. He thought it too blurry — became Rolling Stone greatest rock photo.",
+        "links": {}
       }
     ]
   },
   "05-01": {
     "date": "05-01",
-    "albums": [
+    "items": [
       {
         "id": "bob-dylan-highway-61-1965",
         "name": "Highway 61 Revisited",
@@ -715,28 +436,25 @@
         "artistZh": "鲍勃·迪伦",
         "releaseDate": "05-01",
         "year": 1965,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/60/Bob_Dylan_-_Highway_61_Revisited.jpg",
+        "coverImage": "",
         "genres": [
           "Folk Rock",
           "Blues Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Dylan全面「插电」的标志性专辑，《Like a Rolling Stone》以六分钟的篇幅彻底打破了流行歌曲的长度限制和主题边界。这张专辑将摇滚乐从青少年娱乐提升为严肃文学，奠定了Dylan作为摇滚诗人的地位。",
-        "descriptionEn": "Dylan's definitive 'going electric' statement. 'Like a Rolling Stone' shattered pop song length limits and subject matter boundaries at six minutes. The album elevated rock from teen entertainment to serious literature.",
-        "storiesZh": "《Like a Rolling Stone》的录制过程是一场噩梦。Dylan对歌词不满意，一遍又一遍地改。乐队成员换了一拨又一拨。直到年轻吉他手Al Kooper——原本只是被叫来旁观的朋友——擅自坐到风琴前即兴弹奏了一段，Dylan才恍然大悟：「就是这个！」那台风琴的声音后来成为摇滚史上最著名的riff之一。",
-        "storiesEn": "Recording 'Like a Rolling Stone' was a nightmare. Dylan endlessly rewrote lyrics. Musicians cycled through. Then young guitarist Al Kooper — only invited to watch — sat at the organ unprompted and improvised. Dylan knew instantly: 'That's it!' That organ became one of rock's most famous riffs.",
-        "historicalImpactZh": "《Like a Rolling Stone》证明一首流行歌曲可以承载小说的叙事深度。它改变了人们对流行音乐「能写什么」的理解。",
-        "historicalImpactEn": "Like a Rolling Stone proved a pop song could carry the narrative depth of a novel, forever changing what popular music could be about.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Highway_61_Revisited"
-        }
+        "type": "album",
+        "descriptionZh": "Dylan全面插电标志。《Like a Rolling Stone》六分钟打破流行歌曲长度和主题边界，将摇滚提升为严肃文学。",
+        "descriptionEn": "Dylan definitive electric statement. Like a Rolling Stone shattered pop limits at six minutes — elevated rock to serious literature.",
+        "storiesZh": "录制是场噩梦——Dylan反复改词，乐队换了一批又一批。年轻吉他手Al Kooper擅自坐到风琴前即兴，Dylan大喊「就是这个！」",
+        "storiesEn": "Recording nightmare — Dylan endlessly rewrote, musicians cycled through. Young Al Kooper sat at organ unprompted — Dylan knew instantly.",
+        "links": {}
       },
       {
-        "id": "zhang-chuhan-lonely-hero-2017",
+        "id": "zhang-chu-lonely-2017",
         "name": "孤独及其所创造的",
         "nameZh": "孤独及其所创造的",
-        "artist": "Zhang Chuhan",
+        "artist": "Zhang Chu",
         "artistZh": "张楚",
         "releaseDate": "05-01",
         "year": 2017,
@@ -747,13 +465,12 @@
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "张楚是中国摇滚「魔岩三杰」之一，90年代的代表人物。这张专辑延续了他标志性的诗意歌词和民谣摇滚风格，以一个观察者的视角描绘了当代中国城市中的孤独与温情。",
-        "descriptionEn": "Zhang Chu, one of China's 'Three Magical Rock Heroes' of the 90s, continues his poetic lyricism and folk-rock style, painting urban Chinese loneliness and warmth through an observer's lens.",
-        "storiesZh": "1994年张楚、窦唯、何勇在香港红磡体育场的那场「中国摇滚乐势力」演唱会被认为是中国摇滚的巅峰时刻。二十多年后，张楚依然保持着低调的创作态度，拒绝商业包装，坚持以最朴素的方式做音乐。",
-        "storiesEn": "The 1994 'Chinese Rock Power' concert at Hong Kong Coliseum with Zhang Chu, Dou Wei, and He Yong is considered Chinese rock's peak moment. Over twenty years later, Zhang Chu still maintains his low-profile approach, rejecting commercial packaging.",
-        "links": {
-          "douban": "https://music.douban.com/subject/27050201/"
-        }
+        "type": "album",
+        "descriptionZh": "「魔岩三杰」之一张楚的诗意回归。以观察者视角描绘当代中国城市的孤独与温情。",
+        "descriptionEn": "Zhang Chu, one of China Three Rock Heroes, returns with poetic observations of urban Chinese loneliness.",
+        "storiesZh": "1994年张楚窦唯何勇红磡演唱会被称为中国摇滚巅峰。二十年后依然保持低调，拒绝商业包装。",
+        "storiesEn": "1994 Hong Kong Coliseum concert with Dou Wei and He Yong considered Chinese rock peak. Twenty years later, still low-profile.",
+        "links": {}
       },
       {
         "id": "fleetwood-mac-rumours-1977",
@@ -763,26 +480,25 @@
         "artistZh": "弗利特伍德·麦克",
         "releaseDate": "05-01",
         "year": 1977,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/f/ff/Rumourscover.jpg",
+        "coverImage": "",
         "genres": [
           "Pop Rock",
           "Soft Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "一张在人际关系全面崩溃中诞生的杰作。乐队成员之间的两对情侣同时分手，每个人都在用写歌来互相伤害和疗伤。《Go Your Own Way》《Dreams》《The Chain》等歌曲将心碎转化为了完美的流行音乐。",
-        "descriptionEn": "A masterpiece born from total interpersonal collapse. Two couples in the band were simultaneously breaking up, each member writing songs to hurt and heal. Heartbreak was alchemized into perfect pop music.",
-        "storiesZh": "录制时John和Christine McVie已经离婚不再交谈，Lindsey Buckingham和Stevie Nicks则在录音棚里公开尖叫争吵。制作人Ken Caillat后来回忆说：「录音棚里到处都是可卡因和眼泪。」但正是这种极度痛苦的情感浓度让每首歌都充满了真实的张力。",
-        "storiesEn": "The McVies were divorced and silent. Buckingham and Nicks screamed at each other in the studio. Producer Ken Caillat recalled: 'The studio was awash in cocaine and tears.' But that extreme emotional intensity filled every song with real tension.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Rumours_(album)"
-        }
+        "type": "album",
+        "descriptionZh": "在人际关系全面崩溃中诞生的杰作。两对情侣同时分手，每人用写歌互相伤害与疗伤。心碎化为完美流行音乐。",
+        "descriptionEn": "Masterpiece born from total interpersonal collapse. Two couples breaking up, writing to hurt and heal. Heartbreak became perfect pop.",
+        "storiesZh": "录音棚里到处都是可卡因和眼泪。McVies离婚不再交谈，Buckingham和Nicks公开尖叫争吵。极度痛苦转化为真实张力。",
+        "storiesEn": "Studio awash in cocaine and tears. McVies divorced and silent, Buckingham and Nicks screaming. Extreme pain became genuine tension.",
+        "links": {}
       }
     ]
   },
   "05-23": {
     "date": "05-23",
-    "albums": [
+    "items": [
       {
         "id": "radiohead-ok-computer-1997",
         "name": "OK Computer",
@@ -791,46 +507,41 @@
         "artistZh": "电台司令",
         "releaseDate": "05-23",
         "year": 1997,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png",
+        "coverImage": "",
         "genres": [
           "Alternative Rock",
           "Art Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Radiohead的第三张专辑，一张关于现代科技焦虑和疏离感的预言式杰作。在互联网泡沫破裂和9/11之前，它已敏锐地捕捉到了即将到来的精神危机。《Paranoid Android》《Karma Police》《No Surprises》成为时代的症候。",
-        "descriptionEn": "Radiohead's third album — a prophetic masterpiece about modern technological anxiety and alienation, capturing the coming spiritual crisis before the dot-com crash and 9/11.",
-        "storiesZh": "录制《OK Computer》期间Thom Yorke陷入了严重的抑郁。他后来把这段经历称为「精神崩溃」。乐队成员在乡间大宅里一起住了几个月，通宵录音。有一天Yorke在极度沮丧中将麦克风扔进了游泳池——那个声音被采样后用在了《Climbing Up the Walls》里。",
-        "storiesEn": "Thom Yorke sank into severe depression during recording, later calling it a 'mental breakdown.' The band lived together in a country mansion for months. One day Yorke, in frustration, threw a microphone into the pool — that sound was sampled in 'Climbing Up the Walls.'",
-        "historicalImpactZh": "被广泛认为是1990年代最伟大的专辑，定义了另类摇滚的转折点——从Grunge的粗粝转向更加内省和实验的方向。",
-        "historicalImpactEn": "Widely considered the greatest album of the 1990s, defining alternative rock's pivot from grunge's rawness toward introspection and experimentation.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/OK_Computer"
-        }
+        "type": "album",
+        "descriptionZh": "关于现代科技焦虑的预言式杰作。在网络泡沫和911之前已敏锐捕捉到即将到来的精神危机。",
+        "descriptionEn": "Prophetic masterpiece about modern tech anxiety. Captured coming spiritual crisis before dot-com crash and 9/11.",
+        "storiesZh": "Yorke陷入严重抑郁，称这段经历为精神崩溃。乐队在乡间大宅同住数月。某天Yorke沮丧中将麦克风扔进泳池——被采样了。",
+        "storiesEn": "Yorke sank into depression, calling it mental breakdown. Band lived together in country mansion. Yorke threw mic into pool — sound was sampled.",
+        "links": {}
       },
       {
-        "id": "tao-zhe-black-tangerine-2002",
+        "id": "david-tao-black-tangerine-2002",
         "name": "黑色柳丁",
         "nameZh": "黑色柳丁",
         "artist": "David Tao",
         "artistZh": "陶喆",
         "releaseDate": "05-23",
         "year": 2002,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/7/7c/David_Tao_-_Black_Tangerine.jpg",
+        "coverImage": "",
         "genres": [
           "R&B",
-          "Mandopop",
-          "Rock"
+          "Mandopop"
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "陶喆的第三张专辑，将R&B、摇滚和中国元素融合到了新的高度。《黑色柳丁》《Angel》等歌曲横跨多种风格，制作精良度在华语乐坛首屈一指。这张专辑是华语R&B成熟期的代表作。",
-        "descriptionEn": "David Tao's third album elevated the fusion of R&B, rock, and Chinese elements to new heights. Songs spanning multiple styles with production quality unmatched in Chinese pop at the time.",
-        "storiesZh": "陶喆是美国长大的ABC，回到台湾做音乐时发现华语乐坛几乎全是抒情歌。他决心把地道的R&B和摇滚制作标准引入华语音乐。专辑同名曲《黑色柳丁》大胆批评了社会现象，在以情歌为主的华语市场极为罕见。",
-        "storiesEn": "Tao grew up as an ABC in America. Returning to Taiwan, he found Chinese pop dominated by ballads and resolved to bring authentic R&B and rock production standards to the scene. The title track boldly critiqued social issues — rare in the love-song-dominated market.",
-        "links": {
-          "douban": "https://music.douban.com/subject/1404504/"
-        }
+        "type": "album",
+        "descriptionZh": "陶喆第三张专辑，将R&B、摇滚与中国元素融合到新高度。华语R&B成熟期代表作。",
+        "descriptionEn": "David Tao third album elevates R&B-rock-Chinese fusion. Landmark of mature Chinese R&B.",
+        "storiesZh": "美国长大的ABC回台湾发现华语乐坛几乎全是抒情歌，决心把地道R&B和摇滚制作标准引入华语音乐。",
+        "storiesEn": "ABC-raised Tao returned to Taiwan, found Chinese pop dominated by ballads, resolved to bring authentic R&B production standards.",
+        "links": {}
       },
       {
         "id": "pixies-doolittle-1989",
@@ -840,51 +551,46 @@
         "artistZh": "精灵乐队",
         "releaseDate": "05-23",
         "year": 1989,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/6b/Pixies-Doolittle.jpg",
+        "coverImage": "",
         "genres": [
           "Alternative Rock",
           "Indie Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Pixies的第二张专辑，以「安静-响亮-安静」的动态对比成为另类摇滚的蓝图。Black Francis的怪诞歌词与Joey Santiago的锯齿吉他创造了前所未有的声音。Kurt Cobain多次承认《Smells Like Teen Spirit》是在试图模仿Pixies。",
-        "descriptionEn": "Pixies' second album, whose quiet-LOUD-quiet dynamics became the blueprint for alternative rock. Black Francis's surreal lyrics and Joey Santiago's jagged guitars created an unprecedented sound. Cobain repeatedly admitted he was trying to copy Pixies on 'Smells Like Teen Spirit.'",
-        "storiesZh": "录制期间乐队关系几乎崩溃——主唱Black Francis和贝斯手Kim Deal已经不再交谈。Deal被禁止在专辑中贡献自己的歌曲，这促使她后来组建了The Breeders。然而正是这种紧张关系造就了专辑中狂躁与脆弱的极限摇摆。",
-        "storiesEn": "Band relationships nearly collapsed during recording — Black Francis and Kim Deal had stopped speaking. Deal was forbidden from contributing her own songs, spurring her to form The Breeders. Yet this tension created the album's extreme swings between mania and vulnerability.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Doolittle_(album)"
-        }
+        "type": "album",
+        "descriptionZh": "以「安静-响亮-安静」动态对比成另类摇滚蓝图。Cobain多次承认《Smells Like Teen Spirit》就是试图模仿Pixies。",
+        "descriptionEn": "Quiet-LOUD-quiet dynamics became alt-rock blueprint. Cobain repeatedly admitted trying to copy Pixies.",
+        "storiesZh": "录制期间乐队关系几乎崩溃——主唱和贝斯手不再交谈，贝斯手被禁贡献歌曲，促成了她后来组建The Breeders。",
+        "storiesEn": "Band relationships nearly collapsed — singer and bassist stopped speaking. Bassist forbidden from contributing, spurring The Breeders.",
+        "links": {}
       }
     ]
   },
   "06-01": {
     "date": "06-01",
-    "albums": [
+    "items": [
       {
         "id": "beatles-sgt-pepper-1967",
         "name": "Sgt. Pepper's Lonely Hearts Club Band",
         "nameZh": "佩珀军士的孤独之心俱乐部乐队",
         "artist": "The Beatles",
-        "artistZh": "披头士乐队",
+        "artistZh": "披头士",
         "releaseDate": "06-01",
         "year": 1967,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg",
+        "coverImage": "",
         "genres": [
           "Psychedelic Rock",
-          "Art Rock",
-          "Pop"
+          "Art Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "流行音乐史上最重要的专辑。披头士停止巡演后将全部精力投入录音棚，创造了一张充满想象力的概念专辑。从开场到《A Day in the Life》的震撼结尾，重新定义了流行音乐的可能性。录制耗时129天，700多小时。",
-        "descriptionEn": "The most important album in pop history. After quitting touring, The Beatles poured everything into the studio, creating an imaginative concept album that redefined what pop music could be. Recorded over 129 days and 700+ hours.",
-        "storiesZh": "列侬坚持要在封面上放希特勒的照片但被否决。甘地、耶稣等人物也因争议被移除。封面集结了70多个历史人物纸板剪影，费用高达3000英镑——是普通专辑封面的60倍。《A Day in the Life》的结尾和弦是四个人同时按下三架钢琴并持续40秒录制的。",
-        "storiesEn": "Lennon insisted on including Hitler on the cover — overruled. 70+ historical figure cutouts cost £3,000, 60 times the typical budget. The final chord of 'A Day in the Life' was four people striking three pianos simultaneously, sustained 40 seconds.",
-        "historicalImpactZh": "证明了摇滚专辑可以作为严肃的艺术作品存在，开启了「录音棚即乐器」的时代，从根本上改变了流行音乐的生产和消费方式。",
-        "historicalImpactEn": "Proved rock albums could be serious works of art, launched the 'studio as instrument' era, fundamentally changed how pop music is made and consumed.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band"
-        }
+        "type": "album",
+        "descriptionZh": "流行音乐史上最重要专辑。停止巡演后全情投入录音棚，录制129天700多小时，重新定义流行音乐的可能性。",
+        "descriptionEn": "Most important album in pop history. Post-touring, poured everything into studio — 129 days, 700+ hours. Redefined possibilities of pop.",
+        "storiesZh": "列侬坚持封面放希特勒被否决。封面集结70多个历史人物纸板剪影，费用是普通封面60倍。结尾和弦是四人同时按下三架钢琴持续40秒。",
+        "storiesEn": "Lennon insisted on Hitler — overruled. 70+ historical cutouts cost 60x normal cover. Final chord: four people striking three pianos for 40 seconds.",
+        "links": {}
       },
       {
         "id": "zheng-jun-bare-1994",
@@ -894,21 +600,19 @@
         "artistZh": "郑钧",
         "releaseDate": "06-01",
         "year": 1994,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/8/84/Zheng_Jun_-_Naked.jpg",
+        "coverImage": "",
         "genres": [
           "Rock",
-          "Chinese Rock",
-          "Folk Rock"
+          "Chinese Rock"
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "郑钧的首张专辑，融合硬摇滚、民谣和西藏音乐元素。《回到拉萨》《赤裸裸》《灰姑娘》成为传唱至今的经典。专辑销量突破百万，与唐朝、黑豹等乐队一起构成了中国摇滚的黄金年代。",
-        "descriptionEn": "Zheng Jun's debut blends hard rock, folk, and Tibetan musical elements. 'Back to Lhasa' and 'Cinderella' became enduring classics. It sold over a million copies, helping define Chinese rock's golden age.",
-        "storiesZh": "郑钧录这张专辑时身无分文，住在北京朋友家的地板上。西藏元素来自他大学时期的一次旅行——那片土地的辽阔和纯净给了他音乐中最独特的底色。",
-        "storiesEn": "Zheng Jun was penniless while recording, sleeping on a friend's floor in Beijing. The Tibetan elements came from a college trip — that land's vastness and purity became his music's most distinctive color.",
-        "links": {
-          "douban": "https://music.douban.com/subject/1406467/"
-        }
+        "type": "album",
+        "descriptionZh": "郑钧首专，融合硬摇滚、民谣与西藏元素。《回到拉萨》《赤裸裸》成经典，销量破百万。",
+        "descriptionEn": "Zheng Jun debut blends hard rock, folk, Tibetan elements. Sold over a million, defining Chinese rock golden age.",
+        "storiesZh": "录这张专辑时身无分文，住北京朋友家地板。西藏元素来自大学旅行——那片土地的辽阔和纯净成他音乐最独特底色。",
+        "storiesEn": "Penniless while recording, sleeping on friend floor in Beijing. Tibetan elements from college trip — land vastness became music distinctive color.",
+        "links": {}
       },
       {
         "id": "stevie-wonder-innervisions-1973",
@@ -918,7 +622,7 @@
         "artistZh": "史提夫·汪达",
         "releaseDate": "06-01",
         "year": 1973,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/9/96/Stevie_Wonder_-_Innervisions.jpg",
+        "coverImage": "",
         "genres": [
           "Soul",
           "Funk",
@@ -926,194 +630,39 @@
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Stevie Wonder巅峰期代表作，几乎包办所有乐器。《Living for the City》以令人心碎的叙事讲述黑人青年在美国的遭遇。专辑发行三天后Wonder遭遇严重车祸昏迷四天——《Higher Ground》像是在预言自己的重生。",
-        "descriptionEn": "Stevie Wonder's peak-era masterpiece, playing nearly all instruments himself. 'Living for the City' tells a heartbreaking story of a young Black man in America. Three days after release, Wonder was in a coma from a car crash.",
-        "storiesZh": "车祸后Wonder在昏迷中苏醒，医生担心他会有永久性脑损伤。他的第一句话是对朋友说：「我闻到了死亡的味道，但我选择不跟他走。」康复后他重返录音棚，继续创作。",
-        "storiesEn": "After waking from the coma, doctors feared permanent brain damage. His first words to a friend: 'I smelled death, but I chose not to go with him.' He returned to the studio upon recovery.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Innervisions"
-        }
-      }
-    ]
-  },
-  "06-16": {
-    "date": "06-16",
-    "albums": [
-      {
-        "id": "kendrick-lamar-damn-2017",
-        "name": "DAMN.",
-        "nameZh": "该死",
-        "artist": "Kendrick Lamar",
-        "artistZh": "肯德里克·拉马尔",
-        "releaseDate": "06-16",
-        "year": 2017,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/c/c1/Kendrick_Lamar_-_Damn.png",
-        "genres": [
-          "Hip-Hop",
-          "Rap"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "Kendrick Lamar的第四张录音室专辑，也是历史上第一张获得普利策音乐奖的嘻哈专辑。从《HUMBLE.》的嚣张到《LOVE.》的温柔，整张专辑充满了矛盾与张力，探讨了信仰、身份和美国的种族困境。",
-        "descriptionEn": "Kendrick Lamar's fourth album, the first hip-hop album to win the Pulitzer Prize for Music. From the swagger of 'HUMBLE.' to the tenderness of 'LOVE.,' it explores faith, identity, and America's racial struggles.",
-        "storiesZh": "普利策奖委员会宣布《DAMN.》获奖时，音乐界一片哗然——一个颁给古典音乐和爵士乐的奖项居然给了一张说唱专辑。评委们的评语是：「一部以本土白话写就的、充满节奏复杂性的艺术精湛之作。」这标志着嘻哈终于被美国建制派承认为严肃艺术。",
-        "storiesEn": "When the Pulitzer committee announced DAMN.'s win, the music world was stunned — the prize traditionally reserved for classical and jazz had gone to a rap album. The citation called it 'a virtuosic work of rhythmic complexity in the vernacular.' Hip-hop was finally recognized as serious art by the establishment.",
-        "historicalImpactZh": "普利策奖的认可标志着嘻哈音乐在艺术史中的地位得到了最高级别的确认。这对黑人音乐和文化的正当性具有里程碑式的意义。",
-        "historicalImpactEn": "The Pulitzer recognition marked hip-hop's highest artistic validation, a landmark for Black music and cultural legitimacy.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Damn_(Kendrick_Lamar_album)"
-        }
-      },
-      {
-        "id": "jolin-tsai-muse-2012",
-        "name": "Muse",
-        "nameZh": "缪斯",
-        "artist": "Jolin Tsai",
-        "artistZh": "蔡依林",
-        "releaseDate": "06-16",
-        "year": 2012,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/8/8b/Jolin_Tsai_-_Muse.jpg",
-        "genres": [
-          "Mandopop",
-          "Dance Pop"
-        ],
-        "language": "chinese",
-        "languageZh": "华语",
-        "descriptionZh": "蔡依林的第12张专辑，标志着她在音乐上的又一次进化。专辑融合了电子舞曲、抒情和实验元素，展现了华语流行天后不断突破自我的决心。《大艺术家》《Dr. Jolin》成为KTV热门曲目。",
-        "descriptionEn": "Jolin Tsai's 12th album marks another musical evolution, blending electronic dance, ballads, and experimental elements. It showcases the Mandopop diva's determination to continuously reinvent herself.",
-        "storiesZh": "蔡依林以「拼命三娘」著称——每张专辑都要挑战一种新的舞蹈或音乐风格。为了这张专辑她练习钢管舞和芭蕾长达半年，身上多处淤青。从一个被质疑「不会唱歌」的偶像到华语乐坛最具冒险精神的天后，蔡依林的职业生涯本身就是一个关于成长的故事。",
-        "storiesEn": "Jolin is famous for her relentless work ethic. She trained in pole dancing and ballet for six months for this album, covered in bruises. From a 'can't sing' idol to Mandopop's most adventurous diva, her career is a story of growth.",
+        "type": "album",
+        "descriptionZh": "Stevie Wonder巅峰期代表作，几乎包办所有乐器。《Living for the City》以心碎叙事讲述黑人青年在美国的遭遇。",
+        "descriptionEn": "Stevie Wonder peak-era masterpiece, playing nearly all instruments. Living for the City: heartbreaking story of young Black man in America.",
+        "storiesZh": "专辑发行三天后遭遇严重车祸昏迷四天。醒来后说：「我闻到了死亡的味道，但选择不跟他走。」",
+        "storiesEn": "Three days after release, severe car crash, four-day coma. Waking words: I smelled death, but chose not to go with him.",
         "links": {}
-      },
-      {
-        "id": "carole-king-tapestry-1971",
-        "name": "Tapestry",
-        "nameZh": "锦帷",
-        "artist": "Carole King",
-        "artistZh": "卡洛尔·金",
-        "releaseDate": "06-16",
-        "year": 1971,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/b/b7/CaroleKingTapestry.jpg",
-        "genres": [
-          "Folk",
-          "Singer-Songwriter",
-          "Pop"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "Carole King的第二张专辑，定义了1970年代唱作人运动的声音。从Brill Building的幕后写歌人到走上前台的艺术家，《It's Too Late》《You've Got a Friend》等歌曲温暖了几代听众。专辑连续15年保持着女歌手专辑销量纪录。",
-        "descriptionEn": "Carole King's second album defined the 1970s singer-songwriter sound. From Brill Building songwriter to front-stage artist, songs like 'It's Too Late' and 'You've Got a Friend' have warmed generations.",
-        "storiesZh": "King在16岁时就写出了她的第一首冠军单曲。在Brill Building做幕后写手的那些年，她和前夫Gerry Goffin创作了无数经典。但直到三十多岁、离异、独自带着两个孩子时，她才鼓起勇气走到麦克风前唱自己的歌。专辑封面上的她坐在窗边，一只猫在身边——这个平凡而温暖的画面成为了唱作人时代最经典的视觉象征。",
-        "storiesEn": "King wrote her first #1 hit at 16. After years as a Brill Building writer, divorced with two kids at 30+, she finally stepped up to the mic. The cover shows her sitting by a window with a cat — an ordinary, warm image that became the singer-songwriter era's most iconic visual.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Tapestry_(Carole_King_album)"
-        }
-      }
-    ]
-  },
-  "07-01": {
-    "date": "07-01",
-    "albums": [
-      {
-        "id": "debut-bjork-1993",
-        "name": "Debut",
-        "nameZh": "首秀",
-        "artist": "Björk",
-        "artistZh": "比约克",
-        "releaseDate": "07-01",
-        "year": 1993,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/7/77/Bj%C3%B6rk_-_Debut.png",
-        "genres": [
-          "Art Pop",
-          "Electronic",
-          "Trip Hop"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "冰岛歌手Björk的首张个人专辑（不算童年那张），宣告了一位独一无二的天才的到来。将电子节拍、管弦乐和爵士融合，每首歌都像一个独立的宇宙。《Human Behaviour》《Venus as a Boy》至今听来仍充满未来感。",
-        "descriptionEn": "Björk's first adult solo album announced a singular genius. Fusing electronic beats, orchestration, jazz, and world music, each track felt like its own universe. It still sounds futuristic decades later.",
-        "storiesZh": "Björk在12岁时就发行了一张冰岛语翻唱专辑，但成年后她选择完全重新开始。《Debut》录制时她疯狂地在伦敦俱乐部和冰岛自然之间往返采风。专辑中的许多声音来自日常物品——她在厨房里敲打锅碗瓢盆录制的采样用在了多首歌曲中。",
-        "storiesEn": "Björk released an Icelandic covers album at 12, but chose to start completely fresh as an adult. She traveled between London clubs and Icelandic nature during recording. Many sounds came from everyday objects — she sampled kitchen pots and pans throughout the album.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Debut_(Bj%C3%B6rk_album)"
-        }
-      },
-      {
-        "id": "xu-song-custom-2009",
-        "name": "自定义",
-        "nameZh": "自定义",
-        "artist": "Xu Song",
-        "artistZh": "许嵩",
-        "releaseDate": "07-01",
-        "year": 2009,
-        "coverImage": "",
-        "genres": [
-          "Mandopop",
-          "R&B"
-        ],
-        "language": "chinese",
-        "languageZh": "华语",
-        "descriptionZh": "许嵩的首张独立制作专辑，代表了网络音乐时代草根创作者的崛起。在大学宿舍里用一台普通电脑完成全部词曲、编曲和录制，然后免费发布到网上。这张零成本制作的专辑却引发了巨大的网络反响。",
-        "descriptionEn": "Xu Song's debut independent album represents the rise of grassroots creators in China's internet music era. Written, arranged, and recorded in his college dorm on a basic computer, then released free online — a zero-budget album that sparked a massive online phenomenon.",
-        "storiesZh": "许嵩是安徽医科大学的医学生，做音乐完全是自学。他用课余时间写歌、编曲、混音，然后把歌曲上传到QQ音乐。在没有唱片公司推广的情况下，纯靠网友的转发和口碑，《自定义》的播放量迅速超过千万。这标志着中国音乐产业的一次革命——互联网让草根音乐人第一次拥有了跳过唱片公司直接触达听众的能力。",
-        "storiesEn": "Xu Song was a medical student at Anhui Medical University — entirely self-taught in music. He wrote, arranged, and mixed songs in his spare time, then uploaded them to QQ Music. Without label promotion, purely through word-of-mouth, the album surpassed 10 million plays. This marked a Chinese music industry revolution — the internet gave grassroots musicians direct access to audiences for the first time.",
-        "links": {
-          "douban": "https://music.douban.com/subject/3832237/"
-        }
-      },
-      {
-        "id": "kanye-west-my-beautiful-dark-twisted-fantasy-2010",
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "nameZh": "我美丽黑暗扭曲的幻想",
-        "artist": "Kanye West",
-        "artistZh": "坎耶·韦斯特",
-        "releaseDate": "07-01",
-        "year": 2010,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/b/bc/My_Beautiful_Dark_Twisted_Fantasy.jpg",
-        "genres": [
-          "Hip-Hop",
-          "Pop",
-          "Art Pop"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "Kanye West在舆论风暴中心创作的第五张专辑，是他的极多主义（Maximalism）宣言。从交响乐编排到电子噪音到灵魂乐采样，每首歌都像一场精心编排的歌剧。《Power》《Runaway》《All of the Lights》阵容豪华到令人咋舌。",
-        "descriptionEn": "Kanye West's fifth album, created in the eye of a media storm, is his maximalist manifesto. From symphonic arrangements to electronic noise to soul samples, each track is a carefully orchestrated opera.",
-        "storiesZh": "2009年VMAs抢话筒事件后，Kanye成了全美的公敌。他躲到夏威夷，自费建立了一个「创作避难所」——邀请各种音乐人飞来，管吃管住，唯一的条件是必须全心投入录音。每天工作14小时，连周末也不例外。这种近乎疯狂的创作模式产出了他职业生涯中最受赞誉的作品。",
-        "storiesEn": "After the 2009 VMAs incident made him a national pariah, Kanye retreated to Hawaii and self-funded a 'creative sanctuary' — flying in musicians, housing and feeding them, with one rule: total commitment. 14-hour days, no weekends. This near-manic process produced his most acclaimed work.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/My_Beautiful_Dark_Twisted_Fantasy"
-        }
       }
     ]
   },
   "07-10": {
     "date": "07-10",
-    "albums": [
+    "items": [
       {
-        "id": "beastie-boys-licensed-to-ill-1986",
+        "id": "beastie-boys-licensed-1986",
         "name": "Licensed to Ill",
         "nameZh": "获许可耍酷",
         "artist": "Beastie Boys",
         "artistZh": "野兽男孩",
         "releaseDate": "07-10",
         "year": 1986,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/6b/Beastie_Boys_-_Licensed_to_Ill.jpg",
+        "coverImage": "",
         "genres": [
           "Hip-Hop",
           "Rap Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "历史上第一张登顶Billboard 200的嘻哈专辑。由Rick Rubin制作的《Licensed to Ill》将摇滚吉他与说唱节奏融合，三个白人小伙证明了嘻哈不只属于黑人。《Fight For Your Right》成为派对文化的标志，尽管它是讽刺之作。",
-        "descriptionEn": "The first hip-hop album in history to top the Billboard 200. Produced by Rick Rubin, it fused rock guitars with rap beats. Three white kids proved hip-hop wasn't just for Black artists.",
-        "storiesZh": "Beastie Boys最初是一支硬核朋克乐队，做嘻哈纯粹因为觉得好玩。没想到这张「玩出来」的专辑成了嘻哈史上的里程碑。《Fight For Your Right》本来是拿派对男孩文化开玩笑的讽刺之作，结果很多人当真了——乐队后来对这首歌态度非常复杂，甚至拒绝在现场演唱。",
-        "storiesEn": "The Beastie Boys started as a hardcore punk band — they switched to hip-hop purely for fun. 'Fight For Your Right' was intended as satire of party-boy culture. Many took it at face value. The band later had complex feelings about the song, eventually refusing to perform it live.",
-        "historicalImpactZh": "打破了嘻哈音乐「不够主流」的偏见，为后来嘻哈成为全球最主流音乐类型铺平了道路。",
-        "historicalImpactEn": "Shattered the prejudice that hip-hop wasn't mainstream enough, paving the way for hip-hop to become the world's most dominant genre.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Licensed_to_Ill"
-        }
+        "type": "album",
+        "descriptionZh": "史上第一张登顶Billboard的嘻哈专辑。Rick Rubin制作，摇滚吉他融合说唱节奏。",
+        "descriptionEn": "First hip-hop album to top Billboard. Rick Rubin production fusing rock guitars with rap beats.",
+        "storiesZh": "Beastie Boys最初是硬核朋克乐队，做嘻哈纯因好玩。《Fight For Your Right》本是讽刺派对男孩文化——很多人当真了。",
+        "storiesEn": "Started as hardcore punk band, switched to hip-hop for fun. Fight For Your Right was satire — many took it literally.",
+        "links": {}
       },
       {
         "id": "jay-chou-fantasy-plus-2001",
@@ -1126,20 +675,16 @@
         "coverImage": "",
         "genres": [
           "Mandopop",
-          "R&B",
-          "Hip-Hop"
+          "R&B"
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "周杰伦将R&B、嘻哈、古典和中国风融合的独特风格在这一时期完全成熟。从录音室助理到重塑华语流行音乐的天王，他的崛起堪称传奇。曾经为刘德华写的歌被退稿——没人能想到这个口齿不清的年轻人会彻底改写华语乐坛。",
-        "descriptionEn": "Jay Chou's unique fusion of R&B, hip-hop, classical, and Chinese elements reached full maturity during this period. From studio assistant to the king of Chinese pop — his rise is legendary. Songs he wrote for established stars were rejected; nobody expected this mumbling young man to rewrite the rules.",
-        "storiesZh": "两年前周杰伦还是吴宗宪公司里一个睡在录音室地板上的小助理，写歌给别人唱常常被退稿。给他两年时间，他终结了华语乐坛翻唱日韩歌曲的传统模式，开启了以原创为核心的华语流行新纪元。他的名字成了一个时代的注脚。",
-        "storiesEn": "Two years earlier, Jay Chou was a studio assistant sleeping on the recording room floor, his songs rejected by established singers. Within two years, he ended Chinese pop's tradition of covering Japanese and Korean songs, ushering in a new era centered on original creation.",
-        "historicalImpactZh": "周杰伦的出现终结了华语乐坛对日韩的翻唱依赖，开启了原创华语流行音乐的新纪元。他融合东西方元素的方式影响了整整一代华语音乐人。",
-        "historicalImpactEn": "Jay Chou's emergence ended Chinese pop's reliance on covers, ushering in an original-creation era. His East-West fusion influenced an entire generation of Chinese musicians.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Jay_Chou"
-        }
+        "type": "album",
+        "descriptionZh": "周杰伦R&B、嘻哈、古典与中国风融合完全成熟。从录音室助理到重塑华语流行，传奇崛起。",
+        "descriptionEn": "Jay Chou fusion of R&B, hip-hop, classical, Chinese elements reached maturity. From studio assistant to reshaping Chinese pop.",
+        "storiesZh": "两年前还是睡在录音室地板的小助理。两年后终结了华语乐坛翻唱日韩歌曲的模式，开启原创为主的新纪元。",
+        "storiesEn": "Two years earlier: studio assistant sleeping on floor. Two years later: ended Chinese pop tradition of covering J-pop/K-pop.",
+        "links": {}
       },
       {
         "id": "bjork-post-1995",
@@ -1149,7 +694,7 @@
         "artistZh": "比约克",
         "releaseDate": "07-10",
         "year": 1995,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/66/Bj%C3%B6rk_-_Post.png",
+        "coverImage": "",
         "genres": [
           "Art Pop",
           "Electronic",
@@ -1157,44 +702,42 @@
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Björk的第二张个人专辑，从狂暴的《Army of Me》到华丽的《It's Oh So Quiet》，每首歌都像一个独立世界。专辑名有双重含义——从冰岛「邮寄」给世界的信息，也是《Debut》「之后」的新篇章。封面上的红色夹克成为90年代最具辨识度的视觉符号之一。",
-        "descriptionEn": "Björk's second solo album — from the ferocious 'Army of Me' to the gorgeous 'It's Oh So Quiet,' each track is its own universe. The title means both messages 'posted' from Iceland and what comes 'after' Debut.",
-        "storiesZh": "录制期间Björk在伦敦经历了邮包炸弹事件——一个迷恋她的粉丝寄来的。这件事让她重新思考名人与粉丝间的边界，也影响了专辑中关于沟通和距离的主题。《It's Oh So Quiet》翻唱自1948年的歌曲，Björk把它变成了一场好莱坞式的歌舞剧——前30秒细语，后30秒爆发。",
-        "storiesEn": "During recording, Björk experienced a mail-bomb incident in London — sent by an obsessed fan. This made her rethink the celebrity-fan boundary, influencing the album's themes of communication and distance. 'It's Oh So Quiet' turned a 1948 song into a Hollywood-style musical number — 30 seconds of whisper, 30 seconds of explosion.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Post_(Bj%C3%B6rk_album)"
-        }
+        "type": "album",
+        "descriptionZh": "从狂暴《Army of Me》到华丽《It's Oh So Quiet》，每首歌都是一个独立世界。封面红色夹克成90年代最标志性视觉之一。",
+        "descriptionEn": "From ferocious Army of Me to gorgeous It's Oh So Quiet, each track is its own universe. Red jacket: most iconic 90s visual.",
+        "storiesZh": "录制期间经历邮包炸弹事件——迷恋她的粉丝寄来的。让Björk重新思考名人与粉丝的边界。",
+        "storiesEn": "During recording, experienced mail-bomb incident from obsessed fan. Made her rethink celebrity-fan boundary.",
+        "links": {}
       }
     ]
   },
   "08-15": {
     "date": "08-15",
-    "albums": [
+    "items": [
       {
-        "id": "the-beatles-help-1965",
+        "id": "beatles-help-1965",
         "name": "Help!",
         "nameZh": "救命！",
         "artist": "The Beatles",
         "artistZh": "披头士",
         "releaseDate": "08-15",
         "year": 1965,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album%29.jpg",
+        "coverImage": "",
         "genres": [
           "Pop Rock",
           "Folk Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "披头士第五张录音室专辑，同名电影原声带。标题曲《Help!》是John Lennon在名声的重压下发出的真实求救信号——「当我年轻的时候，我以为长大了就不需要任何人的帮助，」他后来回忆说，「我完全错了。」《Yesterday》作为Paul McCartney的独唱曲收录其中。",
-        "descriptionEn": "Beatles' fifth studio album, soundtrack to their second film. The title track was Lennon's genuine cry for help under the weight of fame. 'Yesterday' appeared as a McCartney solo piece — history's most covered song.",
-        "storiesZh": "《Yesterday》的旋律是Paul McCartney在梦中听到的。他醒来后冲到钢琴前把旋律弹下来，接下来好几个月都以为自己是无意识抄袭了别人的歌。他逢人就问：「你听过这首歌吗？」直到确认了没有人听过这个旋律，他才放心把它写成自己的作品。这首歌后来被翻唱了超过2200次，是史上被翻唱最多的歌曲。",
-        "storiesEn": "The melody for 'Yesterday' came to McCartney in a dream. He rushed to the piano, then spent months convinced he'd unconsciously plagiarized it. He asked everyone: 'Have you heard this song before?' Only after no one recognized it did he claim it. It's been covered over 2,200 times — the most covered song in history.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Help!"
-        }
+        "type": "album",
+        "descriptionZh": "披头士第五张专辑，同名电影原声。标题曲是Lennon在名声重压下发出的求救信号。含史上被翻唱最多的《Yesterday》。",
+        "descriptionEn": "Beatles fifth album, film soundtrack. Title track was Lennon genuine cry for help. Contains Yesterday — most covered song in history.",
+        "storiesZh": "《Yesterday》旋律是McCartney在梦中听到的。醒来冲到钢琴前，之后好几个月以为无意识抄袭了别人的歌。",
+        "storiesEn": "Yesterday melody came to McCartney in dream. Spent months convinced he unconsciously plagiarized.",
+        "links": {}
       },
       {
-        "id": "hush-everyone-wants-to-talk-2015",
+        "id": "hush-chance-fate-2015",
         "name": "机会与命运",
         "nameZh": "机会与命运",
         "artist": "Hush!",
@@ -1208,10 +751,11 @@
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "台湾独立流行乐队Hush!的代表作之一。主唱Hush的词作在华语独立音乐圈备受推崇——他以天文学和星座隐喻都市情感，创造了一种独特的「宇宙系」表达方式。孙燕姿的《克卜勒》就是由Hush填词。",
-        "descriptionEn": "One of Taiwanese indie pop band Hush!'s representative works. Frontman Hush's lyrics are revered in the indie scene — he uses astronomy and constellations as metaphors for urban emotions, creating a unique 'cosmic' expression style.",
-        "storiesZh": "Hush最早在台北的Live House驻唱，因为喜欢在歌曲中融入天文学隐喻而被歌迷称为「宇宙系歌手」。他的歌词常常从星座、行星运行切入，最终落在人类最朴素的情感上——孤独、渴望、对连接的渴求。这种独特的视角让他在众多华语独立音乐人中脱颖而出。",
-        "storiesEn": "Hush started performing in Taipei Live Houses, earning the nickname 'cosmic singer' for his astronomical metaphors. His lyrics often start with constellations and planetary orbits before landing on the most basic human emotions — loneliness, yearning, the desire for connection.",
+        "type": "album",
+        "descriptionZh": "台湾独立流行乐队Hush!代表作。主唱以天文学隐喻都市情感，创造独特的「宇宙系」表达。孙燕姿《克卜勒》即由其填词。",
+        "descriptionEn": "Taiwanese indie pop band representative work. Frontman uses astronomy metaphors for urban emotions — unique cosmic expression.",
+        "storiesZh": "Hush最早在台北Live House驻唱，因喜欢融入星座隐喻被歌迷称为「宇宙系歌手」。",
+        "storiesEn": "Hush started in Taipei Live Houses, nicknamed cosmic singer for astronomical metaphors.",
         "links": {}
       },
       {
@@ -1219,103 +763,28 @@
         "name": "Dookie",
         "nameZh": "屎",
         "artist": "Green Day",
-        "artistZh": "绿日乐队",
+        "artistZh": "绿日",
         "releaseDate": "08-15",
         "year": 1994,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/4/4b/Green_Day_-_Dookie.jpg",
+        "coverImage": "",
         "genres": [
           "Punk Rock",
           "Pop Punk"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Green Day的第三张专辑，将90年代朋克复兴推向了主流。《Basket Case》《When I Come Around》等歌曲以三分钟精确的朋克结构包裹了焦虑、无聊和青春躁动。专辑全球销量突破2000万张，定义了Pop Punk这一流派。",
-        "descriptionEn": "Green Day's third album pushed the 90s punk revival into the mainstream. Songs like 'Basket Case' wrapped anxiety, boredom, and teenage restlessness in precise three-minute punk structures. 20 million copies sold worldwide.",
-        "storiesZh": "《Basket Case》的歌词写于Billie Joe Armstrong的一次恐慌发作之后。他突然感觉自己要疯了，跑去看心理医生。医生告诉他只是焦虑症。他走出诊所后坐在路边，用20分钟写完了这首歌——「有时候我觉得自己快疯了/但也许那只是我的想象。」这首歌让无数同样在默默承受焦虑的年轻人找到了共鸣。",
-        "storiesEn": "Billie Joe Armstrong wrote 'Basket Case' after a panic attack. Convinced he was going crazy, he saw a psychiatrist who told him it was just anxiety. He sat on the curb outside, wrote the song in 20 minutes. It gave voice to countless young people silently struggling with anxiety.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Dookie"
-        }
-      }
-    ]
-  },
-  "09-08": {
-    "date": "09-08",
-    "albums": [
-      {
-        "id": "the-cure-disintegration-1989",
-        "name": "Disintegration",
-        "nameZh": "瓦解",
-        "artist": "The Cure",
-        "artistZh": "治愈乐队",
-        "releaseDate": "09-08",
-        "year": 1989,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/b/b4/The_Cure_-_Disintegration.jpg",
-        "genres": [
-          "Post-Punk",
-          "Gothic Rock",
-          "Dream Pop"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "The Cure的第八张专辑，哥特摇滚和梦幻流行的巅峰之作。Robert Smith在即将年满30岁时创作的这张专辑，充满了对时间流逝的恐惧和挥之不去的忧伤。《Pictures of You》《Lovesong》成为经久不衰的经典。",
-        "descriptionEn": "The Cure's eighth album, the peak of gothic rock and dream pop. Created as Robert Smith approached 30, the album is saturated with fear of time's passage and lingering melancholy.",
-        "storiesZh": "录制《Disintegration》期间Robert Smith陷入了严重的抑郁症，大量服用迷幻药导致他几乎住在录音棚里。唱片公司听到成品后惊慌失措——「太黑暗了，根本卖不出去！这会是乐队事业的终结！」结果恰恰相反：《Disintegration》成为了The Cure商业上最成功的专辑，全球销量超过四百万张。",
-        "storiesEn": "During recording, Robert Smith sank into severe depression, heavy LSD use keeping him virtually living in the studio. The label panicked: 'Too dark, it'll end the band's career!' The opposite happened: Disintegration became The Cure's most commercially successful album, selling over 4 million worldwide.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Disintegration_(The_Cure_album)"
-        }
-      },
-      {
-        "id": "hebe-tien-insignificance-2010",
-        "name": "To Hebe",
-        "nameZh": "To Hebe",
-        "artist": "Hebe Tien",
-        "artistZh": "田馥甄",
-        "releaseDate": "09-08",
-        "year": 2010,
-        "coverImage": "",
-        "genres": [
-          "Mandopop",
-          "Indie Pop",
-          "Folk"
-        ],
-        "language": "chinese",
-        "languageZh": "华语",
-        "descriptionZh": "S.H.E成员田馥甄的首张个人专辑，成功地从偶像组合歌手转型为独立风格的唱作人。《寂寞寂寞就好》等歌曲展现了完全不同于团体时期的成熟声音，清新的编曲和文艺气质在华语乐坛独树一帜。",
-        "descriptionEn": "S.H.E member Hebe Tien's debut solo album, successfully transforming from idol group singer to indie-style artist. Fresh arrangements and literary sensibility created a distinctive voice in Chinese pop.",
-        "storiesZh": "作为S.H.E成员出道十年的田馥甄，在个人专辑中选择了一条和团体完全不同的路——文艺、独立、不迎合。唱片公司最初很忐忑，但专辑发行后意外大卖，证明了市场对「做自己」的认可。这个转型成为华语偶像组合成员个人发展的最佳范例。",
-        "storiesEn": "After a decade as part of S.H.E, Hebe chose a completely different path for her solo work — literary, indie, uncompromising. The label was nervous, but the album was a surprise hit, proving the market's appetite for authenticity. Her transformation became the gold standard for idol group members going solo.",
+        "type": "album",
+        "descriptionZh": "90年代朋克复兴推向主流。《Basket Case》将焦虑包装在精确三分钟朋克结构中。全球销量2000万张。",
+        "descriptionEn": "Pushed 90s punk revival mainstream. Basket Case wrapped anxiety in precise 3-minute punk. 20 million sold worldwide.",
+        "storiesZh": "《Basket Case》写于Billie Joe一次恐慌发作后。他以为自己疯了去看心理医生——只是焦虑症。坐在路边20分钟写完。",
+        "storiesEn": "Basket Case written after Billie Joe panic attack. Convinced going crazy, saw psychiatrist — just anxiety. Wrote on curb in 20 minutes.",
         "links": {}
-      },
-      {
-        "id": "nick-drake-pink-moon-1972",
-        "name": "Pink Moon",
-        "nameZh": "粉红月亮",
-        "artist": "Nick Drake",
-        "artistZh": "尼克·德雷克",
-        "releaseDate": "09-08",
-        "year": 1972,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/5/5f/Nick_Drake_Pink_Moon.jpg",
-        "genres": [
-          "Folk",
-          "Singer-Songwriter"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "Nick Drake的第三张也是最后一张专辑，仅28分钟，几乎只有他的人声和一把木吉他。录制仅用了两个深夜。发行时几乎没有卖出去。Drake在两年后因抑郁症去世，年仅26岁。但几十年后，这张专辑被重新发现，如今被视为有史以来最凄美的民谣唱片之一。",
-        "descriptionEn": "Nick Drake's third and final album — just 28 minutes, almost nothing but his voice and acoustic guitar. Recorded in two late-night sessions. It barely sold. Drake died of depression at 26 two years later. Rediscovered decades later, it's now revered as one of the most heartbreakingly beautiful folk records ever.",
-        "storiesZh": "录制时Drake已经处于严重抑郁中，他会在录音棚里坐几个小时一言不发。制作人John Wood回忆说：「他就那样坐在那里，然后突然开始弹吉他唱歌，唱完了又回到沉默。」整张专辑只有两晚完成。他把母带送到唱片公司前台后就消失了——没有人知道他去了哪里。他于1974年在家中因抗抑郁药过量去世，至今无法确定是意外还是自杀。",
-        "storiesEn": "By the recording of Pink Moon, Drake was severely depressed, sitting silently in the studio for hours. Producer John Wood recalled: 'He'd just sit there, then suddenly start playing and singing, then go back to silence.' Two nights. He dropped the master tapes at the label's front desk and vanished. He died in 1974 from an antidepressant overdose — accident or suicide remains unknown.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Pink_Moon"
-        }
       }
     ]
   },
   "09-24": {
     "date": "09-24",
-    "albums": [
+    "items": [
       {
         "id": "nirvana-nevermind-1991",
         "name": "Nevermind",
@@ -1324,100 +793,89 @@
         "artistZh": "涅槃",
         "releaseDate": "09-24",
         "year": 1991,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermind.jpg",
+        "coverImage": "",
         "genres": [
           "Grunge",
           "Alternative Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "改变了整个90年代音乐格局的专辑。《Smells Like Teen Spirit》的一声怒吼终结了80年代华丽金属和流行偶像的统治，将西雅图地下Grunge推向了全球主流舞台。封面那个在水下追逐美钞的婴儿成为90年代最具标志性的影像。",
-        "descriptionEn": "The album that changed the 90s musical landscape. One roar of 'Smells Like Teen Spirit' ended the reign of hair metal and pop idols, propelling Seattle's underground grunge to global dominance.",
-        "storiesZh": "录制预算仅65000美元。Kurt Cobain对混音不满意，请来了Andy Wallace——混音后的声音比Cobain预期的「太干净了」。封面婴儿Spencer Elden长大后对这张照片表达了复杂感受。专辑发行后迅速取代Michael Jackson的《Dangerous》登顶Billboard排行榜，标志着摇滚对流行的逆袭。",
-        "storiesEn": "Recording budget: $65,000. Cobain found the first mix too raw, brought in Andy Wallace — then complained the new mix was 'too clean.' The album dethroned Michael Jackson's 'Dangerous' atop Billboard — rock's counterattack against pop.",
-        "historicalImpactZh": "埋葬了华丽金属，标志着另类文化正式进入主流。让整整一代年轻人找到了自己的声音，从根本上改变了唱片工业的判断标准。",
-        "historicalImpactEn": "Buried hair metal, marked alternative culture's mainstream breakthrough. Gave an entire generation their voice, fundamentally changing what the industry believed could sell.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Nevermind"
-        }
+        "type": "album",
+        "descriptionZh": "改变90年代音乐格局。《Smells Like Teen Spirit》一声怒吼终结华丽金属时代。封面追美钞的婴儿成经典标志。",
+        "descriptionEn": "Changed 90s music. One roar ended hair metal era. Cover: baby swimming toward dollar bill — iconic symbol.",
+        "storiesZh": "录制预算仅65000美元。Cobain嫌混音太干净请来Andy Wallace——然后又嫌Wallace太干净。取代Michael Jackson登顶Billboard。",
+        "storiesEn": "Budget: $65K. Cobain found mix too raw, brought in Wallace — then complained it was too clean. Dethroned Michael Jackson atop charts.",
+        "links": {}
       },
       {
-        "id": "xu-wei-every-moment-1997",
+        "id": "xu-wei-elsewhere-1997",
         "name": "在别处",
         "nameZh": "在别处",
         "artist": "Xu Wei",
         "artistZh": "许巍",
         "releaseDate": "09-24",
         "year": 1997,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/2/21/Xu_Wei_-_Elsewhere.jpg",
+        "coverImage": "",
         "genres": [
           "Rock",
-          "Chinese Rock",
-          "Folk Rock"
+          "Chinese Rock"
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "许巍的首张专辑，中国摇滚最动人的作品之一。不同于同时代摇滚乐的愤怒，许巍的音乐中流淌着深沉的忧伤和对远方的向往。《在别处》《我的秋天》以诗意的歌词触动无数年轻人的心。多年后他的《蓝莲花》成为中国自驾游圈子的「国歌」。",
-        "descriptionEn": "Xu Wei's debut, one of Chinese rock's most moving works. Unlike contemporaries' anger, Xu Wei's music flows with deep melancholy and yearning. Years later, his 'Blue Lotus' became the 'anthem' of China's road trip community.",
-        "storiesZh": "许巍在西安部队大院长大，后来成为标准「北漂」——在北京艰难追梦。专辑中的漂泊感和孤独感皆来自真实生活。从忧伤的漂泊者到自由的流浪者，他的音乐人生本身就是一段传奇。",
-        "storiesEn": "Xu Wei grew up in a military compound in Xi'an, then became a Beijing drifter chasing music dreams. The album's sense of drifting comes from real life. From melancholy drifter to free wanderer, his musical journey is itself a legend.",
-        "links": {
-          "douban": "https://music.douban.com/subject/1433554/"
-        }
+        "type": "album",
+        "descriptionZh": "许巍首专，中国摇滚最动人作品之一。不同于同时代的愤怒，流淌着深沉忧伤与对远方的向往。",
+        "descriptionEn": "Xu Wei debut, one of Chinese rock most moving works. Unlike contemporaries anger, flows with deep melancholy.",
+        "storiesZh": "西安部队大院长大，后成北京标准北漂。专辑中的漂泊感来自真实生活。多年后《蓝莲花》成中国自驾游圈子国歌。",
+        "storiesEn": "Grew up in military compound, became Beijing drifter. Years later Blue Lotus became road trip anthem.",
+        "links": {}
       },
       {
-        "id": "the-beach-boys-pet-sounds-1966",
+        "id": "beach-boys-pet-sounds-1966",
         "name": "Pet Sounds",
         "nameZh": "宠物之声",
         "artist": "The Beach Boys",
         "artistZh": "沙滩男孩",
         "releaseDate": "09-24",
         "year": 1966,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/b/b2/PetSoundsCover.jpg",
+        "coverImage": "",
         "genres": [
           "Baroque Pop",
           "Psychedelic Pop"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Brian Wilson的杰作，流行音乐史上最精美的制作之一。他在精神崩溃的边缘创作了这张专辑——在录音棚里使用管弦乐队、特雷门琴、狗叫声和自行车铃等非常规声音，把流行音乐当作交响乐来编排。《God Only Knows》被Paul McCartney称为「有史以来最完美的歌曲」。",
-        "descriptionEn": "Brian Wilson's masterpiece, one of pop's most exquisite productions. Created on the edge of a mental breakdown, using orchestras, theremins, dog barks, and bicycle bells — arranging pop music as symphony.",
-        "storiesZh": "Wilson在精神崩溃和药物滥用的状态下录制了这张专辑。他用全新的「录音棚即乐器」方式工作——让录音室音乐家一遍又一遍演奏，然后像拼图一样拼接。专辑在美国销量不佳（太超前了），但在英国获得了巨大成功，并直接刺激了披头士制作《Sgt. Pepper》。McCartney后来说：「如果没有《Pet Sounds》，就不会有《Sgt. Pepper》。」",
-        "storiesEn": "Wilson recorded this album amid mental breakdown and substance abuse, pioneering the 'studio as instrument' approach — studio musicians played endlessly, Wilson assembled like a puzzle. It flopped in the US (too ahead of its time) but soared in the UK, directly inspiring The Beatles to make Sgt. Pepper. McCartney: 'Without Pet Sounds, there would be no Sgt. Pepper.'",
-        "historicalImpactZh": "《Pet Sounds》树立了录音棚作为创作工具的范式，直接影响了《Sgt. Pepper》和之后所有「概念专辑」的创作理念。",
-        "historicalImpactEn": "Pet Sounds established the recording studio as a creative tool, directly inspiring Sgt. Pepper and every concept album that followed.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Pet_Sounds"
-        }
+        "type": "album",
+        "descriptionZh": "Brian Wilson杰作，流行音乐最精美制作之一。用管弦乐、特雷门琴等把流行音乐当交响乐编排。直接启发《Sgt. Pepper》。",
+        "descriptionEn": "Brian Wilson masterpiece — one of pop most exquisite productions. Orchestra, theremin as symphony. Directly inspired Sgt. Pepper.",
+        "storiesZh": "Wilson在精神崩溃和药物滥用状态下录制。McCartney后来说：「没有《Pet Sounds》就不会有《Sgt. Pepper》。」",
+        "storiesEn": "Wilson recorded amid breakdown and substance abuse. McCartney: Without Pet Sounds, no Sgt. Pepper.",
+        "links": {}
       }
     ]
   },
   "10-01": {
     "date": "10-01",
-    "albums": [
+    "items": [
       {
-        "id": "tony-bennett-mtv-unplugged-1994",
-        "name": "MTV Unplugged",
-        "nameZh": "MTV不插电",
-        "artist": "Tony Bennett",
-        "artistZh": "托尼·班奈特",
+        "id": "pink-floyd-wish-you-1975",
+        "name": "Wish You Were Here",
+        "nameZh": "愿你在此",
+        "artist": "Pink Floyd",
+        "artistZh": "平克·弗洛伊德",
         "releaseDate": "10-01",
-        "year": 1994,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/d/dd/Tony_Bennett_MTV_Unplugged.jpg",
+        "year": 1975,
+        "coverImage": "",
         "genres": [
-          "Jazz",
-          "Vocal Jazz",
-          "Traditional Pop"
+          "Progressive Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "68岁的Tony Bennett在MTV舞台上的惊人演出，向年轻一代介绍了一个即将消失的美国歌曲传统（Great American Songbook）。这张现场专辑获得了格莱美年度专辑奖，证明了真正的艺术不在乎年龄。",
-        "descriptionEn": "68-year-old Tony Bennett's stunning MTV appearance introduced a new generation to the Great American Songbook. The live album won the Grammy for Album of the Year, proving real art doesn't care about age.",
-        "storiesZh": "唱片公司最初强烈反对这个计划——让一个68岁的传统流行歌手去MTV（当时全是年轻摇滚和嘻哈艺人的地盘）做不插电现场？但当Bennett站上舞台，用他的声音诠释那些写于三四十年代的爵士经典时，台下的年轻观众全部安静了下来。这张专辑后来启发了无数「复古」项目，也开启了Bennett晚年与Lady Gaga等年轻艺人的合作。",
-        "storiesEn": "The label was dead against it — a 68-year-old traditional pop singer on MTV's youth-rock-hip-hop turf? But when Bennett stood on stage singing jazz standards from the 30s and 40s, the young crowd fell utterly silent. The album inspired countless retro projects and Bennett's late-career collaborations with Lady Gaga.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/MTV_Unplugged_(Tony_Bennett_album)"
-        }
+        "type": "album",
+        "descriptionZh": "Pink Floyd献给前成员Syd Barrett的情书。全专围绕缺席展开，批判音乐产业，怀念逝去友人。",
+        "descriptionEn": "Pink Floyd love letter to former member Syd Barrett. Album revolves around absence — music industry critique, mourning for lost friend.",
+        "storiesZh": "录制时一个剃光头的陌生胖男人走进录音棚——竟是Syd Barrett本人，被毒品和精神疾病彻底摧毁。这是他最后一次出现在乐队面前。",
+        "storiesEn": "During recording, strange bald overweight man walked in — it was Syd Barrett, destroyed by drugs and mental illness. His last appearance before the band.",
+        "links": {}
       },
       {
         "id": "tanya-chua-amphibian-2005",
@@ -1434,40 +892,40 @@
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "新加坡唱作人蔡健雅的代表作，展现了她作为华语乐坛顶尖女性唱作人的实力。慵懒而富于质感的嗓音配合精致的都市情歌编曲，《双栖动物》《达尔文》等作品触动了无数都市女性的心。",
-        "descriptionEn": "Singaporean singer-songwriter Tanya Chua's representative work, showcasing her prowess as one of Chinese pop's top female songwriters. Her textured, languid voice with sophisticated urban arrangements touched countless urban women.",
-        "storiesZh": "蔡健雅是华语乐坛中少有的集词曲创作、制作和演唱于一身的全能音乐人。她被称为「金曲奖收割机」——四度获得金曲奖最佳国语女歌手奖，创下纪录。有趣的是她的中文是后来才学的，却能写出比很多母语者更精妙的歌词。",
-        "storiesEn": "Tanya Chua is one of the rare Chinese pop artists who writes, produces, and sings all herself. She's called the 'Golden Melody Award Harvester' — a record four-time Best Mandarin Female Singer winner. She learned Mandarin later in life, yet writes more nuanced lyrics than many native speakers.",
+        "type": "album",
+        "descriptionZh": "新加坡唱作人蔡健雅代表作，四度金曲奖最佳国语女歌手。慵懒而富质感的嗓音配合精致都市情歌编曲。",
+        "descriptionEn": "Singaporean Tanya Chua — record four-time Golden Melody Best Female Singer. Languid textured voice with sophisticated urban arrangements.",
+        "storiesZh": "中文是后来才学的，却能写出比很多母语者更精妙的歌词。被称为「金曲奖收割机」。",
+        "storiesEn": "Mandarin learned later in life, yet writes more nuanced lyrics than many native speakers. Called Golden Melody Award Harvester.",
         "links": {}
       },
       {
-        "id": "pink-floyd-wish-you-were-here-1975",
-        "name": "Wish You Were Here",
-        "nameZh": "愿你在此",
-        "artist": "Pink Floyd",
-        "artistZh": "平克·弗洛伊德",
+        "id": "tony-bennett-unplugged-1994",
+        "name": "MTV Unplugged",
+        "nameZh": "MTV不插电",
+        "artist": "Tony Bennett",
+        "artistZh": "托尼·班奈特",
         "releaseDate": "10-01",
-        "year": 1975,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/1/1b/Wish_You_Were_Here_Cover.jpg",
+        "year": 1994,
+        "coverImage": "",
         "genres": [
-          "Progressive Rock",
-          "Art Rock"
+          "Jazz",
+          "Vocal Jazz"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Pink Floyd献给前乐队成员Syd Barrett的一封情书。整张专辑围绕「缺席」这一主题展开——对音乐产业的批判（《Welcome to the Machine》）、对逝去友人的怀念（《Shine On You Crazy Diamond》）。专辑获得了压倒性的好评。",
-        "descriptionEn": "Pink Floyd's love letter to former bandmate Syd Barrett. The album revolves around 'absence' — critique of the music industry, mourning for a lost friend. It received overwhelming critical acclaim.",
-        "storiesZh": "录制期间发生了一件令人心碎的事。在录制《Shine On You Crazy Diamond》——一首关于Syd Barrett的歌时，一个陌生的胖男人走进了录音棚。他剃了光头和眉毛，不停地在角落里做着奇怪的动作。乐队成员一开始以为是某个流浪汉闯了进来。过了很久他们才认出——那是Syd Barrett本人。他曾经的英俊容貌已经被毒品和精神疾病彻底摧毁。这是他最后一次出现在乐队面前。",
-        "storiesEn": "During recording, something heartbreaking happened. While laying down 'Shine On You Crazy Diamond' — a song about Syd Barrett — a strange overweight man walked into the studio. Shaved head, shaved eyebrows, doing odd movements in the corner. The band thought it was a random vagrant. After a long while they realized — it was Syd Barrett himself, his once-beautiful face destroyed by drugs and mental illness. It was his last appearance before the band.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Wish_You_Were_Here_(Pink_Floyd_album)"
-        }
+        "type": "album",
+        "descriptionZh": "68岁Tony Bennett在MTV舞台向年轻一代介绍Great American Songbook。获格莱美年度专辑。",
+        "descriptionEn": "68-year-old Bennett introduced Great American Songbook to new generation on MTV. Won Grammy Album of Year.",
+        "storiesZh": "唱片公司最初强烈反对——68岁传统歌手去MTV做不插电？但当他站上舞台，台下年轻观众全部安静了。",
+        "storiesEn": "Label dead against — 68-year-old traditional singer on MTV? But when he stood on stage, young crowd fell silent.",
+        "links": {}
       }
     ]
   },
   "10-11": {
     "date": "10-11",
-    "albums": [
+    "items": [
       {
         "id": "bob-marley-exodus-1977",
         "name": "Exodus",
@@ -1476,20 +934,18 @@
         "artistZh": "鲍勃·马利",
         "releaseDate": "10-11",
         "year": 1977,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/7/7a/BobMarleyExodus.jpg",
+        "coverImage": "",
         "genres": [
-          "Reggae",
-          "Roots Reggae"
+          "Reggae"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Bob Marley在暗杀未遂后流亡伦敦期间录制的专辑。《Jamming》《One Love》《Three Little Birds》成为雷鬼音乐最广为人知的圣歌。1999年《时代》杂志将其评选为「世纪最佳专辑」。",
-        "descriptionEn": "Recorded in London exile after an assassination attempt on Marley's life. 'Jamming,' 'One Love,' 'Three Little Birds' became reggae's most universal anthems. TIME magazine named it Album of the Century in 1999.",
-        "storiesZh": "1976年，不明身份的枪手闯入Marley在牙买加的家中，向他和他妻子开火。两人奇迹般幸存。第二天，Marley依然出现在计划好的一场大型演唱会上——伤口还包裹着绷带。「那些试图让这个世界变得更糟的人一天都不休息，」他说，「那我怎么能休息？」之后他飞往伦敦录制了《Exodus》。",
-        "storiesEn": "In 1976, unknown gunmen stormed Marley's Jamaican home, shooting him and his wife. Both miraculously survived. The next day, Marley performed at a massive concert anyway — bandages still on. 'The people who are trying to make this world worse aren't taking a day off,' he said. 'How can I?' He flew to London and recorded Exodus.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Exodus_(Bob_Marley_and_the_Wailers_album)"
-        }
+        "type": "album",
+        "descriptionZh": "暗杀未遂后在伦敦流亡中录制。《Jamming》《One Love》成雷鬼最广为传唱的圣歌。《时代》「世纪最佳专辑」。",
+        "descriptionEn": "Recorded in London exile after assassination attempt. TIME Album of the Century.",
+        "storiesZh": "1976年枪手闯入牙买加家中向他与妻子开枪。奇迹幸存，第二天仍带伤登台。",
+        "storiesEn": "1976: gunmen stormed Jamaican home, shot him and wife. Survived, performed next day still bandaged.",
+        "links": {}
       },
       {
         "id": "joker-xue-actor-2017",
@@ -1506,62 +962,60 @@
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "薛之谦的爆红专辑，同名曲《演员》成为近年华语乐坛播放量最高的歌曲之一。他的歌词聚焦爱情的欺骗与自我欺骗，以一种近乎残忍的坦诚打动人心。从网络翻唱歌手到华语流行前线，薛之谦的路径代表了互联网时代的艺人成长模式。",
-        "descriptionEn": "Joker Xue's breakthrough album, with the title track becoming one of the most-streamed Chinese pop songs in recent years. His lyrics focus on deception and self-deception in love, moving listeners with near-brutal honesty.",
-        "storiesZh": "薛之谦的音乐生涯堪称跌宕起伏。2005年出道后一度沉寂十年，靠开火锅店和写段子维生。当所有人都以为他是个搞笑网红时，他以《演员》强势回归，证明了自己首先是音乐人。他的故事激励了无数在低谷中坚持的创作者——第二次机会是存在的。",
-        "storiesEn": "Xue's career has been a rollercoaster. After debuting in 2005, he faded for a decade, surviving by running a hotpot restaurant and writing jokes online. Just as everyone thought he was just a comedian, he returned with 'Actor,' proving he was first and foremost a musician. His story inspires creators in their own dark periods — second chances exist.",
+        "type": "single",
+        "descriptionZh": "近年华语播放量最高单曲之一。以近乎残忍的坦诚描绘爱情中的欺骗与自我欺骗。",
+        "descriptionEn": "One of recent years most-streamed Chinese singles. Near-brutal honesty about deception and self-deception in love.",
+        "storiesZh": "出道后沉寂十年，靠开火锅店和写段子维生。当所有人以为他只是搞笑网红时以这首歌强势回归。",
+        "storiesEn": "Faded for decade after debut, survived by running hotpot restaurant. Just as everyone thought he was just a comedian — returned triumphantly.",
         "links": {}
       },
       {
-        "id": "u2-the-joshua-tree-1987",
+        "id": "u2-joshua-tree-1987",
         "name": "The Joshua Tree",
         "nameZh": "约书亚树",
         "artist": "U2",
         "artistZh": "U2",
         "releaseDate": "10-11",
         "year": 1987,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/6b/The_Joshua_Tree.jpg",
+        "coverImage": "",
         "genres": [
           "Rock",
           "Alternative Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "U2的第五张录音室专辑，使他们从体育馆乐队一跃成为全球现象。专辑深受美国广阔地貌和根源音乐的影响，而The Edge的延迟吉他创造了独属于U2的「大空间」声响。《With or Without You》《I Still Haven't Found What I'm Looking For》双登顶Billboard。",
-        "descriptionEn": "U2's fifth album vaulted them from arena band to global phenomenon. Deeply influenced by America's vast landscapes and roots music, The Edge's delay-heavy guitar created their signature 'big space' sound.",
-        "storiesZh": "专辑灵感来自乐队1986年在美国西南部沙漠中的旅行。The Edge说那里的风景让他感觉「站在了世界的边缘」。封面上他们在加州死亡谷的约书亚树国家公园拍摄——刺骨的寒风中Bono穿着单薄的皮夹克。这张封面后来成为摇滚史上最具辨识度的图像之一，以至于约书亚树国家公园的游客数量在专辑发行后暴增。",
-        "storiesEn": "The album was inspired by the band's 1986 travels through the American Southwest desert. The Edge said the landscape made him feel 'at the edge of the world.' The cover was shot in Joshua Tree National Park — Bono in a thin leather jacket against biting wind. Visitors to the park surged after the album's release.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/The_Joshua_Tree"
-        }
+        "type": "album",
+        "descriptionZh": "U2从体育馆乐队跃升全球现象。深受美国广阔地貌和根源音乐影响，The Edge延迟吉他创造标志性大空间声响。",
+        "descriptionEn": "U2 vaulted from arena band to global phenomenon. The Edge delay guitar created signature big space sound.",
+        "storiesZh": "灵感来自1986年美国西南沙漠旅行。封面在约书亚树国家公园拍摄——Bono在刺骨寒风中穿着单薄皮夹克。",
+        "storiesEn": "Inspired by 1986 Southwest desert travels. Cover shot in Joshua Tree National Park — Bono in thin leather jacket against biting wind.",
+        "links": {}
       }
     ]
   },
   "11-08": {
     "date": "11-08",
-    "albums": [
+    "items": [
       {
-        "id": "the-doors-the-doors-1967",
+        "id": "doors-debut-1967",
         "name": "The Doors",
-        "nameZh": "大门乐队同名专辑",
+        "nameZh": "大门",
         "artist": "The Doors",
         "artistZh": "大门乐队",
         "releaseDate": "11-08",
         "year": 1967,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/e/ef/TheDoorsTheDoors.jpg",
+        "coverImage": "",
         "genres": [
-          "Psychedelic Rock",
-          "Blues Rock"
+          "Psychedelic Rock"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "The Doors的首张专辑，以Jim Morrison的诗人气质和Ray Manzarek的风琴定义了暗黑迷幻摇滚。《Light My Fire》长达7分钟的爵士即兴段落打破了流行歌曲的格式。《The End》中俄狄浦斯式的黑暗叙事至今令人战栗。",
-        "descriptionEn": "The Doors' debut defined dark psychedelic rock with Jim Morrison's poetic presence and Ray Manzarek's organ. 'Light My Fire's 7-minute jazz improvisation broke the pop song mold. Oedipal darkness in 'The End' still chills.",
-        "storiesZh": "《The End》在Whisky a Go Go俱乐部首次演出时，Morrison加入了俄狄浦斯杀父娶母的即兴段落。俱乐部老板当场解雇了乐队。但正是这段被解雇的演出吸引了唱片公司的注意，促成了他们很快签约。Morrison去世时仅27岁，成为了「27俱乐部」最著名的成员之一。",
-        "storiesEn": "At the Whisky a Go Go, Morrison improvised the Oedipal section of 'The End' — the club owner fired them on the spot. But that very performance caught label attention, leading to a quick signing. Morrison died at 27, a founding member of the '27 Club.'",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/The_Doors_(album)"
-        }
+        "type": "album",
+        "descriptionZh": "The Doors首专，Jim Morrison诗人气质与Ray Manzarek风琴定义暗黑迷幻摇滚。《Light My Fire》7分钟即兴打破流行格式。",
+        "descriptionEn": "The Doors debut defined dark psychedelic rock. Light My Fire 7-minute improvisation broke pop format.",
+        "storiesZh": "《The End》在Whisky演出时加入俄狄浦斯即兴段落被当场解雇——但正是这场演出吸引了唱片公司。",
+        "storiesEn": "The End Oedipal improvisation at Whisky got them fired — but that performance caught label attention.",
+        "links": {}
       },
       {
         "id": "na-ying-conquer-1998",
@@ -1578,196 +1032,120 @@
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "那英的代表作，华语情歌黄金时代的巅峰专辑之一。标题曲《征服》以近乎咆哮的情感爆发力展现了那英独特的嗓音张力。《梦醒了》《不管有多苦》等歌曲成为KTV经典曲目。专辑销量突破百万。",
-        "descriptionEn": "Na Ying's masterpiece, one of the peak albums of Chinese balladry's golden age. The title track showcases her unique vocal power with near-roaring emotional intensity. Multiple KTV classics, million-plus sales.",
-        "storiesZh": "那英的嗓音在华语乐坛独树一帜——粗粝中带着细腻，被认为是华语女歌手最独特的音色之一。她从东北沈阳考到北京，从谷建芬的学生成长为华语天后，经历了歌坛的几代变迁。《征服》是她在事业巅峰期的代表作，至今仍被无数选秀选手翻唱。",
-        "storiesEn": "Na Ying's voice is uniquely distinctive in Chinese pop — rough yet delicate. From Shenyang to Beijing, from student to diva, she's navigated multiple eras of Chinese music. 'Conquer' remains the go-to audition song for aspiring singers.",
-        "links": {
-          "douban": "https://music.douban.com/subject/1407523/"
-        }
+        "type": "album",
+        "descriptionZh": "那英代表作，华语情歌黄金时代巅峰。标题曲以近乎咆哮的情感爆发展现独特嗓音张力，销量破百万。",
+        "descriptionEn": "Na Ying masterpiece — peak of Chinese ballad golden age. Near-roaring emotional intensity, million-plus sales.",
+        "storiesZh": "从东北沈阳考到北京，从谷建芬学生成长为华语天后。粗粝中带着细腻的嗓音被视为最独特音色之一。",
+        "storiesEn": "From Shenyang to Beijing, from student to diva. Rough yet delicate voice considered one of most unique timbres.",
+        "links": {}
       },
       {
-        "id": "joy-division-unknown-pleasures-1979",
+        "id": "joy-division-unknown-1979",
         "name": "Unknown Pleasures",
         "nameZh": "未知的愉悦",
         "artist": "Joy Division",
         "artistZh": "欢乐分队",
         "releaseDate": "11-08",
         "year": 1979,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/7/7d/UnknownPleasures.jpg",
+        "coverImage": "",
         "genres": [
           "Post-Punk"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Joy Division的首张专辑，后朋克运动的定义性作品。Ian Curtis低沉的男中音在Peter Hook低音旋律线和Stephen Morris的冰冷鼓机之间游走，创造了一种前所未有的都市孤绝氛围。封面上的脉冲星波形图成为音乐史上最著名的设计之一。",
-        "descriptionEn": "Joy Division's debut, the defining work of post-punk. Ian Curtis's baritone moves between Peter Hook's melodic bass lines and Stephen Morris's icy drum machine, creating an unprecedented atmosphere of urban desolation.",
-        "storiesZh": "封面图案是射电天文学家发现的第一个脉冲星CP 1919的无线电波信号图。设计师Peter Saville从一本天文学百科全书中找到了这幅图。Curtis的歌词充满了他自己与癫痫病和抑郁症斗争的隐喻。专辑发行仅六个月后，Curtis在家中自杀，年仅23岁。这张专辑从一次性作品变成了遗书，也变成了永恒的经典。",
-        "storiesEn": "The cover image is a radio signal graph of pulsar CP 1919, the first pulsar ever discovered. Designer Peter Saville found it in an astronomy encyclopedia. Curtis's lyrics are filled with metaphors for his battles with epilepsy and depression. Six months after release, Curtis hanged himself at 23. The album transformed from a work into a suicide note — and an eternal classic.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Unknown_Pleasures"
-        }
+        "type": "album",
+        "descriptionZh": "后朋克定义性作品。Ian Curtis低沉男中音在冰冷鼓机间游走，创造前所未有的都市孤绝氛围。封面脉冲星波形成最著名设计之一。",
+        "descriptionEn": "Post-punk defining work. Cover: pulsar waveform — most famous design. Curtis lyrics filled with epilepsy and depression metaphors.",
+        "storiesZh": "封面是第一个被发现的脉冲星CP 1919无线电信号图。专辑发行仅六个月后Curtis在家中自杀，年仅23岁。",
+        "storiesEn": "Cover: radio signal of pulsar CP 1919. Six months after release, Curtis hanged himself at 23. Album became a suicide note — and eternal classic.",
+        "links": {}
       }
     ]
   },
   "11-22": {
     "date": "11-22",
-    "albums": [
+    "items": [
       {
-        "id": "beatles-white-album-1968",
+        "id": "beatles-white-1968",
         "name": "The Beatles (White Album)",
-        "nameZh": "披头士（白色专辑）",
+        "nameZh": "白色专辑",
         "artist": "The Beatles",
         "artistZh": "披头士",
         "releaseDate": "11-22",
         "year": 1968,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/2/20/TheBeatles68LP.jpg",
+        "coverImage": "",
         "genres": [
           "Rock",
           "Pop",
-          "Folk",
           "Experimental"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "披头士唯一的双专辑，也是最分裂也最丰富多彩的作品。从《Blackbird》的温馨到《Revolution 9》的噪音实验，30首歌几乎涵盖了所有可想象的音乐类型。Lennon、McCartney和Harrison在这个节点上已经各自走向了完全不同的方向。",
-        "descriptionEn": "The Beatles' only double album, their most fragmented yet diverse work. From 'Blackbird' to the noise experiment 'Revolution 9,' 30 tracks span nearly every genre imaginable. Lennon, McCartney, and Harrison had already gone separate ways musically.",
-        "storiesZh": "录制期间乐队关系极度紧张。Ringo一度退出了乐队，Paul因为Lennon把Yoko带进录音棚而大发雷霆。讽刺的是，这张在近乎崩溃状态下录制的专辑却成就了《While My Guitar Gently Weeps》《Blackbird》等无数经典。纯白封面是极简艺术家Richard Hamilton的设计——用纯白反讽当时专辑封面越做越花哨的趋势。",
-        "storiesEn": "Band relations reached breaking point during recording. Ringo briefly quit. Paul raged about Yoko in the studio. Ironically, an album recorded near collapse produced 'While My Guitar Gently Weeps,' 'Blackbird,' and more. The stark white cover was Richard Hamilton's minimalist response to the era's increasingly elaborate covers.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/The_Beatles_(album)"
-        }
+        "type": "album",
+        "descriptionZh": "披头士唯一双专辑，最分裂也最丰富。30首歌涵盖几乎所有音乐类型。纯白封面是极简主义艺术家设计。",
+        "descriptionEn": "Beatles only double album — most fragmented yet diverse. White cover: minimalist Richard Hamilton design.",
+        "storiesZh": "录制期间关系极度紧张。Ringo一度退出，Paul因Lennon带Yoko进棚大发雷霆。混乱中造就无数经典。",
+        "storiesEn": "Band relations hit breaking point. Ringo briefly quit, Paul raged about Yoko. Chaos produced countless classics.",
+        "links": {}
       },
       {
-        "id": "silence-wang-slowly-understand-2014",
+        "id": "silence-wang-slowly-2014",
         "name": "慢慢懂",
         "nameZh": "慢慢懂",
         "artist": "Silence Wang",
         "artistZh": "汪苏泷",
         "releaseDate": "11-22",
         "year": 2014,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/d/dc/Wang_Sulong_-_Mystery_Guest.jpg",
+        "coverImage": "",
         "genres": [
           "Mandopop",
           "R&B"
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "汪苏泷从网络歌手到主流艺人的转型之作。与许嵩、徐良并称为「QQ音乐三巨头」的他代表了中国互联网草根音乐力量的崛起。在没有唱片公司支持下，通过网络平台直接触达了数以千万计的听众。",
-        "descriptionEn": "Silence Wang's transition from internet singer to mainstream artist. As one of the 'Big Three of QQ Music,' he represents the rise of grassroots internet music power — reaching tens of millions of listeners without label support.",
-        "storiesZh": "「QQ音乐三巨头」现象是中国音乐产业的一个独特篇章——三个完全没有签约主流唱片公司的年轻人，凭借自己在家录制的歌曲，在QQ音乐上积累了上亿的播放量。他们绕过了传统唱片工业的守门人，直接用音乐与听众对话。这一模式后来被无数独立音乐人效仿。",
-        "storiesEn": "The 'QQ Music Big Three' phenomenon is a unique chapter in Chinese music — three unsigned young artists, recording at home, amassing hundreds of millions of plays. They bypassed traditional industry gatekeepers entirely, speaking directly to listeners. This model was later emulated by countless indie artists.",
+        "type": "album",
+        "descriptionZh": "汪苏泷从网络歌手到主流艺人转型之作。「QQ音乐三巨头」代表中国互联网草根音乐力量崛起。",
+        "descriptionEn": "Silence Wang transition from internet singer to mainstream. QQ Music Big Three: rise of Chinese grassroots internet music.",
+        "storiesZh": "三巨头现象——三个无签约年轻人在家自制歌曲积累上亿播放，绕过传统唱片工业守门人。",
+        "storiesEn": "Big Three: three unsigned youngsters recording at home, hundreds of millions of plays, bypassing industry gatekeepers.",
         "links": {}
       },
       {
-        "id": "frank-sinatra-in-the-wee-small-hours-1955",
+        "id": "sinatra-wee-small-1955",
         "name": "In the Wee Small Hours",
         "nameZh": "在凌晨时分",
         "artist": "Frank Sinatra",
         "artistZh": "弗兰克·辛纳屈",
         "releaseDate": "11-22",
         "year": 1955,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/d/d9/Frank_Sinatra_-_In_the_Wee_Small_Hours.jpg",
+        "coverImage": "",
         "genres": [
           "Vocal Jazz",
           "Traditional Pop"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "音乐史上最早的概念专辑之一。辛纳屈用无与伦比的嗓音诠释深夜的孤独与心碎，全部16首歌围绕失眠、失落和无法挽回的爱情展开。为后来的披头士、平克·弗洛伊德等概念专辑提供了最早的范本。",
-        "descriptionEn": "One of music history's first concept albums. Sinatra's incomparable voice interprets late-night loneliness and heartbreak — all 16 songs about insomnia, loss, irrecoverable love. The template for every concept album that followed.",
-        "storiesZh": "录制时辛纳屈正深陷与Ava Gardner的婚变痛苦中。这段感情的破裂几乎摧毁了他——他曾在录音时崩溃大哭，制作人不得不把他带出录音棚冷静。正是这种真实的心碎赋予了专辑难以置信的情感力量。封面照片：辛纳屈独自站在深夜空无一人的街头，蓝色路灯下——这个画面完美概括了整张专辑的情绪。",
-        "storiesEn": "Sinatra was in agony over his crumbling marriage to Ava Gardner during recording. He broke down crying mid-session. That genuine heartbreak gave the album its incredible emotional power. The cover — Sinatra alone on an empty late-night street under blue lamplight — perfectly encapsulates the album's mood.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/In_the_Wee_Small_Hours"
-        }
-      }
-    ]
-  },
-  "12-03": {
-    "date": "12-03",
-    "albums": [
-      {
-        "id": "jay-z-the-black-album-2003",
-        "name": "The Black Album",
-        "nameZh": "黑色专辑",
-        "artist": "Jay-Z",
-        "artistZh": "杰斯",
-        "releaseDate": "12-03",
-        "year": 2003,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/1/1a/The_Black_Album_%28Jay-Z_album%29.jpg",
-        "genres": [
-          "Hip-Hop",
-          "Rap"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "Jay-Z当时宣布的「退休之作」。他邀请了最顶尖的制作人——Kanye West、Just Blaze、The Neptunes、Timbaland等各贡献一首。专辑实现了商业与艺术的完美平衡，《99 Problems》《Dirt Off Your Shoulder》成为经典。当然，他并没有真的退休。",
-        "descriptionEn": "Jay-Z's 'retirement album,' featuring top-tier production from Kanye West, Just Blaze, The Neptunes, Timbaland, and more. Perfect balance of commerce and art. '99 Problems' became a classic. Of course, he didn't actually retire.",
-        "storiesZh": "Jay-Z在麦迪逊广场花园举办了一场「告别演唱会」，请来了Beyoncé、R.Kelly、Mary J.Blige等巨星。演唱会上他宣布《The Black Album》将是他最后一张专辑。他说想以巅峰状态退场，像乔丹一样。然而仅仅两年后，他就以《Kingdom Come》复出了。但《The Black Album》的高品质确实让粉丝无法责怪他的食言。",
-        "storiesEn": "Jay-Z held a 'farewell concert' at Madison Square Garden with Beyoncé, R.Kelly, Mary J.Blige. He announced The Black Album would be his last, wanting to retire at his peak like Jordan. Two years later, he returned with 'Kingdom Come.' But The Black Album's quality was so high, fans forgave the broken promise.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/The_Black_Album_(Jay-Z_album)"
-        }
-      },
-      {
-        "id": "g-e-m-light-years-away-2015",
-        "name": "新的心跳",
-        "nameZh": "新的心跳",
-        "artist": "G.E.M.",
-        "artistZh": "邓紫棋",
-        "releaseDate": "12-03",
-        "year": 2015,
-        "coverImage": "",
-        "genres": [
-          "Mandopop",
-          "Pop"
-        ],
-        "language": "chinese",
-        "languageZh": "华语",
-        "descriptionZh": "邓紫棋在《我是歌手》爆红后发行的专辑，展现了她作为唱作人的全面实力。她的嗓音横跨三个八度，在华语新生代歌手中极为突出。从香港走向内地，邓紫棋是近年来最成功的华语跨界艺人之一。",
-        "descriptionEn": "G.E.M.'s post-'I Am a Singer' breakthrough album showcases her comprehensive singer-songwriter prowess. Her three-octave range is exceptional among Chinese pop's new generation. From Hong Kong to the mainland, she's one of recent years' most successful crossover artists.",
-        "storiesZh": "邓紫棋16岁在香港出道，但因为国语不够好，在内地几乎没有任何知名度。2014年参加《我是歌手》时，她以一首《泡沫》震惊全场——绝大多数内地观众在此之前从未听说过她。一夜之间她成为了全中国最受关注的女歌手。这段「一夜成名」的背后，是她在香港乐坛十年的默默积累。",
-        "storiesEn": "G.E.M. debuted at 16 in Hong Kong, but was virtually unknown in the mainland due to limited Mandarin. When she performed 'Bubble' on 'I Am a Singer' in 2014, the audience was stunned — most had never heard of her before that night. The 'overnight success' was backed by a decade of quiet persistence in Hong Kong.",
+        "type": "album",
+        "descriptionZh": "音乐史最早概念专辑之一。全部16首歌围绕失眠与心碎。为披头士、Pink Floyd等提供最早范本。",
+        "descriptionEn": "One of first concept albums. All 16 songs about insomnia and heartbreak. Template for Beatles, Pink Floyd.",
+        "storiesZh": "录制时辛纳屈深陷与Ava Gardner婚变痛苦，曾在录音时崩溃大哭。封面：深夜空无一人街头蓝色路灯下孤独身影。",
+        "storiesEn": "Sinatra in agony over crumbling marriage, broke down crying mid-session. Cover: lonely figure under blue lamplight on empty street.",
         "links": {}
-      },
-      {
-        "id": "massive-attack-blue-lines-1991",
-        "name": "Blue Lines",
-        "nameZh": "蓝线",
-        "artist": "Massive Attack",
-        "artistZh": "大举进攻",
-        "releaseDate": "12-03",
-        "year": 1991,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/2/23/Massive_Attack_-_Blue_Lines.jpg",
-        "genres": [
-          "Trip Hop",
-          "Electronic"
-        ],
-        "language": "english",
-        "languageZh": "英语",
-        "descriptionZh": "Massive Attack的首张专辑，几乎单枪匹马地发明了Trip Hop这一流派——将嘻哈节拍、灵魂乐采样和电子氛围融为一体，创造了一种沉静而内省的全新声音。这张专辑为后来的Portishead、Tricky铺平了道路。",
-        "descriptionEn": "Massive Attack's debut almost single-handedly invented Trip Hop — fusing hip-hop beats, soul samples, and electronic atmosphere into something entirely new. It paved the way for Portishead, Tricky, and the entire Bristol sound.",
-        "storiesZh": "专辑录制时三名创始成员甚至不能同时在录音棚里出现——他们之间的矛盾已经非常严重。最后是制作人Cameron McVey在其中调和，才让专辑得以完成。有趣的是《Blue Lines》在发行时完全被市场忽视，直到后来被重新评价为Trip Hop运动的开山之作。它证明了有些音乐需要时间来被理解。",
-        "storiesEn": "The three founding members couldn't be in the studio together during recording — their conflicts were already severe. Producer Cameron McVey mediated to complete the album. 'Blue Lines' was completely overlooked upon release, only to be later reappraised as the founding document of Trip Hop. Some music needs time to be understood.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Blue_Lines"
-        }
       }
     ]
   },
   "12-25": {
     "date": "12-25",
-    "albums": [
+    "items": [
       {
-        "id": "john-coltrane-a-love-supreme-1964",
+        "id": "coltrane-love-supreme-1964",
         "name": "A Love Supreme",
         "nameZh": "至高无上的爱",
         "artist": "John Coltrane",
         "artistZh": "约翰·柯川",
         "releaseDate": "12-25",
         "year": 1964,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/4/4e/John_Coltrane_-_A_Love_Supreme.jpg",
+        "coverImage": "",
         "genres": [
           "Jazz",
           "Modal Jazz",
@@ -1775,40 +1153,34 @@
         ],
         "language": "other",
         "languageZh": "纯音乐",
-        "descriptionZh": "John Coltrane的精神自传，四乐章组曲记录了与毒瘾的斗争和信仰中的救赎。这张专辑在圣诞夜录制，对于Coltrane来说不是表演而是礼拜。内页的诗歌和祷告是他亲笔写的。",
-        "descriptionEn": "John Coltrane's spiritual autobiography in four movements — chronicling addiction struggle and redemption through faith. Recorded on Christmas Eve. To Coltrane, this wasn't performance but worship. The poem and prayer in the liner notes are in his own hand.",
-        "storiesZh": "1957年Coltrane因海洛因成瘾被Miles Davis开除。他把自己关在房间里，戒掉了毒瘾，并发誓用余生赞美上帝。七年后的圣诞夜，他将这次重生经历浓缩进了这张专辑。每次现场演出《A Love Supreme》，乐队成员都必须斋戒和祈祷。",
-        "storiesEn": "In 1957, Coltrane was fired by Miles Davis for heroin addiction. He locked himself in a room, kicked the habit, and vowed to praise God for the rest of his life. Seven years later, on Christmas Eve, he distilled this rebirth into the album. For every live performance, band members were required to fast and pray.",
-        "historicalImpactZh": "将爵士乐提升到精神层面，证明即兴音乐可以承载最深沉的哲学和宗教思考。影响了爵士到嘻哈到摇滚的无数音乐人。",
-        "historicalImpactEn": "Elevated jazz to the spiritual realm, proving improvised music could carry deepest philosophical contemplation. Influenced countless musicians from jazz to hip-hop to rock.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/A_Love_Supreme"
-        }
+        "type": "album",
+        "descriptionZh": "Coltrane精神自传，四乐章组曲记录与毒瘾的斗争和信仰中的救赎。圣诞夜录制，对他不是表演而是礼拜。",
+        "descriptionEn": "Coltrane spiritual autobiography. Four movements — addiction struggle and redemption through faith. Recorded Christmas Eve.",
+        "storiesZh": "1957年因海洛因成瘾被Miles Davis开除。把自己关在房间戒掉毒瘾，发誓余生赞美上帝。七年后圣诞夜凝聚重生经历。",
+        "storiesEn": "1957: fired by Miles Davis for heroin addiction. Locked himself in room, kicked habit, vowed to praise God. Seven years later distilled rebirth.",
+        "links": {}
       },
       {
-        "id": "teresa-teng-dan-dan-you-qing-1983",
+        "id": "teresa-teng-dan-dan-1983",
         "name": "淡淡幽情",
         "nameZh": "淡淡幽情",
         "artist": "Teresa Teng",
         "artistZh": "邓丽君",
         "releaseDate": "12-25",
         "year": 1983,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/8/8a/Teresa_Teng_-_Dan_Dan_You_Qing.jpg",
+        "coverImage": "",
         "genres": [
           "Mandopop",
           "Chinese Classical"
         ],
         "language": "chinese",
         "languageZh": "华语",
-        "descriptionZh": "邓丽君最具文化厚度的专辑，12首歌的歌词全部取自唐宋诗词名篇，由现代作曲家重新谱曲。这张专辑将中国古典文学的精华融入流行音乐，让千年诗词以全新方式走进现代人的生活。",
-        "descriptionEn": "Teresa Teng's most culturally significant album — all 12 songs set classic Tang and Song dynasty poems to newly composed music, bringing millennia-old poetry into modern life in a completely new way.",
-        "storiesZh": "专辑想法来自邓丽君本人对古典诗词的热爱。在两岸对峙的年代，邓丽君的歌声成为了跨越政治隔阂的文化纽带——这张专辑在两岸都被视为珍宝。《但愿人长久》至今仍是中秋节华人世界播放最多的歌曲。",
-        "storiesEn": "The concept came from Teng's own love of classical poetry. In an era of cross-strait tensions, Teng's voice became a cultural bridge — this album was treasured on both sides. 'Wishing We Last Forever' remains the most-played song during the Mid-Autumn Festival throughout the Chinese diaspora.",
-        "historicalImpactZh": "《淡淡幽情》是华语流行音乐中「古词新唱」的最高典范，证明传统文化可以在流行载体中获得新生，对后来中国风音乐有着深远影响。",
-        "historicalImpactEn": "The highest exemplar of 'setting classical poetry to new music' in Chinese pop, proving traditional culture can be reborn in a popular medium. Profoundly influenced the later rise of Chinese-style pop.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Teresa_Teng"
-        }
+        "type": "album",
+        "descriptionZh": "邓丽君最具文化厚度专辑。12首歌歌词皆取自唐宋诗词名篇。在两岸对峙年代成为跨越政治隔阂的文化纽带。",
+        "descriptionEn": "Teresa Teng most culturally significant album. All 12 songs set Tang/Song poems to new music. Cultural bridge across political divide.",
+        "storiesZh": "《但愿人长久》至今是中秋节华人世界播放最多的歌曲。她的歌声成为两岸共同的文化珍宝。",
+        "storiesEn": "Wishing We Last Forever remains most-played Mid-Autumn Festival song worldwide. Her voice became shared cultural treasure.",
+        "links": {}
       },
       {
         "id": "paul-simon-graceland-1986",
@@ -1818,22 +1190,26 @@
         "artistZh": "保罗·西蒙",
         "releaseDate": "12-25",
         "year": 1986,
-        "coverImage": "https://upload.wikimedia.org/wikipedia/en/1/12/Paul_Simon_-_Graceland.jpg",
+        "coverImage": "",
         "genres": [
           "Folk Rock",
-          "World Music",
-          "African"
+          "World Music"
         ],
         "language": "english",
         "languageZh": "英语",
-        "descriptionZh": "Paul Simon最具冒险精神的专辑。他前往种族隔离时期的南非与当地黑人音乐家合作，将美国民谣与南非乡镇音乐融合。Ladysmith Black Mambazo的和声首次进入西方主流视野。获得1987年格莱美年度专辑。",
-        "descriptionEn": "Paul Simon's most adventurous album — traveling to apartheid-era South Africa to collaborate with Black musicians, fusing American folk with township music. Brought Ladysmith Black Mambazo's harmonies to Western mainstream. 1987 Grammy Album of the Year.",
-        "storiesZh": "Simon去南非录音的决定在当时引发了巨大争议——联合国对种族隔离政权实施文化抵制。Simon坚持认为音乐合作应该打破政治隔阂而不是强化它。然而他也被批评为「文化挪用」。这场关于世界音乐伦理的争论至今仍在继续，成为跨文化音乐合作领域中最重要的议题之一。",
-        "storiesEn": "Simon's South Africa trip was hugely controversial — the UN had a cultural boycott against apartheid. Simon insisted musical collaboration should break political barriers. Yet he was also accused of cultural appropriation. The debate about world music ethics continues to this day, remaining one of the most important discussions in cross-cultural music.",
-        "links": {
-          "wikipedia": "https://en.wikipedia.org/wiki/Graceland_(album)"
-        }
+        "type": "album",
+        "descriptionZh": "Simon最具冒险精神专辑。前往种族隔离南非与黑人音乐家合作，将美国民谣与非洲乡镇音乐融合。1987格莱美年度专辑。",
+        "descriptionEn": "Simon most adventurous album. Traveled to apartheid South Africa, collaborated with Black musicians. 1987 Grammy Album of Year.",
+        "storiesZh": "去南非录音在当时引发巨大争议——联合国对种族隔离实施文化抵制。Simon坚持音乐合作应打破隔阂。",
+        "storiesEn": "South Africa trip hugely controversial — UN cultural boycott. Simon insisted collaboration should break barriers.",
+        "links": {}
       }
     ]
+  },
+  "_meta": {
+    "generated": "2026-07-10T11:51:37.905Z",
+    "version": 5,
+    "totalDays": 17,
+    "note": "Strictly accurate release dates. Items can be albums or singles. Max 3 per day. Each day has exactly 1 Chinese entry where possible."
   }
 }
