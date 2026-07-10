@@ -146,6 +146,33 @@ const App = {
       const subtitle = document.getElementById('hero-subtitle');
       if (subtitle) subtitle.textContent = I18N.t('hero_subtitle_fallback');
     }
+
+    // 异步加载专辑封面（不阻塞渲染）
+    this.fetchAlbumCovers(entry.albums);
+  },
+
+  /** 通过 iTunes API 获取专辑封面 */
+  async fetchAlbumCovers(albums) {
+    for (const album of albums) {
+      try {
+        const query = encodeURIComponent(`${album.artist} ${album.name}`);
+        const url = `https://itunes.apple.com/search?term=${query}&entity=album&limit=1&country=CN`;
+        const resp = await fetch(url);
+        const data = await resp.json();
+
+        if (data.results && data.results.length > 0) {
+          const artwork = data.results[0].artworkUrl100;
+          if (artwork) {
+            const img = document.querySelector(`.album-cover-img[data-album-id="${album.id}"]`);
+            if (img) {
+              img.src = artwork.replace('100x100', '600x600');
+            }
+          }
+        }
+      } catch {
+        // 获取失败则保留 CSS 封面
+      }
+    }
   },
 
   /** 更新 Hero 日期 */
@@ -200,20 +227,17 @@ const App = {
     ];
     const coverGradient = coverGradients[index % coverGradients.length];
 
-    // 封面图片：通过 weserv.nl 代理加载（国内可访问）
-    let coverImgHTML = '';
-    if (album.coverImage) {
-      const proxyUrl = `https://images.weserv.nl/?url=${encodeURIComponent(album.coverImage)}&w=600&h=600&fit=cover&default=404`;
-      coverImgHTML = `
+    // 封面图片：稍后通过 iTunes API 动态加载
+    const coverImgHTML = `
           <img
             class="album-cover-img"
-            src="${this.escapeAttr(proxyUrl)}"
+            data-album-id="${album.id}"
             alt="${this.escapeAttr(title)}"
             loading="lazy"
+            style="display:none;"
             onerror="this.style.display='none';"
             onload="this.style.display='block';this.parentElement.querySelector('.album-cover-art').style.display='none';"
           >`;
-    }
 
     return `
       <article class="album-card" id="album-${album.id}">
