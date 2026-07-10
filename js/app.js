@@ -189,7 +189,6 @@ const App = {
     const title = (!isChinese) ? item.name : (lang === 'zh' ? (item.nameZh || item.name) : item.name);
     const artist = (!isChinese) ? item.artist : (lang === 'zh' ? (item.artistZh || item.artist) : item.artist);
     const description = I18N.getAlbumText(item, 'description') || '';
-
     const genreTags = item.genres
       .map((g) => `<span class="tag tag-genre">${g}</span>`)
       .join('');
@@ -379,15 +378,15 @@ const App = {
     const lang = I18N.current;
     const sections = [];
 
-    const desc = I18N.getAlbumText(item, 'description');
+    const desc = I18N.getAlbumText(album, 'description');
     if (desc) {
       sections.push(`<div class="expanded-section"><h4>${I18N.t('section_intro')}</h4><p>${this.escapeHtml(desc)}</p></div>`);
     }
-    const stories = I18N.getAlbumText(item, 'stories');
+    const stories = I18N.getAlbumText(album, 'stories');
     if (stories) {
       sections.push(`<div class="expanded-section"><h4>${I18N.t('section_stories')}</h4><p>${this.escapeHtml(stories)}</p></div>`);
     }
-    const impact = I18N.getAlbumText(item, 'historicalImpact');
+    const impact = I18N.getAlbumText(album, 'historicalImpact');
     if (impact && impact.trim()) {
       sections.push(`<div class="expanded-section"><h4>${I18N.t('section_impact')}</h4><p>${this.escapeHtml(impact)}</p></div>`);
     }
