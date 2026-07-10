@@ -200,19 +200,25 @@ const App = {
     ];
     const coverGradient = coverGradients[index % coverGradients.length];
 
+    // 封面图片：通过 weserv.nl 代理加载（国内可访问）
+    let coverImgHTML = '';
+    if (album.coverImage) {
+      const proxyUrl = `https://images.weserv.nl/?url=${encodeURIComponent(album.coverImage)}&w=600&h=600&fit=cover&default=404`;
+      coverImgHTML = `
+          <img
+            class="album-cover-img"
+            src="${this.escapeAttr(proxyUrl)}"
+            alt="${this.escapeAttr(title)}"
+            loading="lazy"
+            onerror="this.style.display='none';"
+            onload="this.style.display='block';this.parentElement.querySelector('.album-cover-art').style.display='none';"
+          >`;
+    }
+
     return `
       <article class="album-card" id="album-${album.id}">
         <div class="album-cover-wrapper" style="background: ${coverGradient};">
-          <img
-            class="album-cover-img"
-            src="${this.escapeAttr(album.coverImage)}"
-            alt="${this.escapeAttr(title)}"
-            loading="lazy"
-            referrerpolicy="no-referrer"
-            crossorigin="anonymous"
-            onerror="this.style.display='none';"
-            onload="this.style.display='block';this.parentElement.querySelector('.album-cover-art').style.display='none';"
-          >
+          ${coverImgHTML}
           <div class="album-cover-art">
             <span class="cover-icon">${coverIcon}</span>
             <span class="cover-title">${this.escapeHtml(title)}</span>
@@ -291,6 +297,11 @@ const App = {
       this.collapseCard(this.expandedCardId, false);
     }
 
+    // 隐藏缩略简介，避免与展开内容重复
+    const card = document.getElementById(`album-${albumId}`);
+    const shortDesc = card ? card.querySelector('.album-description') : null;
+    if (shortDesc) shortDesc.style.display = 'none';
+
     const duration = animate ? 400 : 0;
     expanded.style.transition = duration > 0 ? `height ${duration}ms cubic-bezier(0.4, 0, 0.2, 1)` : 'none';
     expanded.style.height = `${expanded.scrollHeight}px`;
@@ -308,11 +319,8 @@ const App = {
       expanded.style.height = 'auto';
     }
 
-    if (animate) {
-      const card = document.getElementById(`album-${albumId}`);
-      if (card) {
-        setTimeout(() => card.scrollIntoView({ behavior: 'smooth', block: 'nearest' }), 150);
-      }
+    if (animate && card) {
+      setTimeout(() => card.scrollIntoView({ behavior: 'smooth', block: 'nearest' }), 150);
     }
   },
 
@@ -320,6 +328,11 @@ const App = {
     const expanded = document.getElementById(`expanded-${albumId}`);
     const btn = document.getElementById(`btn-expand-${albumId}`);
     if (!expanded) return;
+
+    // 恢复缩略简介
+    const card = document.getElementById(`album-${albumId}`);
+    const shortDesc = card ? card.querySelector('.album-description') : null;
+    if (shortDesc) shortDesc.style.display = '';
 
     const duration = animate ? 300 : 0;
     expanded.style.height = `${expanded.scrollHeight}px`;
