@@ -1,5 +1,5 @@
 /**
- * Everyday Music — 国际化 (i18n)
+ * Echo-Music Of The Day — 国际化 (i18n)
  * 支持中文 (zh) 和 English (en)
  */
 
@@ -41,8 +41,8 @@ const I18N = {
       back_today: '回到今天',
 
       // About
-      about_title: '关于 Everyday Music',
-      about_p1: 'Everyday Music 是一个每日音乐发现平台。我们每天推荐三张发行于当日的优质专辑，带你穿越音乐史的长河，发现那些诞生在历史上的今天的伟大作品。',
+      about_title: '关于 Echo-Music Of The Day',
+      about_p1: 'Echo-Music Of The Day 是一个每日音乐发现平台。我们每天推荐三张发行于当日的优质专辑，带你穿越音乐史的长河，发现那些诞生在历史上的今天的伟大作品。',
       about_p2: '三张专辑中，每天保证恰好一张来自华语乐坛，其余的精选自世界各地的优秀作品。我们注重搭配——既有你耳熟能详的经典，也有值得被更多人听到的冷门佳作。',
       about_p3: '我们不提供音乐播放功能，以规避版权问题。但我们为每张专辑提供详尽的介绍、艺术家趣事和音乐史背景，并附上流媒体链接，方便你去自己喜欢的平台收听。',
       about_disclaimer: '专辑数据由 AI 辅助整理，可能存在疏漏。如发现日期或信息错误，欢迎反馈纠错。',
@@ -91,8 +91,8 @@ const I18N = {
       back_today: 'Back to Today',
 
       // About
-      about_title: 'About Everyday Music',
-      about_p1: 'Everyday Music is a daily music discovery platform. We recommend three outstanding albums released on this date in history, taking you on a journey through music\'s past to discover great works born on this day.',
+      about_title: 'About Echo-Music Of The Day',
+      about_p1: 'Echo-Music Of The Day is a daily music discovery platform. We recommend three outstanding albums released on this date in history, taking you on a journey through music\'s past to discover great works born on this day.',
       about_p2: 'Among the three albums each day, exactly one is from the Chinese-language music scene, with the rest selected from outstanding works worldwide. We curate a thoughtful mix — from beloved classics to hidden gems that deserve a wider audience.',
       about_p3: 'We don\'t provide music playback to avoid copyright issues. Instead, we offer detailed introductions, artist stories, and musical context for each album, along with streaming links for you to listen on your preferred platform.',
       about_disclaimer: 'Album data is AI-assisted and may contain inaccuracies. If you find date or content errors, we welcome your feedback and corrections.',
