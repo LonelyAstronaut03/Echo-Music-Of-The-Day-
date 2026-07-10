@@ -1,19 +1,20 @@
 /**
- * Fetch albums from Wikidata — month by month (12 queries)
+ * Fetch albums from Wikidata — no artist bias, genre diversity ensured
  */
 const fs = require('fs');
 const https = require('https');
 
-function query(month, year) {
+function queryMonth(month) {
   const pad = String(month).padStart(2, '0');
   return new Promise((resolve) => {
-    const q = `SELECT ?item ?itemLabel ?artistLabel ?date WHERE {
+    const q = `SELECT ?item ?itemLabel ?artistLabel ?date ?genreLabel WHERE {
   ?item (wdt:P31/(wdt:P279*)) wd:Q482994.
   ?item wdt:P577 ?date.
   FILTER(CONTAINS(STR(?date), "-${pad}-"))
   OPTIONAL { ?item wdt:P175 ?artist. }
+  OPTIONAL { ?item wdt:P136 ?genre. }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
-} LIMIT 200`;
+} LIMIT 300`;
     const url = `https://query.wikidata.org/sparql?format=json&query=${encodeURIComponent(q)}`;
     https.get(url, { headers: { 'User-Agent': 'EchoMusic/1.0' }, timeout: 60000 }, res => {
       let body = '';
@@ -24,67 +25,50 @@ function query(month, year) {
           const items = (r.results?.bindings || []).map(b => ({
             name: b.itemLabel?.value || '',
             artist: b.artistLabel?.value || 'Unknown',
-            date: (b.date?.value || '').slice(0, 10)
+            date: (b.date?.value || '').slice(0, 10),
+            genre: b.genreLabel?.value || ''
           }));
           resolve(items);
-        } catch(e) { console.error(`Month ${month} parse error:`, e.message); resolve([]); }
+        } catch(e) { console.error(`Month ${month} parse:`, e.message); resolve([]); }
       });
-    }).on('error', e => { console.error(`Month ${month} network:`, e.message); resolve([]); });
+    }).on('error', e => { console.error(`Month ${month} net:`, e.message); resolve([]); });
   });
 }
 
-const NOTABLE = new Set([
-  'the beatles', 'pink floyd', 'radiohead', 'david bowie', 'bob dylan', 'prince',
-  'nirvana', 'led zeppelin', 'queen', 'u2', 'coldplay', 'michael jackson',
-  'madonna', 'kanye west', 'kendrick lamar', 'beyonce', 'jay-z', 'eminem',
-  'frank ocean', 'bjork', 'taylor swift', 'adele', 'rihanna', 'drake',
-  'bruce springsteen', 'the rolling stones', 'the who', 'the clash',
-  'joy division', 'the cure', 'talking heads', 'the smiths', 'r.e.m.',
-  'pixies', 'green day', 'oasis', 'blur', 'arctic monkeys', 'the strokes',
-  'beck', 'wilco', 'sufjan stevens', 'frank zappa', 'miles davis',
-  'john coltrane', 'aretha franklin', 'stevie wonder', 'marvin gaye',
-  'bob marley', 'johnny cash', 'joni mitchell', 'carole king',
-  'elton john', 'fleetwood mac', 'the beach boys', 'the doors',
-  'jimi hendrix', 'massive attack', 'portishead', 'daft punk',
-  'arcade fire', 'the national', 'bon iver', 'tame impala',
-  'lana del rey', 'billie eilish', 'the weeknd', 'amy winehouse',
-  'norah jones', 'alicia keys', 'outkast', 'nas', 'wu-tang clan',
-  'beastie boys', 'run-dmc', 'public enemy', 'depeche mode',
-  'new order', 'the velvet underground', 'lou reed', 'iggy pop',
-  'black sabbath', 'deep purple', 'ac/dc', 'metallica', 'iron maiden',
-  'guns n\' roses', 'pearl jam', 'soundgarden', 'alice in chains',
-  'foo fighters', 'red hot chili peppers', 'rage against the machine',
-  'nine inch nails', 'tool', 'system of a down', 'slipknot',
-  'the white stripes', 'the black keys', 'vampire weekend',
-  'lcd soundsystem', 'grimes', 'fka twigs', 'flying lotus',
-  'gorillaz', 'blur', 'pulp', 'the verve', 'stone roses',
-  'nick cave', 'pj harvey', 'bjork', 'kate bush', 'sinead o\'connor',
-  'lauryn hill', 'erykah badu', 'sade', 'anita baker',
-  'tony bennett', 'frank sinatra', 'nat king cole', 'ray charles',
-  'chuck berry', 'little richard', 'buddy holly', 'everly brothers',
-  'simon & garfunkel', 'cat stevens', 'james taylor', 'jackson browne',
-  'eagles', 'steely dan', 'supertramp', 'genesis', 'yes', 'king crimson',
-  'jay chou', 'faye wong', 'cui jian', 'teresa teng', 'jacky cheung',
-  'leslie cheung', 'anita mui', 'beyond', 'mayday', 'eason chan',
-  'wang faye', 'na ying', 'jolin tsai', 'gem', 'tao zhe', 'leehom wang',
-]);
+const BROAD_GENRES = {
+  'Rock': ['rock', 'metal', 'punk', 'grunge', 'indie rock', 'alternative rock'],
+  'Pop': ['pop', 'synth-pop', 'dance-pop', 'electropop', 'art pop', 'baroque pop'],
+  'Jazz': ['jazz', 'swing', 'bebop', 'big band', 'vocal jazz', 'smooth jazz', 'free jazz', 'fusion'],
+  'R&B/Soul': ['r&b', 'soul', 'funk', 'neo soul', 'contemporary r&b', 'disco'],
+  'Hip-Hop': ['hip-hop', 'hip hop', 'rap', 'trap', 'gangsta rap'],
+  'Electronic': ['electronic', 'techno', 'house', 'ambient', 'trip hop', 'drum and bass'],
+  'Folk/Country': ['folk', 'country', 'singer-songwriter', 'americana', 'bluegrass', 'blues'],
+  'Classical': ['classical', 'opera', 'symphonic', 'orchestral', 'baroque'],
+  'World/Reggae': ['reggae', 'latin', 'samba', 'bossa nova', 'afrobeat', 'j-pop', 'k-pop', 'mandopop', 'cantopop'],
+};
 
-function isNotable(item) {
-  const a = item.artist.toLowerCase();
-  for (const n of NOTABLE) { if (a.includes(n) || n.includes(a)) return true; }
-  return false;
+function mapGenre(wikidataGenre) {
+  const g = wikidataGenre.toLowerCase();
+  for (const [broad, keywords] of Object.entries(BROAD_GENRES)) {
+    for (const kw of keywords) {
+      if (g.includes(kw)) return broad;
+    }
+  }
+  return null;
 }
 
-function buildItem(item, mmdd) {
-  const year = item.date.slice(0, 4);
-  const id = (item.artist + '-' + item.name).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
+function buildItem(album, mmdd) {
+  const year = album.date.slice(0, 4);
+  const id = (album.artist + '-' + album.name).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
+  const broadGenre = mapGenre(album.genre);
   return {
-    id, name: item.name, nameZh: '', artist: item.artist, artistZh: '',
+    id, name: album.name, nameZh: '', artist: album.artist, artistZh: '',
     releaseDate: mmdd, year: parseInt(year), coverImage: '',
-    genres: ['Pop'], language: 'english', languageZh: '英语',
+    genres: broadGenre ? [broadGenre] : ['Pop'],
+    language: 'english', languageZh: '英语',
     type: 'album',
-    descriptionZh: `${item.artist} 于 ${year} 年发行。`,
-    descriptionEn: `Released by ${item.artist} in ${year}.`,
+    descriptionZh: `${album.artist} 于 ${year} 年发行。`,
+    descriptionEn: `Released by ${album.artist} in ${year}.`,
     storiesZh: '', storiesEn: '',
     historicalImpactZh: '', historicalImpactEn: '',
     links: {}
@@ -92,19 +76,18 @@ function buildItem(item, mmdd) {
 }
 
 async function main() {
-  console.log('Fetching Wikidata month by month...\n');
+  console.log('Fetching from Wikidata (genre diversity mode)...\n');
 
   const allItems = [];
-
-  for (let month = 1; month <= 12; month++) {
-    process.stdout.write(`Month ${month}... `);
-    const items = await query(month);
+  for (let m = 1; m <= 12; m++) {
+    process.stdout.write(`Month ${m}... `);
+    const items = await queryMonth(m);
     console.log(`${items.length} albums`);
     allItems.push(...items);
     await new Promise(r => setTimeout(r, 1000));
   }
 
-  console.log(`\nTotal: ${allItems.length} albums`);
+  console.log(`\nTotal raw: ${allItems.length}`);
 
   // Deduplicate
   const seen = new Set();
@@ -125,11 +108,32 @@ async function main() {
     byDate[mmdd].push(item);
   }
 
-  // Build database: prioritize notable, max 3 per day
+  // Select up to 3 per day, with genre priority: Jazz > R&B > Pop > Classical > others
+  const PRIORITY = ['Jazz', 'R&B/Soul', 'Pop', 'Classical', 'Hip-Hop', 'Electronic', 'Folk/Country', 'World/Reggae', 'Rock'];
   const db = {};
+
   for (const [mmdd, items] of Object.entries(byDate)) {
-    const notable = items.filter(isNotable);
-    const selected = notable.length > 0 ? notable.slice(0, 3) : items.slice(0, 3);
+    const selected = [];
+    const usedGenres = new Set();
+
+    // Sort items by genre priority
+    const sorted = items.sort((a, b) => {
+      const ga = mapGenre(a.genre) || 'Other';
+      const gb = mapGenre(b.genre) || 'Other';
+      const pa = PRIORITY.indexOf(ga), pb = PRIORITY.indexOf(gb);
+      return (pa === -1 ? 99 : pa) - (pb === -1 ? 99 : pb);
+    });
+
+    // Pick items, avoiding duplicate broad genres
+    for (const item of sorted) {
+      if (selected.length >= 3) break;
+      const bg = mapGenre(item.genre) || 'Other';
+      if (!usedGenres.has(bg) || selected.length >= 2) {
+        selected.push(item);
+        usedGenres.add(bg);
+      }
+    }
+
     db[mmdd] = { date: mmdd, items: selected.map(s => buildItem(s, mmdd)) };
   }
 
@@ -138,32 +142,34 @@ async function main() {
   Object.keys(db).sort().forEach(k => { sorted[k] = db[k]; });
   sorted._meta = {
     generated: new Date().toISOString(),
-    source: 'Wikidata',
-    version: 8,
+    source: 'Wikidata (genre-diverse)',
+    version: 9,
     totalDays: Object.keys(db).length,
     totalItems: Object.values(db).reduce((s, e) => s + e.items.length, 0),
-    note: 'Accurate dates from Wikidata. Notable artists prioritized.'
+    note: 'Genre diversity prioritized. No artist bias.'
   };
 
   fs.writeFileSync('data/albums.json', JSON.stringify(sorted, null, 2));
 
-  const days = Object.keys(db).length;
-  const total = sorted._meta.totalItems;
-  console.log(`\nSaved: ${days} days, ${total} items`);
-
-  // Show some examples
-  const today = '07-10';
-  if (db[today]) {
-    console.log(`\nToday (${today}):`);
-    db[today].items.forEach((i, n) => console.log(`  ${n+1}. ${i.name} - ${i.artist} (${i.year})`));
+  // Stats
+  const genreCounts = {};
+  for (const [d, e] of Object.entries(db)) {
+    e.items.forEach(i => {
+      const g = (i.genres || ['Other'])[0];
+      genreCounts[g] = (genreCounts[g] || 0) + 1;
+    });
   }
 
-  // Month distribution
-  const byMonth = {};
-  Object.keys(db).forEach(d => {
-    const m = d.slice(0, 2);
-    byMonth[m] = (byMonth[m] || 0) + 1;
+  console.log(`\nSaved: ${Object.keys(db).length} days, ${sorted._meta.totalItems} items`);
+  console.log('\nGenre distribution:');
+  Object.entries(genreCounts).sort((a, b) => b[1] - a[1]).forEach(([g, c]) => {
+    const bar = '#'.repeat(Math.round(c / 10));
+    console.log(`  ${g.padEnd(15)}: ${String(c).padStart(3)} ${bar}`);
   });
+
+  // Month coverage
+  const byMonth = {};
+  Object.keys(db).forEach(d => { const m = d.slice(0, 2); byMonth[m] = (byMonth[m] || 0) + 1; });
   console.log('\nMonth coverage:');
   for (let m = 1; m <= 12; m++) {
     const mm = String(m).padStart(2, '0');
