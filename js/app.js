@@ -147,6 +147,42 @@ const App = {
       if (subtitle) subtitle.textContent = I18N.t('hero_subtitle_fallback');
     }
 
+    // JSONP 方式从 iTunes 加载封面（绕过 CORS）
+    this.loadCoversFromiTunes(entry.albums);
+
+  },
+
+  /** JSONP 从 iTunes 搜索专辑封面（避免 CORS 限制） */
+  loadCoversFromiTunes(albums) {
+    albums.forEach((album) => {
+      const isChinese = album.language === 'chinese';
+      const searchArtist = isChinese ? (album.artistZh || album.artist) : album.artist;
+      const searchName = isChinese ? (album.nameZh || album.name) : album.name;
+
+      const cb = '_itunes' + Math.random().toString(36).slice(2);
+      const query = encodeURIComponent(`${searchArtist} ${searchName}`);
+      const url = `https://itunes.apple.com/search?term=${query}&entity=album&limit=1&callback=${cb}`;
+
+      window[cb] = (data) => {
+        delete window[cb];
+        try {
+          if (data.results && data.results.length > 0) {
+            const art = data.results[0].artworkUrl100;
+            if (art) {
+              const img = document.querySelector(`.album-cover-img[data-album-id="${album.id}"]`);
+              if (img) {
+                img.src = art.replace(/\/\d+x\d+bb/, '/600x600bb');
+              }
+            }
+          }
+        } catch {}
+      };
+
+      const script = document.createElement('script');
+      script.src = url;
+      script.onerror = () => { delete window[cb]; };
+      document.head.appendChild(script);
+    });
   },
 
   /** 更新 Hero 日期 */
