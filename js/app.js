@@ -446,7 +446,13 @@ const App = {
     document.getElementById('birthday-loading').classList.add('hidden');
     document.getElementById('btn-birthday-submit').style.display = '';
 
-    monthSel.onchange = () => this.updateDaySelect(parseInt(monthSel.value));
+    // 切换日期时重置结果
+    const resetResult = () => {
+      document.getElementById('birthday-result').classList.add('hidden');
+      document.getElementById('btn-birthday-submit').style.display = '';
+    };
+    monthSel.onchange = () => { this.updateDaySelect(parseInt(monthSel.value)); resetResult(); };
+    daySel.onchange = resetResult;
   },
 
   updateDaySelect(month) {
