@@ -8800,13 +8800,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Clarence \"Gatemouth\" Brown 于 1999 年发行。",
-        "descriptionEn": "Released by Clarence \"Gatemouth\" Brown in 1999.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "这张专辑融合了德克萨斯蓝调、乡村、爵士和凯金音乐，展现了Clarence \"Gatemouth\" Brown多才多艺的吉他和小提琴演奏。风格粗犷而优雅，充满了美国南方音乐的泥土气息与即兴活力。",
+        "descriptionEn": "This album blends Texas blues, country, jazz, and Cajun music, showcasing Clarence \"Gatemouth\" Brown's versatile guitar and fiddle playing. The style is rugged yet elegant, full of the earthy spirit and improvisational energy of Southern American music.",
+        "storiesZh": "录制时，Brown坚持使用老式模拟设备，以捕捉他最真实的“德州之声”。他曾打趣说，这张专辑是他对“音乐无界限”的宣言——在录音棚里，他即兴将一首蓝调曲目改编成了两拍子的乡村舞曲，乐手们差点跟不上他的节奏。",
+        "storiesEn": "During recording, Brown insisted on using vintage analog equipment to capture his most authentic 'Texas sound.' He once joked that this album was his declaration that 'music has no boundaries'—in the studio, he spontaneously rearranged a blues track into a two-step country dance, nearly leaving the band behind.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "Clarence \"Gatemouth\" Brown（1924-2005）是美国传奇吉他手、小提琴家。他拒绝被归类为单纯的蓝调艺人，而是以融合乡村、爵士和R&B著称。他的演奏风格影响了众多摇滚与蓝调后辈。",
+        "artistIntroEn": "Clarence 'Gatemouth' Brown (1924-2005) was a legendary American guitarist and fiddler. He refused to be pigeonholed as a blues artist, instead blending country, jazz, and R&B. His playing style influenced countless rock and blues musicians."
       },
       {
         "id": "kim-wilde-kim-wilde",
@@ -8823,13 +8825,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Kim Wilde 于 1981 年发行。",
-        "descriptionEn": "Released by Kim Wilde in 1981.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这张同名处女作以新浪潮和流行摇滚为主，旋律明快、合成器音色清脆。Kim Wilde充满个性的嗓音在流行节拍中透出一股冷峻的英伦气质，是80年代初欧洲流行乐的代表作之一。",
+        "descriptionEn": "This self-titled debut features new wave and pop rock, with upbeat melodies and crisp synthesizer sounds. Kim Wilde's distinctive vocals bring a cool British edge to the pop beats, making it a representative European pop album of the early 1980s.",
+        "storiesZh": "主打歌《Kids in America》原本是Kim的弟弟Ricky Wilde为她写的，录制时预算极低，Ricky甚至用家用合成器完成了大部分编曲。这首歌在英美大获成功后，唱片公司���紧急追加预算，让Kim重新录了一版更精致的副歌。",
+        "storiesEn": "The hit single 'Kids in America' was originally written by Kim's brother Ricky Wilde. Recorded on a shoestring budget, Ricky used a home synthesizer for most of the arrangement. After the song became a hit in the UK and US, the label hastily added funds for Kim to re-record a more polished chorus.",
+        "historicalImpactZh": "《Kids in America》成为80年代新浪潮的标志性曲目，被无数影视作品引用，并为女性主导的合成器流行乐开辟了道路。",
+        "historicalImpactEn": "'Kids in America' became an iconic new wave anthem, referenced in countless films and TV shows, and paved the way for female-led synth-pop.",
+        "links": {},
+        "artistIntroZh": "Kim Wilde（1960年生）是英国歌手、词曲作者。作为80年代最成功的英国女歌手之一，她以《Kids in America》等金曲闻名，后期转型为园艺设计师，但音乐影响力至今不衰。",
+        "artistIntroEn": "Kim Wilde (born 1960) is an English singer and songwriter. One of the most successful British female singers of the 1980s, known for hits like 'Kids in America,' she later became a garden designer, but her musical influence endures."
       }
     ]
   },
@@ -8851,13 +8855,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Miles Davis 于 1992 年发行。",
-        "descriptionEn": "Released by Miles Davis in 1992.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这是Miles Davis的最后一张录音室专辑，大胆融合了爵士与嘻哈、放克元素。专辑以氛围化的即兴小号搭配采样和嘻哈节奏，开创了爵士说唱（Jazz Rap）的先河，风格前卫而迷幻。",
+        "descriptionEn": "This is Miles Davis's final studio album, boldly fusing jazz with hip-hop and funk. Featuring atmospheric trumpet improvisations over samples and hip-hop beats, it pioneered jazz rap, with a sound that is avant-garde and psychedelic.",
+        "storiesZh": "录制时，Davis因健康原因已体力不支，经常躺在录音室沙发上吹奏。制作人Easy Mo Bee带来大量嘻哈唱片供他参考，Davis听完后说：“这就是未来的节奏。”他坚持让乐手们像采样一样循环演奏，创造出了这张饱受争议却影响深远的专辑。",
+        "storiesEn": "During recording, Davis was physically weakened by health issues and often played his trumpet while lying on the studio couch. Producer Easy Mo Bee brought in many hip-hop records for reference. After listening, Davis said, 'This is the rhythm of the future.' He insisted the musicians play in loops like samples, creating this controversial but influential album.",
+        "historicalImpactZh": "《Doo-Bop》是爵士与嘻哈融合的先驱之作，虽被传统爵士乐迷批评，却启发了大量电子与嘻哈制作人，并荣获格莱美最佳爵士演奏专辑奖。",
+        "historicalImpactEn": "'Doo-Bop' is a pioneering fusion of jazz and hip-hop. Despite criticism from traditional jazz fans, it inspired many electronic and hip-hop producers and won a Grammy for Best Jazz Instrumental Album.",
+        "links": {},
+        "artistIntroZh": "Miles Davis（1926-1991）是爵士乐史上最伟大的革新者之一。从冷爵士到融合爵士，他不断突破边界。他的小号演奏和专辑制作深刻影响了现代音乐，被誉为“爵士乐界的毕加索”。",
+        "artistIntroEn": "Miles Davis (1926-1991) was one of the greatest innovators in jazz history. From cool jazz to fusion, he constantly pushed boundaries. His trumpet playing and album production profoundly influenced modern music, earning him the title 'the Picasso of jazz.'"
       },
       {
         "id": "black-eyed-peas-behind-the-front",
@@ -8874,13 +8880,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Black Eyed Peas 于 1998 年发行。",
-        "descriptionEn": "Released by Black Eyed Peas in 1998.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "这张专辑标志着Black Eyed Peas从地下说唱向主流流行的过渡。风格以西海岸嘻哈为主，融合放克、灵魂乐和R&B，歌词充满社会意识与派对能量，展现了成员间默契的节奏配合。",
+        "descriptionEn": "This album marks Black Eyed Peas' transition from underground rap to mainstream pop. Featuring West Coast hip-hop fused with funk, soul, and R&B, the lyrics balance social consciousness and party energy, showcasing tight rhythmic interplay between members.",
+        "storiesZh": "专辑录制初期，will.i.am曾因不满意作品方向而将录好的磁带全部扔进垃圾桶。后来他重新召集成员，在洛杉矶一间小地下室完成了大部分录制。为了省钱，他们甚至用枕头当隔音板，结果意外营造出了一种粗糙而亲密的音质。",
+        "storiesEn": "Early in the recording, will.i.am threw all the recorded tapes into the trash, dissatisfied with the direction. He later regrouped the members and recorded most of the album in a small basement in Los Angeles. To save money, they used pillows as soundproofing, accidentally creating a raw, intimate sound quality.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "Black Eyed Peas是美国嘻哈组合，成立于1995年。初始成员包括will.i.am、apl.de.ap和Taboo。他们以融合流行、舞曲和嘻哈的风格著称，后来凭借《Where Is the Love?》等金曲成为全球巨星。",
+        "artistIntroEn": "Black Eyed Peas are an American hip-hop group formed in 1995. Original members include will.i.am, apl.de.ap, and Taboo. Known for blending pop, dance, and hip-hop, they later became global superstars with hits like 'Where Is the Love?'"
       },
       {
         "id": "madonna-true-blue",
@@ -8897,13 +8905,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Madonna 于 1986 年发行。",
-        "descriptionEn": "Released by Madonna in 1986.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这是Madonna的第三张专辑，确立了她的流行天后地位。风格以舞曲流行和成人抒情为主，制作精良，旋律极具感染力。歌词直率地探讨了爱情、婚姻与女性独立，展现了自信而强势的女性形象。",
+        "descriptionEn": "This is Madonna's third album, cementing her status as a pop queen. Featuring dance-pop and adult contemporary ballads with polished production and infectious melodies, the lyrics frankly explore love, marriage, and female independence, projecting a confident and assertive female image.",
+        "storiesZh": "专辑名称《True Blue》源自Madonna当时丈夫Sean Penn的一句情话。录制时两人新婚，Madonna曾因与制作人Patrick Leonard意见不合而摔门而去，但第二天她又带着一盒巧克力回来道歉，两人随后创作出了经典情歌《Live to Tell》。",
+        "storiesEn": "The album title 'True Blue' came from a pet name used by Madonna's then-husband Sean Penn. During recording, the couple was newly married. Madonna once stormed out after a disagreement with producer Patrick Leonard, but returned the next day with a box of chocolates to apologize, after which they created the classic ballad 'Live to Tell.'",
+        "historicalImpactZh": "专辑诞生了《Papa Don't Preach》《Open Your Heart》等五首Top 5单曲，巩固了Madonna作为80年代流行文化象征的地位，并影响了后续女性流行艺人的表达方式。",
+        "historicalImpactEn": "The album produced five Top 5 singles including 'Papa Don't Preach' and 'Open Your Heart,' solidifying Madonna as an 80s pop culture icon and influencing the expression of subsequent female pop artists.",
+        "links": {},
+        "artistIntroZh": "Madonna（1958年生）是美国歌手、演员、企业家。被誉为“流行女王”，她以不断革新音乐风格和挑战社会禁忌著称。从《Like a Virgin》到《Vogue》，她持续定义了流行音乐的视觉与听觉标准。",
+        "artistIntroEn": "Madonna (born 1958) is an American singer, actress, and entrepreneur. Known as the 'Queen of Pop,' she is famous for constantly reinventing her music style and challenging social taboos. From 'Like a Virgin' to 'Vogue,' she has continually defined pop music's visual and sonic standards."
       }
     ]
   },
@@ -11714,13 +11724,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Rihanna 于 2005 年发行。",
-        "descriptionEn": "Released by Rihanna in 2005.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Music of the Sun》是蕾哈娜的首张专辑，融合了R&B、舞厅和雷鬼风格，充满加勒比海岛的热情与阳光气息。专辑以轻快的节奏和蕾哈娜独特的嗓音为核心，展现了她在流行与舞曲之间的自如切换，为她的音乐生涯奠定了明亮而富有活力的基调。",
+        "descriptionEn": "Music of the Sun is Rihanna's debut album, blending R&B, dancehall, and reggae with a warm Caribbean vibe. The album features upbeat rhythms and Rihanna's distinctive vocals, showcasing her effortless transition between pop and dance music, setting a bright and energetic foundation for her career.",
+        "storiesZh": "专辑录制时，蕾哈娜年仅17岁，刚从巴巴多斯搬到美国。制作人Evan Rogers在试听带中发现了她的天赋，并帮助她与Def Jam签约。专辑主打歌《Pon de Replay》原本是为其他歌手准备的，但蕾哈娜的演绎让这首歌成为她的首支热门单曲。",
+        "storiesEn": "During recording, Rihanna was only 17 and had just moved from Barbados to the US. Producer Evan Rogers discovered her talent from a demo tape and helped her sign with Def Jam. The lead single 'Pon de Replay' was originally intended for another artist, but Rihanna's rendition turned it into her first hit.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "蕾哈娜（Rihanna），1988年出生于巴巴多斯，是国际流行乐坛的标志性歌手、演员和企业家。她以多变的音乐风格、大胆的时尚品味和商业头脑闻名，曾获得多项格莱美奖，并创立了美妆品牌Fenty Beauty，成为全球最具影响力的艺人之一。",
+        "artistIntroEn": "Rihanna, born in 1988 in Barbados, is an iconic international pop singer, actress, and entrepreneur. Known for her versatile music style, bold fashion sense, and business acumen, she has won multiple Grammy Awards and founded Fenty Beauty, becoming one of the most influential artists globally."
       },
       {
         "id": "from-autumn-to-ashes-abandon-your-friends",
@@ -11737,13 +11749,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "From Autumn to Ashes 于 2005 年发行。",
-        "descriptionEn": "Released by From Autumn to Ashes in 2005.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Abandon Your Friends》是美国后硬核乐队From Autumn to Ashes的第三张录音室专辑。专辑风格融合了金属核、情绪摇滚和实验元素，以激烈的吉他演奏、咆哮与清嗓交替的唱腔为特色，歌词充满愤怒与内省，营造出一种混乱而富有张力的听觉体验。",
+        "descriptionEn": "Abandon Your Friends is the third studio album by the American post-hardcore band From Autumn to Ashes. The album blends metalcore, emo, and experimental elements, featuring intense guitar work, alternating screams and clean vocals, and lyrics filled with anger and introspection, creating a chaotic yet tense listening experience.",
+        "storiesZh": "专辑录制期间，乐队经历了成员变动，主唱Benjamin Perri在专辑发行后不久离队。专辑名称《Abandon Your Friends》反映了乐队内部的紧张关系，其中一首歌《Pioneers》的歌词直接指向了前成员。录制过程充满争议，但也催生了乐队最具攻击性的作品。",
+        "storiesEn": "During the album's recording, the band underwent member changes, and lead vocalist Benjamin Perri left shortly after the album's release. The title 'Abandon Your Friends' reflects internal tensions, with the song 'Pioneers' directly referencing former members. The recording process was controversial but produced the band's most aggressive work.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "From Autumn to Ashes是一支来自美国纽约的后硬核乐队，成立于2000年。他们以激烈的现场表演和情感强烈的音乐著称，在2000年代早期的emo/金属核场景中占有一席之地，乐队于2010年解散，但至今仍被乐迷怀念。",
+        "artistIntroEn": "From Autumn to Ashes is a post-hardcore band from New York, formed in 2000. Known for their intense live shows and emotionally charged music, they carved a niche in the early 2000s emo/metalcore scene. The band disbanded in 2010 but remains fondly remembered by fans."
       }
     ]
   },
@@ -11765,13 +11779,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Michael Jackson 于 1987 年发行。",
-        "descriptionEn": "Released by Michael Jackson in 1987.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Bad》是迈克尔·杰克逊的第七张录音室专辑，也是他继《Thriller》后的重磅之作。专辑融合了流行、放克、摇滚和R&B，以强劲的节奏、标志性的尖叫和精致的制作著称。从舞曲到抒情，每首歌都展现了杰克逊作为表演者和音乐家的巅峰状态。",
+        "descriptionEn": "Bad is Michael Jackson's seventh studio album and the highly anticipated follow-up to Thriller. Blending pop, funk, rock, and R&B, the album is known for its powerful rhythms, signature vocal hiccups, and polished production. From dance tracks to ballads, every song showcases Jackson at his peak as a performer and musician.",
+        "storiesZh": "专辑原本计划与Prince合作一首二重唱，但最终因两人风格差异而取消。主打歌《Bad》的音乐视频由马丁·斯科塞斯执导，预算高达200万美元，是当时最昂贵的MV之一。杰克逊为专辑准备了大量歌曲，最终只选了11首，其中包括后来成为经典的《Smooth Criminal》。",
+        "storiesEn": "The album originally planned a duet with Prince, but it was canceled due to creative differences. The music video for the title track 'Bad,' directed by Martin Scorsese, had a budget of $2 million, making it one of the most expensive at the time. Jackson recorded many songs, selecting only 11, including the future classic 'Smooth Criminal.'",
+        "historicalImpactZh": "《Bad》是迈克尔·杰克逊商业成功的延续，全球销量超过4500万张，诞生了五首美国冠军单曲，巩固了他作为流行之王的地位。专辑的巡演和视觉风格影响了后续无数流行艺人的舞台表现。",
+        "historicalImpactEn": "Bad continued Michael Jackson's commercial success, selling over 45 million copies worldwide and producing five US number-one singles, solidifying his status as the King of Pop. The album's tour and visual style influenced countless pop artists' stage performances.",
+        "links": {},
+        "artistIntroZh": "迈克尔·杰克逊（Michael Jackson，1958-2009），美国歌手、舞者、慈善家，被誉为“流行之王”。他以独特的音乐、标志性的舞步（如月球漫步）和人道主义精神闻名，是20世纪最具影响力的艺人之一，专辑《Thriller》至今仍是全球销量最高的专辑。",
+        "artistIntroEn": "Michael Jackson (1958-2009) was an American singer, dancer, and philanthropist, known as the 'King of Pop.' Renowned for his unique music, iconic dance moves like the moonwalk, and humanitarian efforts, he was one of the most influential artists of the 20th century, with Thriller remaining the best-selling album of all time."
       }
     ]
   },
@@ -11793,13 +11809,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Charles Mingus 于 1957 年发行。",
-        "descriptionEn": "Released by Charles Mingus in 1957.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《The Clown》是爵士贝斯手兼作曲家查尔斯·明格斯的经典专辑，以硬波普和后波普风格为主，融合了福音、蓝调和自由爵士元素。专辑以戏剧性的编曲和强烈的情绪表达为核心，标题曲《The Clown》通过旁白和音乐讲述了一个小丑的悲剧故事，充满讽刺与深度。",
+        "descriptionEn": "The Clown is a classic album by jazz bassist and composer Charles Mingus, rooted in hard bop and post-bop, blending gospel, blues, and free jazz elements. The album is known for its dramatic arrangements and intense emotional expression, with the title track using narration and music to tell the tragic story of a clown, full of irony and depth.",
+        "storiesZh": "专辑同名曲《The Clown》的旁白由爵士小号手兼作家Jean Shepherd录制，他即兴创作了小丑的故事。明格斯在录音前仅给了Shepherd一个大致概念，最终版本是一气呵成的即兴表演。专辑录制时，明格斯与鼓手Dannie Richmond的默契配合也成为��点。",
+        "storiesEn": "The narration for the title track 'The Clown' was recorded by jazz trumpeter and writer Jean Shepherd, who improvised the clown's story. Mingus gave Shepherd only a general concept before recording, and the final version was a spontaneous take. The chemistry between Mingus and drummer Dannie Richmond also stood out during the sessions.",
+        "historicalImpactZh": "《The Clown》是明格斯职业生涯的转折点，确立了他作为作曲家和乐队领袖的独特地位。专辑对后来爵士乐的发展，尤其是自由爵士和融合爵士，产生了重要影响。",
+        "historicalImpactEn": "The Clown was a turning point in Mingus's career, establishing his unique status as a composer and bandleader. The album significantly influenced the development of later jazz, particularly free jazz and fusion.",
+        "links": {},
+        "artistIntroZh": "查尔斯·明格斯（Charles Mingus，1922-1979），美国爵士贝斯手、作曲家、乐队领袖，被誉为“爵士乐最伟大的作曲家之一”。他的作品融合了多种音乐传统，以复杂的和声、激烈的情绪和社会评论著称，代表作包括《Mingus Ah Um》和《The Black Saint and the Sinner Lady》。",
+        "artistIntroEn": "Charles Mingus (1922-1979) was an American jazz bassist, composer, and bandleader, hailed as one of jazz's greatest composers. His work blended multiple musical traditions, known for complex harmonies, intense emotion, and social commentary, with masterpieces including Mingus Ah Um and The Black Saint and the Sinner Lady."
       },
       {
         "id": "sunsay-sunsay",
@@ -11816,13 +11834,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "SunSay 于 2007 年发行。",
-        "descriptionEn": "Released by SunSay in 2007.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《SunSay》是俄罗斯雷鬼/融合乐队SunSay的首张同名专辑，音乐风格以雷鬼为主，融合了斯卡、放克、爵士和世界音乐元素。专辑充满阳光般的积极能量，以流畅的旋律、丰富的铜管乐和主唱Sun的温暖嗓音为核心，营造出轻松愉悦的聆听氛围。",
+        "descriptionEn": "SunSay is the self-titled debut album by the Russian reggae/fusion band SunSay. The music is primarily reggae, blended with ska, funk, jazz, and world music elements. The album radiates positive energy, centered on smooth melodies, rich brass arrangements, and lead vocalist Sun's warm voice, creating a relaxed and joyful listening experience.",
+        "storiesZh": "乐队主唱Sun（本名Dmitry Spirin）曾是俄罗斯著名斯卡朋克乐队Leningrad的成员。离开后，他创立了SunSay，希望创作更轻松、积极的音乐。首张专辑在圣彼得堡录制，邀请了多位当地爵士和雷鬼乐手参与，录音过程充满即兴合作。",
+        "storiesEn": "Lead vocalist Sun (real name Dmitry Spirin) was formerly a member of the famous Russian ska-punk band Leningrad. After leaving, he formed SunSay to create more relaxed and positive music. The debut album was recorded in Saint Petersburg, featuring many local jazz and reggae musicians, with the sessions full of improvisational collaboration.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "SunSay是一支来自俄罗斯的雷鬼/融合乐队，由主唱Sun（Dmitry Spirin）于2007年创立。乐队以其阳光、欢快的音乐风格和现场表演著称，在俄罗斯独立音乐界拥有广泛影响力，作品融合了多种音乐文化，传递积极的生活态度。",
+        "artistIntroEn": "SunSay is a Russian reggae/fusion band founded in 2007 by lead vocalist Sun (Dmitry Spirin). Known for their sunny, upbeat music style and live performances, they have a broad influence in the Russian independent music scene, blending multiple musical cultures and spreading a positive outlook on life."
       },
       {
         "id": "brian-eno-music-for-films",
@@ -16021,13 +16041,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Patricia Kaas 于 2003 年发行。",
-        "descriptionEn": "Released by Patricia Kaas in 2003.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Sexe fort》是法国香颂天后Patricia Kaas于2003年发行的专辑，融合了流行、爵士和法国传统香颂元素。专辑以“强势性别”为主题，探讨女性力量与情感，编曲精致，嗓音充满戏剧张力，展现了成熟女性的自信与脆弱。",
+        "descriptionEn": "\"Sexe fort\" is a 2003 album by French chanson diva Patricia Kaas, blending pop, jazz, and traditional French chanson. Centered on the theme of \"the strong sex,\" it explores female power and emotion with sophisticated arrangements and dramatic vocal delivery, showcasing mature confidence and vulnerability.",
+        "storiesZh": "专辑录制期间，Patricia Kaas曾因情感低谷而一度中断工作，但最终将个人经历转化为创作灵感。制作人邀请多位欧洲顶级乐手参与，其中一首歌的钢琴部分在巴黎一间百年老录音棚中即兴完成，录完后全体工作人员自发鼓掌。",
+        "storiesEn": "During the recording, Patricia Kaas paused work due to an emotional low, but eventually channeled her personal experience into creative inspiration. The producer brought in top European musicians; the piano part for one song was improvised in a century-old Paris studio, earning spontaneous applause from the entire crew.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "Patricia Kaas（1966年生）是法国最畅销的女歌手之一，以沙哑性感的嗓音和深情演绎著称。她将香颂传统与全球流行音乐融合，曾获世界音乐奖，并在全球售出超过2000万张唱片。",
+        "artistIntroEn": "Patricia Kaas (b. 1966) is one of France's best-selling female singers, known for her husky, sensual voice and emotional delivery. She blends chanson tradition with global pop, has won World Music Awards, and sold over 20 million records worldwide."
       },
       {
         "id": "britney-spears-circus",
@@ -16044,13 +16066,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Britney Spears 于 2008 年发行。",
-        "descriptionEn": "Released by Britney Spears in 2008.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Circus》是Britney Spears于2008年发行的第六张录音室专辑，风格以舞曲流行和电子节拍为主，充满马戏团主题的华丽与戏谑。专辑标志着她经历低谷后的强势回归，制作精良，单曲《Womanizer》成为全球热单。",
+        "descriptionEn": "\"Circus\" is Britney Spears' sixth studio album, released in 2008, featuring dance-pop and electronic beats with a circus-themed flair. Marking her powerful comeback after a personal crisis, the album is well-produced, and the single \"Womanizer\" became a global hit.",
+        "storiesZh": "录制《Circus》时，Britney正处于法院监护权争夺期，但她在录音室展现了极高的职业素养。制作人透露，她常常在深夜灵感迸发，用手机录下旋律发给团队。主打歌《Womanizer》的副歌部分是在一次即兴喊叫中诞生的。",
+        "storiesEn": "While recording \"Circus,\" Britney was amid a legal guardianship battle, but she showed high professionalism in the studio. Producers revealed she often had late-night inspirations, recording melodies on her phone and sending them to the team. The chorus of \"Womanizer\" was born from an improvised shout.",
+        "historicalImpactZh": "专辑帮助Britney成功重塑公众形象，首周销量超50万张，证明了她在流行乐坛的持久号召力，并带动了2000年代末舞曲流行的复兴。",
+        "historicalImpactEn": "The album helped Britney successfully rebuild her public image, selling over 500,000 copies in its first week, proving her enduring appeal in pop music and fueling the late-2000s dance-pop revival.",
+        "links": {},
+        "artistIntroZh": "Britney Spears（1981年生）是美国流行天后，被誉为“流行公主”。1998年以《...Baby One More Time》出道，成为全球青少年偶像。她的音乐与表演定义了90年代末至2000年代的流行文化，全球销量超过1亿张。",
+        "artistIntroEn": "Britney Spears (b. 1981) is an American pop icon known as the \"Princess of Pop.\" Debuting in 1998 with \"...Baby One More Time,\" she became a global teen idol. Her music and performances defined late-90s to 2000s pop culture, with over 100 million records sold worldwide."
       }
     ]
   },
@@ -16076,13 +16100,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "ABBA 于 1981 年发行。",
-        "descriptionEn": "Released by ABBA in 1981.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《The Visitors》是ABBA于1981年发行的第八张也是最后一张录音室专辑，风格转向成熟忧郁的合成器流行与艺术摇滚。歌词探讨冷战焦虑、离婚与孤独，编曲复杂，充满了黑暗的电子氛围，是乐队最具深度的作品。",
+        "descriptionEn": "\"The Visitors\" is ABBA's eighth and final studio album, released in 1981, shifting toward mature, melancholic synth-pop and art rock. Lyrics explore Cold War anxiety, divorce, and loneliness; arrangements are complex, filled with dark electronic atmospheres, making it the band's most profound work.",
+        "storiesZh": "录制期间，ABBA两对成员（Björn与Agnetha、Benny与Anni-Frid）均已离婚，录音室气氛紧张。专辑同名曲的诡异敲门声采样自一间废弃古堡的实录音效。Benny坚持使用当时最先进的数字合成器，团队为此争论不休。",
+        "storiesEn": "During recording, both ABBA couples (Björn & Agnetha, Benny & Anni-Frid) had divorced, creating a tense studio atmosphere. The eerie knocking sound on the title track was sampled from a real recording in an abandoned castle. Benny insisted on using cutting-edge digital synthesizers, sparking heated debates.",
+        "historicalImpactZh": "专辑被后世视为合成器流行和暗黑流行乐的里程碑，影响了Depeche Mode、Madonna等艺人。它也是ABBA商业上最不成功的专辑之一，但艺术评价极高，成为乐队解散前的最后绝唱。",
+        "historicalImpactEn": "The album is regarded as a milestone in synth-pop and dark pop, influencing artists like Depeche Mode and Madonna. Commercially one of ABBA's least successful, it earned high critical acclaim and stands as the band's final swan song before their breakup.",
+        "links": {},
+        "artistIntroZh": "ABBA是瑞典传奇流行组合，成立于1972年，由Björn Ulvaeus、Benny Andersson、Agnetha Fältskog和Anni-Frid Lyngstad组成。他们以华丽的和声、 catchy旋律和舞台表演征服全球，销量超3.8亿张，是音乐史上最成功的团体之一。",
+        "artistIntroEn": "ABBA is a legendary Swedish pop group formed in 1972, consisting of Björn Ulvaeus, Benny Andersson, Agnetha Fältskog, and Anni-Frid Lyngstad. Known for lush harmonies, catchy melodies, and flamboyant stage shows, they sold over 380 million records, becoming one of the most successful groups in music history."
       }
     ]
   },
@@ -16104,13 +16130,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "John Zorn 于 2000 年发行。",
-        "descriptionEn": "Released by John Zorn in 2000.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Filmworks IX: Trembling Before G-d》是John Zorn为2001年纪录片《Trembling Before G-d》创作的原声专辑，风格融合了犹太克莱兹梅尔音乐、现代古典与实验噪音。音乐沉重而庄严，探讨同性恋与正统犹太教信仰的冲突，充满仪式感与情感张力。",
+        "descriptionEn": "\"Filmworks IX: Trembling Before G-d\" is John Zorn's soundtrack for the 2001 documentary \"Trembling Before G-d,\" blending Jewish klezmer, modern classical, and experimental noise. The music is heavy and solemn, exploring the conflict between homosexuality and Orthodox Judaism, full of ritualistic intensity and emotional tension.",
+        "storiesZh": "Zorn在观看纪录片粗剪后深受触动，仅用一周时间就完成了全部作曲。录音时他邀请了多位纽约下城先锋乐手，其中单簧管演奏家David Krakauer的即兴段落被直接采用。Zorn要求乐手们想象自己正在犹太会堂中演奏，以捕捉宗教氛围。",
+        "storiesEn": "Deeply moved by the documentary's rough cut, Zorn completed all compositions in just one week. He invited several downtown New York avant-garde musicians; clarinetist David Krakauer's improvised passages were used directly. Zorn asked the musicians to imagine playing in a synagogue to capture the religious atmosphere.",
+        "historicalImpactZh": "该原声是Zorn“电影作品”系列中最具情感力量的专辑之一，拓宽了克莱兹梅尔音乐在当代语境中的表达，并成为LGBTQ+与宗教对话题材电影配乐的经典范例。",
+        "historicalImpactEn": "This soundtrack is one of the most emotionally powerful in Zorn's \"Filmworks\" series, expanding klezmer music's expression in contemporary contexts and becoming a classic example of film scoring for LGBTQ+ and religious dialogue themes.",
+        "links": {},
+        "artistIntroZh": "John Zorn（1953年生）是美国前卫作曲家、萨克斯手和制作人，纽约下城先锋音乐场景的核心人物。他以融合爵士、古典、噪音、犹太音乐等多种风格著称，创立了Tzadik厂牌，作品数量惊人且极具实验性。",
+        "artistIntroEn": "John Zorn (b. 1953) is an American avant-garde composer, saxophonist, and producer, a central figure in New York's downtown experimental scene. Known for fusing jazz, classical, noise, and Jewish music, he founded Tzadik label and has produced an astonishingly vast and experimental body of work."
       },
       {
         "id": "miles-davis-tutu",
@@ -16127,13 +16155,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Miles Davis 于 1986 年发行。",
-        "descriptionEn": "Released by Miles Davis in 1986.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Tutu》是Miles Davis于1986年发行的爵士放克/电子专辑，以Prince的录音室为基地，大量使用合成器和鼓机，风格前卫而性感。专辑献给非洲人权斗士图图大主教，音乐充满都市氛围与即兴灵魂，是Davis电子时期的代表作。",
+        "descriptionEn": "\"Tutu\" is a 1986 jazz-funk/electronic album by Miles Davis, recorded at Prince's studio with heavy use of synthesizers and drum machines. Avant-garde and sensual, the album is dedicated to Archbishop Tutu, exuding urban atmosphere and improvisational soul, representing Davis's electric period.",
+        "storiesZh": "制作人Tommy LiPuma原本计划与Prince合作，但Prince因故退出，Davis便亲自接管。专辑同名曲的贝斯线由Marcus Miller在五分钟内即兴写成，Davis听后立即要求录制。录音期间Davis几乎不讲话，只用手势指挥乐手，气氛神秘。",
+        "storiesEn": "Producer Tommy LiPuma initially planned a collaboration with Prince, but Prince withdrew; Davis took over. The bassline for the title track was improvised by Marcus Miller in five minutes, and Davis insisted on recording it immediately. Davis barely spoke during sessions, directing musicians with gestures, creating a mysterious atmosphere.",
+        "historicalImpactZh": "《Tutu》为Davis赢得了1987年格莱美最佳爵士器乐演奏奖，并成为他电子风格专辑中最畅销的作品之一，影响了acid jazz和电子爵士的发展。",
+        "historicalImpactEn": "\"Tutu\" won Davis the 1987 Grammy for Best Jazz Instrumental Performance and became one of his best-selling electric albums, influencing the development of acid jazz and electronic jazz.",
+        "links": {},
+        "artistIntroZh": "Miles Davis（1926-1991）是美国爵士乐巨匠，小号手、作曲家与乐队领袖。他不断革新，从bebop到酷派爵士、调式爵士、融合爵士，引领了爵士乐的每一次重大变革，被誉为“爵士乐界的毕加索”。",
+        "artistIntroEn": "Miles Davis (1926-1991) was an American jazz giant, trumpeter, composer, and bandleader. Constantly innovating, he led every major jazz evolution from bebop to cool jazz, modal jazz, and fusion, hailed as the \"Picasso of jazz.\""
       },
       {
         "id": "deep-purple-concerto-for-group-and-orchestra",
@@ -16150,13 +16180,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Deep Purple 于 1969 年发行。",
-        "descriptionEn": "Released by Deep Purple in 1969.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "Deep Purple与皇家爱乐乐团合作的里程碑式现场专辑，将硬摇滚与古典管弦乐融合，开创了摇滚与古典跨界的新范式。专辑以史诗般的《Concerto for Group and Orchestra》为核心，展现了乐队在即兴演奏与交响编排之间的惊人平衡。",
+        "descriptionEn": "A landmark live album by Deep Purple with the Royal Philharmonic Orchestra, fusing hard rock with classical orchestration and pioneering a new paradigm of rock-classical crossover. Centered on the epic 'Concerto for Group and Orchestra,' it showcases the band's astonishing balance between improvisation and symphonic arrangement.",
+        "storiesZh": "专辑录制于1969年伦敦皇家阿尔伯特音乐厅，当时Deep Purple刚刚经历阵容变动，键盘手Jon Lord创作了这首协奏曲。演出前乐队只与乐团合练了两次，但现场反应极为热烈。吉他手Ritchie Blackmore因紧张而大量使用颤音摇把，反而成就了独特的音色。",
+        "storiesEn": "Recorded in 1969 at London's Royal Albert Hall, Deep Purple had just undergone lineup changes when keyboardist Jon Lord composed the concerto. The band rehearsed only twice with the orchestra before the show, yet the live response was ecstatic. Guitarist Ritchie Blackmore's nervous use of the vibrato arm created a unique tone that became iconic.",
+        "historicalImpactZh": "被公认为摇滚与管弦乐融合的奠基之作，直接影响了后来的金属乐队与交响乐团的合作潮流。",
+        "historicalImpactEn": "Widely recognized as the foundational work of rock-orchestra fusion, directly influencing later collaborations between metal bands and symphony orchestras.",
+        "links": {},
+        "artistIntroZh": "Deep Purple是英国硬摇滚先驱，1968年成立，与Led Zeppelin、Black Sabbath并称重金属三大鼻祖。以精湛的乐器技术和即兴能力著称，代表作《Smoke on the Water》成为摇滚史上最著名的吉他riff之一。",
+        "artistIntroEn": "Deep Purple is a British hard rock pioneer formed in 1968, considered one of the 'Big Three' of heavy metal alongside Led Zeppelin and Black Sabbath. Renowned for instrumental virtuosity and improvisation, their hit 'Smoke on the Water' features one of rock's most famous guitar riffs."
       }
     ]
   },
@@ -16178,13 +16210,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Sheryfa Luna 于 2008 年发行。",
-        "descriptionEn": "Released by Sheryfa Luna in 2008.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "法国R&B女歌手Sheryfa Luna的第二张录音室专辑，融合流行、R&B与舞曲元素，以柔美声线和情感真挚的抒情曲风为主打。专辑包含多首关于爱情与自我成长的歌曲，旋���流畅且富有感染力。",
+        "descriptionEn": "The second studio album by French R&B singer Sheryfa Luna, blending pop, R&B, and dance elements, characterized by her tender vocals and emotionally sincere ballads. The album contains songs about love and self-growth, with smooth and infectious melodies.",
+        "storiesZh": "Sheryfa Luna在2007年赢得法国电视选秀节目《Popstars》冠军后迅速走红，这张专辑录制时她刚成为母亲，许多歌词灵感来自她作为年轻母亲的心境变化。专辑同名主打歌《Vénus》的MV在法国电视台创下高收视率。",
+        "storiesEn": "After winning the French TV talent show 'Popstars' in 2007, Sheryfa Luna rose to fame quickly. While recording this album, she had just become a mother, and many lyrics were inspired by her changing mindset as a young mother. The music video for the title track 'Vénus' achieved high ratings on French television.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "Sheryfa Luna，法国R&B女歌手，1989年生于阿尔及利亚裔家庭。2007年通过《Popstars》出道，首张专辑即获得白金销量。以细腻的嗓音和都市情感题材著称，是2000年代末法国流行乐坛的代表性女声之���。",
+        "artistIntroEn": "Sheryfa Luna is a French R&B singer born in 1989 to an Algerian-origin family. She debuted through 'Popstars' in 2007 and her first album went platinum. Known for her delicate voice and urban emotional themes, she was one of the representative female voices in late 2000s French pop."
       },
       {
         "id": "taio-cruz-ty-o",
@@ -16201,13 +16235,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Taio Cruz 于 2011 年发行。",
-        "descriptionEn": "Released by Taio Cruz in 2011.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "英国歌手Taio Cruz的第三张录音室专辑，以电子舞曲和流行R&B为主，融合了嘻哈节拍与合成器音效。专辑充满派对氛围，节奏强劲，其中多首歌曲成为全球夜店热单。",
+        "descriptionEn": "The third studio album by British singer Taio Cruz, dominated by electronic dance pop and R&B, blending hip-hop beats with synthesizer textures. The album exudes a party atmosphere with powerful rhythms, and several tracks became global club anthems.",
+        "storiesZh": "专辑录制期间，Taio Cruz与多位制作人合作，包括Dr. Luke和RedOne。主打歌《Dynamite》原本是为其他歌手创作的，但Taio决定自己演唱，结果成为他职业生涯最成功的单曲，在全球多国榜单夺冠。专辑名《TY.O》是他名字的缩写变体。",
+        "storiesEn": "During the album's recording, Taio Cruz collaborated with producers including Dr. Luke and RedOne. The lead single 'Dynamite' was originally written for another artist, but Taio decided to sing it himself, and it became his most successful single, topping charts in multiple countries. The album title 'TY.O' is a variation of his name's initials.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "Taio Cruz，英国歌手、词曲作者和制作人，1985年生于伦敦。2000年代后期以融合流行、R&B和舞曲的风格走红，代表作《Dynamite》《Break Your Heart》在全球销量超过千万，是英国电子流行乐的代表人物之一。",
+        "artistIntroEn": "Taio Cruz is a British singer, songwriter, and producer born in 1985 in London. He rose to fame in the late 2000s with a style blending pop, R&B, and dance. His hits 'Dynamite' and 'Break Your Heart' sold over 10 million copies worldwide, making him a key figure in British electro-pop."
       }
     ]
   },
@@ -16229,13 +16265,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Tupac Shakur 于 2007 年发行。",
-        "descriptionEn": "Released by Tupac Shakur in 2007.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "2Pac去世后发行的精选辑，收录了他1991年至1996年间最经典的曲目，包括《Dear Mama》《California Love》等。专辑展现了2Pac从帮匪说唱到社会意识表达的全面才华，是了解其音乐遗产的最佳入门。",
+        "descriptionEn": "A posthumous greatest hits compilation by 2Pac, featuring his most iconic tracks from 1991 to 1996, including 'Dear Mama' and 'California Love.' The album showcases 2Pac's full range from gangsta rap to socially conscious expression, serving as the best entry point to his musical legacy.",
+        "storiesZh": "这张精选辑发行于2Pac被枪杀十年后，由他的母亲Afeni Shakur监制。选曲过程充满情感争议，因为2Pac生前留下了大量未发行素材，团队不得不从数百首录音中挑选。专辑封面使用了2Pac标志性的纹身肖像。",
+        "storiesEn": "Released a decade after 2Pac's murder, this compilation was overseen by his mother Afeni Shakur. The selection process was emotionally charged, as 2Pac left behind a vast amount of unreleased material, and the team had to choose from hundreds of recordings. The cover features 2Pac's iconic tattooed portrait.",
+        "historicalImpactZh": "作为2Pac最畅销的精选辑之一，它巩固了2Pac作为史上最伟大说唱歌手之一的地位，并持续影响后世嘻哈音乐的社会批判传统。",
+        "historicalImpactEn": "As one of 2Pac's best-selling compilations, it cemented his status as one of the greatest rappers of all time and continues to influence hip-hop's tradition of social critique.",
+        "links": {},
+        "artistIntroZh": "2Pac（Tupac Shakur），美国说唱歌手、演员和社会活动家，1971年生于纽约。他是嘻哈史上最具影响力和争议性的人物之一，歌词深刻探讨种族、���困和不公，1996年在拉斯维加斯被枪杀，年仅25岁，成为嘻哈文化的永恒符号。",
+        "artistIntroEn": "2Pac (Tupac Shakur) was an American rapper, actor, and social activist born in 1971 in New York. One of the most influential and controversial figures in hip-hop history, his lyrics deeply explored race, poverty, and injustice. He was fatally shot in Las Vegas in 1996 at age 25, becoming an eternal icon of hip-hop culture."
       },
       {
         "id": "kylie-minogue-greatest-hits-87-99",
@@ -16252,13 +16290,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Kylie Minogue 于 2003 年发行。",
-        "descriptionEn": "Released by Kylie Minogue in 2003.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "Kylie Minogue的精选辑，收录她1987年至1999年间所有热门单曲，包括《I Should Be So Lucky》《Can't Get You Out of My Head》等。专辑横跨她从流行公主到舞曲天后的转型历程，曲风涵盖流行、舞曲和迪斯科。",
+        "descriptionEn": "A greatest hits compilation by Kylie Minogue, featuring all her hit singles from 1987 to 1999, including 'I Should Be So Lucky' and 'Can't Get You Out of My Head.' The album spans her transformation from pop princess to dance diva, covering pop, dance, and disco styles.",
+        "storiesZh": "这张精选辑的曲目顺序按照时间排列，清晰记录了Kylie从澳大利亚肥皂剧演员到国际流行巨星的蜕变。录制期间她刚与Parlophone唱片签约，事业迎来第二次高峰。专辑封面由时尚摄影师拍摄，展现了Kylie标志性的性感与俏皮形象。",
+        "storiesEn": "The tracklist of this compilation is arranged chronologically, clearly documenting Kylie's transformation from Australian soap opera actress to international pop superstar. She had just signed with Parlophone Records during this period, ushering in her second career peak. The cover, shot by a fashion photographer, showcases Kylie's iconic sexy yet playful image.",
+        "historicalImpactZh": "这张精选辑是Kylie职业生涯的重要里程碑，标志着她在全球市场的全面成功，并巩固了她作为英国流行乐坛常青树的地位。",
+        "historicalImpactEn": "This compilation is a major milestone in Kylie's career, marking her full global success and cementing her status as a perennial icon in British pop music.",
+        "links": {},
+        "artistIntroZh": "Kylie Minogue，澳大利亚歌手、演员，1968年生于墨尔本。1980年代凭借肥皂剧《邻居》出道，后转型为流行歌手，成为全球最具商业成功的女艺人之一。以舞曲风格和时尚形象著称，被誉为'流行公主'，获得多项格莱美和全英音乐奖。",
+        "artistIntroEn": "Kylie Minogue is an Australian singer and actress born in 1968 in Melbourne. She debuted in the 1980s via the soap opera 'Neighbours' before transitioning to pop stardom, becoming one of the world's most commercially successful female artists. Known for her dance-pop style and fashion-forward image, she is called the 'Princess of Pop' and has won multiple Grammy and Brit Awards."
       },
       {
         "id": "shir-sagisu-evangelion-vox",
@@ -16275,13 +16315,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Shirō Sagisu 于 1997 年发行。",
-        "descriptionEn": "Released by Shirō Sagisu in 1997.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《EVANGELION-VOX》是鷺巣詩郎为《新世纪福音战士》创作的配乐专辑，融合了交响乐、电子乐和实验音乐。其核心特色在于通过宏大的管弦乐编排与诡异的电子音效，完美呈现了动画中末世氛围与角色内心的挣扎，是动漫音乐史上的标志性作品。",
+        "descriptionEn": "EVANGELION-VOX is a soundtrack album by Shirō Sagisu for Neon Genesis Evangelion, blending orchestral, electronic, and experimental music. Its core feature lies in grand orchestral arrangements and eerie electronic sounds, perfectly capturing the apocalyptic atmosphere and inner turmoil of characters, making it a landmark in anime music history.",
+        "storiesZh": "录制过程中，鷺巣詩郎与动画导演庵野秀明进行了密切合作，经常根据动画分镜反复修改音乐。有趣的是，专辑中部分电子音效是鷺巣詩郎通过改装旧合成器并录制日常物品碰撞声制作而成，这种“废品音乐”手法后来成为EVA系列的标志性声音。",
+        "storiesEn": "During recording, Sagisu worked closely with director Hideaki Anno, frequently revising music based on storyboards. Interestingly, some electronic sounds were created by modifying old synthesizers and recording everyday object collisions, a 'junk music' approach that later became iconic for the EVA series.",
+        "historicalImpactZh": "该专辑奠定了动漫配乐中交响与电子融合的标杆，影响了后世无数动漫与游戏音乐的制作。",
+        "historicalImpactEn": "This album set a benchmark for blending orchestral and electronic music in anime scores, influencing countless later anime and game soundtracks.",
+        "links": {},
+        "artistIntroZh": "鷺巣詩郎是日本著名作曲家、编曲家及音乐制作人，出生于1957年。他因《新世纪福音战士》系列配乐享誉全球，作品涵盖动漫、电影和广告，风格多变，从古典到电子均有涉猎。",
+        "artistIntroEn": "Shirō Sagisu is a renowned Japanese composer, arranger, and music producer, born in 1957. He gained global fame for the Neon Genesis Evangelion soundtrack, with works spanning anime, films, and commercials, ranging from classical to electronic styles."
       }
     ]
   },
@@ -16303,13 +16345,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Gwen Stefani 于 2006 年发行。",
-        "descriptionEn": "Released by Gwen Stefani in 2006.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《The Sweet Escape》是美国歌手格温·史蒂芬妮的第二张个人录音室专辑，风格以流行、舞曲和雷鬼为主。核心特色在于其轻快跳跃的节奏、甜美的旋律以及标志性的“哈喽”口哨前奏，展现了格温融合时尚与音乐的独特魅力。",
+        "descriptionEn": "The Sweet Escape is the second solo studio album by American singer Gwen Stefani, featuring pop, dance, and reggae styles. Its core features are upbeat rhythms, sweet melodies, and the iconic 'hello' whistle intro, showcasing Gwen's unique charm of blending fashion and music.",
+        "storiesZh": "专辑同名主打歌《The Sweet Escape》的创作过程颇为有趣。格温原本打算写一首关于逃离压力的歌，但制作人却误听成了“甜美的逃跑”，于是加入了大量糖果般的音效。录制时，格温即兴哼出的口哨声被保留下来，意外成为全球热门。",
+        "storiesEn": "The creation of the title track 'The Sweet Escape' was amusing. Gwen originally intended a song about escaping stress, but the producer misheard it as 'sweet escape' and added candy-like sound effects. During recording, Gwen's impromptu whistling was kept, unexpectedly becoming a global hit.",
+        "historicalImpactZh": "专辑中的口哨元素推动了2000年代末流行音乐中口哨音效的复兴。",
+        "historicalImpactEn": "The whistling element in the album helped revive the use of whistle sounds in late-2000s pop music.",
+        "links": {},
+        "artistIntroZh": "格温·史蒂芬妮是美国歌手、词曲作者及时尚设计师，1969年出生于加州。她最初作为乐队No Doubt主唱成名，单飞后以融合流行、雷鬼和时尚的个性风格成为全球偶像。",
+        "artistIntroEn": "Gwen Stefani is an American singer, songwriter, and fashion designer, born in 1969 in California. She first rose to fame as lead vocalist of No Doubt, then became a global icon with her solo style blending pop, reggae, and fashion."
       },
       {
         "id": "glee-cast-glee-the-music-volume-2",
@@ -16326,13 +16370,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Glee Cast 于 2009 年发行。",
-        "descriptionEn": "Released by Glee Cast in 2009.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Glee: The Music, Volume 2》是美剧《欢乐合唱团》的第二张原声专辑，收录了剧中角色翻唱的经典流行歌曲。核心特色在于将当代热门歌曲重新编排为合唱团形式，融合了流行、摇滚、R&B和百老汇风格，充满青春活力。",
+        "descriptionEn": "Glee: The Music, Volume 2 is the second soundtrack album from the TV series Glee, featuring cover versions of classic pop songs performed by the cast. Its core feature is reimagining contemporary hits as choir arrangements, blending pop, rock, R&B, and Broadway styles with youthful energy.",
+        "storiesZh": "录制这张专辑时，演员们经常在录音棚里即兴发挥。例如，饰演瑞秋的丽亚·米雪儿在录制《Don't Stop Believin'》时，因太过投入而唱破了音，但制作人认为这种“不完美”反而更真实，决定保留。此外，剧组曾为争夺一首歌的演唱权在演员间引���过友好“竞争”。",
+        "storiesEn": "During recording, actors often improvised. For instance, Lea Michele, who played Rachel, cracked her voice while recording 'Don't Stop Believin'' due to emotional intensity, but the producer kept it for authenticity. There were also friendly 'competitions' among cast members for solo parts.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "《欢乐合唱团》演员阵容由一群多才多艺的年轻演员组成，包括丽亚·米雪儿、柯瑞·蒙特斯等。他们通过剧集和原声带，将合唱音乐重新带入主流文化，激励了无数青少年追求音乐梦想。",
+        "artistIntroEn": "The Glee cast consists of a group of talented young actors, including Lea Michele and Cory Monteith. Through the show and soundtracks, they revived choir music in mainstream culture, inspiring countless teenagers to pursue musical dreams."
       },
       {
         "id": "mina-12-american-song-book",
@@ -16349,13 +16395,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Mina 于 2012 年发行。",
-        "descriptionEn": "Released by Mina in 2012.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《12 (American Song Book)》是意大利传奇歌手米娜的录音室专辑，翻唱了12首美国经典爵士与流行金曲。核心特色在于米娜那极具辨识度的低沉嗓音与戏剧化的演绎，赋予每首老歌全新的意大利式优雅与深情。",
+        "descriptionEn": "12 (American Song Book) is a studio album by Italian legendary singer Mina, covering 12 classic American jazz and pop standards. Its core feature is Mina's distinctive deep voice and dramatic interpretation, giving each old song a new Italian elegance and emotional depth.",
+        "storiesZh": "录制时，米娜坚持使用全现场乐队演奏而非数字采样，以追求最原始的爵士质感。有趣的是，她要求录音棚完全熄灯，只留一盏小台灯，说这样能让她“像在夜总会里一样放松”。制作人还透露，米娜经常在录完一首歌后，要求立即播放并当场修改编曲，追求极致完美。",
+        "storiesEn": "During recording, Mina insisted on using a live band rather than digital samples to achieve authentic jazz texture. Interestingly, she required the studio to be completely dark except for a small desk lamp, saying it helped her relax 'like in a nightclub.' The producer revealed that Mina often demanded immediate playback and on-the-spot arrangement changes for perfection.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "米娜是意大利国民级女歌手，1940年出生，被誉为“意大利流行乐女王”。她的职业生涯跨越六十年，以宽广的音域、独特的沙哑嗓音和戏剧化的表演风格��称，影响了欧洲数代音乐人。",
+        "artistIntroEn": "Mina is a national treasure of Italian music, born in 1940, known as the 'Queen of Italian Pop.' Her career spans six decades, renowned for her wide vocal range, unique husky voice, and dramatic performance style, influencing generations of European musicians."
       }
     ]
   },
@@ -16377,13 +16425,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Brandy Norwood 于 2008 年发行。",
-        "descriptionEn": "Released by Brandy Norwood in 2008.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Human》是美国R&B歌手布兰迪·诺伍德的第六张录音室专辑，风格以当代R&B、灵魂乐和流行为主。核心特色在于布兰迪细腻的情感表达与标志性的转音技巧，专辑主题围绕人性、脆弱与自我救赎，展现了其成熟的音乐蜕变。",
+        "descriptionEn": "Human is the sixth studio album by American R&B singer Brandy Norwood, featuring contemporary R&B, soul, and pop. Its core feature is Brandy's delicate emotional expression and signature vocal runs, with themes of humanity, vulnerability, and redemption, showcasing her mature musical transformation.",
+        "storiesZh": "录制这张专辑时，布兰迪正处于个人生活与事业的低谷期，她将录音棚当作情感宣泄的场所。有一次，她在录制主打歌《Right Here (Departed)》时情绪失控，痛哭失声，但制作人没有打断，反而将这段真情流露的片段保留在最终版本中。专辑原定名《Afrodisiac》续集，后因内容转变而改名。",
+        "storiesEn": "During recording, Brandy was at a low point in her personal life and career, using the studio as an emotional outlet. Once, while recording the lead single 'Right Here (Departed),' she broke down crying, but the producer didn't stop her, keeping the raw emotion in the final version. The album was originally planned as a sequel to Afrodisiac but was renamed due to thematic shifts.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "布兰迪·诺伍德是美国R&B歌手、演员及制作人，1979年出生于密西西比州。1994年以首张专辑《Brandy》出道，被誉为“R&B公主”，以其独特的嗓音和精湛的转音技巧影响了许多后辈歌手。",
+        "artistIntroEn": "Brandy Norwood is an American R&B singer, actress, and producer, born in 1979 in Mississippi. She debuted in 1994 with her self-titled album, dubbed the 'Princess of R&B,' and influenced many later singers with her unique voice and masterful vocal runs."
       },
       {
         "id": "bob-marley-the-wailers-live",
@@ -16400,13 +16450,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Bob Marley & The Wailers 于 1975 年发行。",
-        "descriptionEn": "Released by Bob Marley & The Wailers in 1975.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这是一张现场录音专辑，捕捉了鲍勃·马利与哭泣者乐队在1975年伦敦Lyceum剧场的巅峰演出。风格融合雷鬼、斯卡与摇滚，充满政治呐喊与灵魂慰藉。核心特色是马利极具感染力的舞台魅力与乐队即兴的律动，展现了雷鬼音乐最原始、最震撼的力量。",
+        "descriptionEn": "A live album capturing Bob Marley & The Wailers at their peak at London's Lyceum Theatre in 1975. Blending reggae, ska, and rock, it's filled with political cries and soulful solace. The core features Marley's electrifying stage presence and the band's improvisational groove, showcasing reggae's raw, powerful essence.",
+        "storiesZh": "专辑录制于1975年7月的伦敦Lyceum剧院，当时马利刚经历了一场针对他的暗杀未遂。演出中，他情绪激昂，即兴加唱了多首歌曲。据说在演唱《No Woman, No Cry》时，全场观众自发点燃打火机，形成一片光海，这一画面后来成为雷鬼文化经典符号。",
+        "storiesEn": "Recorded at London's Lyceum Theatre in July 1975, Marley had just survived an assassination attempt. During the performance, he was emotionally charged and added several impromptu songs. It's said that during 'No Woman, No Cry,' the audience spontaneously lit lighters, creating a sea of light—a moment that later became an iconic reggae cultural symbol.",
+        "historicalImpactZh": "这张专辑被公认为史上最伟大的现场专辑之一，将雷鬼音乐推向全球主流，并巩固了鲍勃·马利作为第三世界革命与和平代言人的不朽地位。",
+        "historicalImpactEn": "Widely regarded as one of the greatest live albums ever, it propelled reggae into global mainstream and cemented Bob Marley's immortal status as a spokesperson for Third World revolution and peace.",
+        "links": {},
+        "artistIntroZh": "鲍勃·马利（1945-1981）是牙买加雷鬼音乐传奇，拉斯特法里运动信徒。他以充满社会正义与爱的歌词闻名，代表作《One Love》《Redemption Song》等成为全球和平颂歌。哭泣者乐队是他从1963年起组建的核心班底，共同定义了雷鬼音乐的黄金时代。",
+        "artistIntroEn": "Bob Marley (1945-1981) was a Jamaican reggae legend and Rastafarian. Known for socially conscious and love-filled lyrics, his anthems like 'One Love' and 'Redemption Song' became global peace hymns. The Wailers, his core band formed in 1963, together defined reggae's golden age."
       }
     ]
   },
@@ -16428,13 +16480,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Eminem 于 2005 年发行。",
-        "descriptionEn": "Released by Eminem in 2005.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这是埃米纳姆的首张精选集，收录了他2005年前最热门的单曲，包括《Lose Yourself》《Stan》等。风格以硬核说唱为主，融合黑暗叙事与复杂韵脚，核心特色是埃米纳姆极致的文字游戏与情感张力，展现了白人说唱歌手在嘻哈领域的统治力。",
+        "descriptionEn": "Eminem's first greatest hits compilation, featuring his biggest singles up to 2005, including 'Lose Yourself' and 'Stan.' Stylistically hardcore rap with dark storytelling and complex rhyme schemes, its core is Eminem's masterful wordplay and emotional intensity, showcasing a white rapper's dominance in hip-hop.",
+        "storiesZh": "专辑原本计划收录一首新单曲《When I'm Gone》，但埃米纳姆在录制时因情绪崩溃多次中断——这首歌是他写给女儿的忏悔信。制作人回忆，他曾在录音棚里哭到无法继续，最终花了两周才完成录制。这首歌也成为他职业生涯最个人化的作品之一。",
+        "storiesEn": "The album was originally planned to include a new single, 'When I'm Gone,' but Eminem broke down multiple times during recording—the song was a confession letter to his daughter. The producer recalled he cried so hard in the studio he couldn't continue, eventually taking two weeks to finish. It became one of his most personal tracks.",
+        "historicalImpactZh": "作为21世纪最畅销的说唱精选集之一，它见证了埃米纳姆从争议少年到文化符号的蜕变，对全球说唱商业化与主流化产生了深远影响。",
+        "historicalImpactEn": "As one of the best-selling rap compilations of the 21st century, it marks Eminem's transformation from a controversial teen to a cultural icon, deeply influencing rap's commercialization and mainstreaming worldwide.",
+        "links": {},
+        "artistIntroZh": "埃米纳姆（1972年生）是美国说唱歌手、制作人，被誉为‘说唱之神’。他以快嘴、多变的flow和自传式歌词著称，代表作《The Marshall Mathers LP》等屡破销量纪录。他打破了种族壁垒，成为嘻哈史上最成功的白人艺术家。",
+        "artistIntroEn": "Eminem (born 1972) is an American rapper and producer, hailed as the 'Rap God.' Known for his rapid-fire delivery, versatile flow, and autobiographical lyrics, his albums like 'The Marshall Mathers LP' broke sales records. He shattered racial barriers, becoming hip-hop's most successful white artist."
       },
       {
         "id": "glee-cast-glee-the-music-volume-7",
@@ -16451,13 +16505,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Glee Cast 于 2011 年发行。",
-        "descriptionEn": "Released by Glee Cast in 2011.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "这是美剧《欢乐合唱团》第七张原声专辑，收录了剧中第二季后半段的翻唱歌曲。风格涵盖流行、摇滚、R&B与音乐剧，核心特色是演员们充满活力的合唱编排与对经典金曲的青春化重塑，剧集粉丝可通过这些歌曲重温剧情高潮时刻。",
+        "descriptionEn": "The seventh soundtrack album from Glee, featuring covers from the latter half of season two. Stylistically spanning pop, rock, R&B, and musical theater, its core is the cast's vibrant choral arrangements and youthful reinventions of classic hits, allowing fans to relive key plot moments.",
+        "storiesZh": "录制过程中，剧组经常在最后一刻才决定翻唱曲目。有一次，导演突然要求演员在24小时内学会并录制Lady Gaga的《Born This Way》合唱版，以配合剧集播出时间。演员们通宵排练，最终成品播出后获得极大好评，甚至被Gaga本人在推特上称赞。",
+        "storiesEn": "During recording, the cast often learned cover songs at the last minute. Once, the director demanded they learn and record a choral version of Lady Gaga's 'Born This Way' within 24 hours to match the air date. The actors rehearsed all night; the final version was highly praised and even tweeted about by Gaga herself.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "《欢乐合唱团》剧集演员阵容包括丽娅·米雪儿、科里·蒙蒂思等，由音乐总监亚当·安德斯指导。该剧以高中合唱团为背景，通过翻唱流行金曲推动剧情，在全球引发翻唱热潮，并助力多名演员开启音乐生涯。",
+        "artistIntroEn": "The Glee cast includes Lea Michele, Cory Monteith, and others, under music director Adam Anders. Set in a high school glee club, the show drove plots through pop covers, sparking a global cover craze and launching several actors' music careers."
       },
       {
         "id": "the-rolling-stones-beggars-banquet",
@@ -16474,13 +16530,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "The Rolling Stones 于 1968 年发行。",
-        "descriptionEn": "Released by The Rolling Stones in 1968.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这是滚石乐队转型期的里程碑专辑，标志着他们从早期布鲁斯摇滚转向更尖锐、政治化的民谣摇滚。核心特色是原声吉他主导的简约编曲与米克·贾格尔充满讽刺的歌词，如《Sympathy for the Devil》与《Street Fighting Man》，展现了乐队对社会动荡的深刻洞察。",
+        "descriptionEn": "A milestone album marking The Rolling Stones' shift from early blues-rock to sharper, political folk-rock. Its core features acoustic guitar-driven minimalist arrangements and Mick Jagger's sardonic lyrics, as in 'Sympathy for the Devil' and 'Street Fighting Man,' revealing deep insight into social turmoil.",
+        "storiesZh": "专辑封面最初设计为一张破旧、沾满污渍的请柬，但唱片公司认为太过粗俗而拒绝。乐队坚持原设计，最终以简约的棕色纸袋包装发行，内附一张请柬。这一反叛举动反而成为摇滚史上最具标志性的封面之一，也体现了乐队与商业体制的对抗态度。",
+        "storiesEn": "The album cover was initially designed as a stained, dirty invitation, but the record label rejected it as too vulgar. The band insisted, eventually releasing it in a plain brown paper bag with the invitation inside. This rebellious move became one of rock's most iconic covers, reflecting the band's anti-establishment stance.",
+        "historicalImpactZh": "这张专辑被视为滚石乐队艺术成熟的转折点，直接影响了70年代朋克与另类摇滚的诞生，其政治讽刺风格启发了无数后来者。",
+        "historicalImpactEn": "Considered the turning point of The Rolling Stones' artistic maturity, it directly influenced the birth of 1970s punk and alternative rock, inspiring countless successors with its political satire.",
+        "links": {},
+        "artistIntroZh": "滚石乐队成立于1962年，核心成员包括米克·贾格尔（主唱）、基思·理查兹（吉他）等。他们以叛逆形象、布鲁斯根基与狂野现场著称，与披头士并列为英国摇滚两大巅峰。乐队至今活跃，被誉为‘世界上最伟大的摇滚乐队’。",
+        "artistIntroEn": "The Rolling Stones formed in 1962, with core members Mick Jagger (vocals) and Keith Richards (guitar). Known for their rebellious image, blues roots, and wild live shows, they stand alongside The Beatles as British rock's twin peaks. Still active, they're hailed as 'the world's greatest rock band.'"
       }
     ]
   },
@@ -16502,13 +16560,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Emerson, Lake & Palmer 于 1973 年发行。",
-        "descriptionEn": "Released by Emerson, Lake & Palmer in 1973.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这是前卫摇滚超级组合艾默生、雷克与帕尔默的第四张录音室专辑，风格融合古典交响、爵士与电子实验。核心特色是基思·艾默生复杂的合成器演奏、格雷格·雷克的歌剧式嗓音与卡尔·帕尔梅的精密鼓点，代表作《Karn Evil 9》展现了前卫摇滚最宏大的叙事野心。",
+        "descriptionEn": "The fourth studio album by progressive rock supergroup Emerson, Lake & Palmer, blending classical symphony, jazz, and electronic experimentation. Its core features Keith Emerson's complex synthesizer work, Greg Lake's operatic vocals, and Carl Palmer's precise drumming, with 'Karn Evil 9' showcasing prog rock's grandest narrative ambition.",
+        "storiesZh": "专辑标题《Brain Salad Surgery》取自一句俚语‘把脑子做成沙拉手术’，暗示混乱与超现实。录制时，艾默生为了模拟管弦乐效果，使用了当时最先进的穆格合成器，结果因机器过热导致录音棚一度断电。他们不得不把合成器放在冰上降温，才完成录制。",
+        "storiesEn": "The album title 'Brain Salad Surgery' comes from a slang phrase suggesting chaos and surrealism. During recording, Emerson used the era's most advanced Moog synthesizer to simulate orchestral sounds, but it overheated and caused a studio power outage. They had to place the synth on ice to cool it down and finish recording.",
+        "historicalImpactZh": "这张专辑是前卫摇滚在70年代商业与艺术双巅峰的代表作之一，其合成器创新深刻影响了后来电子音乐与重金属的编曲手法。",
+        "historicalImpactEn": "This album is one of progressive rock's commercial and artistic peaks in the 1970s, and its synthesizer innovations deeply influenced later electronic music and heavy metal arranging techniques.",
+        "links": {},
+        "artistIntroZh": "艾默生、雷克与帕尔默（ELP）成立于1970年，由键盘手基思·艾默生、主唱/吉他手格雷格·雷克与鼓手卡尔·帕尔梅组成。他们以前卫古典摇滚著称，现场演出以华丽的灯光与超长即兴段落闻名，是70年代最卖座的超级乐队之一。",
+        "artistIntroEn": "Emerson, Lake & Palmer (ELP) formed in 1970, comprising keyboardist Keith Emerson, vocalist/guitarist Greg Lake, and drummer Carl Palmer. Known for progressive classical rock, their live shows featured spectacular lights and extended improvisation. They were one of the best-selling supergroups of the 1970s."
       },
       {
         "id": "silla-die-passion-whisky",
@@ -16525,13 +16585,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Silla 于 2012 年发行。",
-        "descriptionEn": "Released by Silla in 2012.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Die Passion Whisky》是德国说唱歌手Silla于2012年发行的专辑，风格以硬核说唱为主，融合了深沉的街头叙事与情感张力。专辑中大量使用弦乐和钢琴元素，营造出电影般的戏剧氛围，歌词直击人心，探讨了暴力、爱情与救赎等主题。",
+        "descriptionEn": "\"Die Passion Whisky\" is a 2012 album by German rapper Silla, characterized by hardcore rap with deep street narratives and emotional tension. The album features extensive use of strings and piano, creating a cinematic dramatic atmosphere, with lyrics tackling themes of violence, love, and redemption.",
+        "storiesZh": "这张专辑的录制过程充满挑战。Silla在创作期间曾因个人问题陷入低谷，但正是这段经历让专辑中的情感更加真实。录音室中，他经常在深夜独自调试混音，直到满意为止。专辑名称“威士忌的激情”源自他在酒吧的一次灵感迸发，当时他正啜饮威士忌，突然写下整首主打歌的歌词。",
+        "storiesEn": "The recording of this album was challenging. Silla went through a personal low during creation, which made the emotions in the album more authentic. He often stayed alone in the studio late at night tweaking mixes until satisfied. The title \"Passion Whisky\" came from a burst of inspiration at a bar, where he wrote the entire lead single's lyrics while sipping whisky.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "Silla，德国说唱歌手，生于1984年，以硬核说唱风格和深刻的歌词著称。他早年活跃于柏林地下说唱圈，2012年凭借《Die Passion Whisky》获得主流关注，成为德国说唱界的重要人物之一。",
+        "artistIntroEn": "Silla, born in 1984, is a German rapper known for his hardcore rap style and profound lyrics. He started in Berlin's underground rap scene and gained mainstream attention with \"Die Passion Whisky\" in 2012, becoming a key figure in German hip-hop."
       },
       {
         "id": "claire-kuo-keep-loving",
@@ -16548,13 +16610,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Claire Kuo 于 2012 年发行。",
-        "descriptionEn": "Released by Claire Kuo in 2012.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Keep Loving》是台湾歌手郭静于2012年发行的专辑，风格以清新流行为主，融合了民谣和轻摇滚元素。专辑旋律温暖治愈，歌词聚焦于爱情中的坚持与成长，展现了郭静标志性的纯净嗓音和细腻情感。",
+        "descriptionEn": "\"Keep Loving\" is a 2012 album by Taiwanese singer Claire Kuo, featuring fresh pop style blended with folk and light rock elements. The melodies are warm and healing, with lyrics focusing on persistence and growth in love, showcasing Claire Kuo's signature pure voice and delicate emotions.",
+        "storiesZh": "录制过程中，郭静为了捕捉最自然的声音，特意选择在清晨的录音室开唱。有一次，她在录制主打歌时因情绪过于投入而哽咽，导演却认为这段“瑕疵”反而增添了真实感，最终被保留在专辑中。此外，专辑封面拍摄时突遇暴雨，团队临时改用室内布景，意外营造出温馨氛围。",
+        "storiesEn": "During recording, Claire Kuo deliberately chose to sing in the studio early morning to capture the most natural sound. Once, she choked up while recording the lead single due to deep emotion, but the director felt this \"flaw\" added authenticity and kept it in the final track. Also, a sudden rainstorm during the album cover shoot forced the team to switch to an indoor set, accidentally creating a warm atmosphere.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "郭静，台湾流行歌手，1980年出生，以纯净治愈的嗓音闻名。2007年出道后迅速走红，代表作包括《下一个天亮》等。她擅长演绎抒情歌曲，被誉为“纯爱教主”。",
+        "artistIntroEn": "Claire Kuo, born in 1980, is a Taiwanese pop singer known for her pure and healing voice. She rose to fame after her debut in 2007, with hits like \"Next Dawn.\" She is renowned for her emotional ballads and is often called the \"Goddess of Pure Love.\""
       }
     ]
   },
@@ -16576,13 +16640,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Dream 于 2004 年发行。",
-        "descriptionEn": "Released by Dream in 2004.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Dream Meets Best Hits Avex》是日本组合Dream于2004年发行的精选集，收录了她们在Avex旗下的热门单曲。风格以J-pop和舞曲为主，节奏明快，充满活力，展现了组合成员甜美的嗓音和动感的表演风格。",
+        "descriptionEn": "\"Dream Meets Best Hits Avex\" is a 2004 compilation album by Japanese group Dream, featuring their hit singles under Avex. The style is mainly J-pop and dance music, with upbeat rhythms and vibrant energy, showcasing the members' sweet vocals and dynamic performance style.",
+        "storiesZh": "这张精选集的制作过程中，成员们重新录制了部分歌曲，并加入了新的编曲。有趣的是，录制时成员之一突然忘词，即兴哼唱了一段旋律，结果被制作人认为很有创意，直接用作歌曲的过渡段落。专辑封面拍摄在东京塔下进行，团队利用夜晚灯光打造出梦幻效果。",
+        "storiesEn": "During the making of this compilation, the members re-recorded some songs with new arrangements. Interestingly, one member forgot the lyrics and improvised a melody, which the producer found creative and used as a transition in the track. The album cover was shot under Tokyo Tower, with the team using night lights to create a dreamy effect.",
+        "historicalImpactZh": "这张精选集巩固了Dream在J-pop界的地位，成为Avex旗下女子组合的经典作品之一，影响了后来许多J-pop偶像团体的音乐风格。",
+        "historicalImpactEn": "This compilation solidified Dream's status in J-pop, becoming a classic among Avex's female groups and influencing the musical style of many later J-pop idol groups.",
+        "links": {},
+        "artistIntroZh": "Dream，日本女子流行组合，成立于1999年，由多名成员组成，以甜美嗓音和活力舞曲著称。她们在Avex旗下发行多张热门单曲，是2000年代初期J-pop的代表性团体之一。",
+        "artistIntroEn": "Dream is a Japanese female pop group formed in 1999, known for their sweet vocals and energetic dance tracks. They released many hit singles under Avex and were one of the representative J-pop groups of the early 2000s."
       }
     ]
   },
@@ -16604,13 +16670,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "The Crusaders 于 1979 年发行。",
-        "descriptionEn": "Released by The Crusaders in 1979.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Street Life》是美国爵士放克乐队The Crusaders于1979年发行的专辑，风格融合了爵士、放克和灵魂乐。专辑以流畅的节奏、华丽的管乐编排和即兴演奏著称，同名主打曲《Street Life》成为经典，展现了都市生活的律动与情感。",
+        "descriptionEn": "\"Street Life\" is a 1979 album by American jazz-funk band The Crusaders, blending jazz, funk, and soul. Known for its smooth rhythms, lush horn arrangements, and improvisation, the title track \"Street Life\" became a classic, capturing the groove and emotion of urban life.",
+        "storiesZh": "专辑同名曲《Street Life》原本只是一段即兴演奏，但主唱Randy Crawford的加入让歌曲焕发新生。录制时，Crawford仅用一次录音就完成了人声部分，其即兴发挥的高音让在场乐手惊叹不已。此外，专辑中的管乐部分由多位爵士大师客串，录音室常常变成即兴Jam session。",
+        "storiesEn": "The title track \"Street Life\" started as an improvisation, but vocalist Randy Crawford's addition brought it to life. She completed her vocal part in a single take, and her improvised high notes amazed the musicians. The horn sections featured several jazz legends, and the studio often turned into spontaneous jam sessions.",
+        "historicalImpactZh": "《Street Life》是The Crusaders商业上最成功的专辑，同名曲成为放克和爵士乐的经典，被广泛采样和翻唱，影响了后来的R&B和嘻哈音乐。",
+        "historicalImpactEn": "\"Street Life\" is The Crusaders' most commercially successful album, with the title track becoming a funk and jazz classic, widely sampled and covered, influencing later R&B and hip-hop music.",
+        "links": {},
+        "artistIntroZh": "The Crusaders，美国爵士放克乐队，成立于1960年代，以融合爵士、放克和灵魂乐著称。乐队成员包括键盘手Joe Sample和萨克斯手Wilton Felder等，他们以精湛的即兴演奏和流畅的编曲闻名，是爵士放克领域的先驱。",
+        "artistIntroEn": "The Crusaders are an American jazz-funk band formed in the 1960s, known for blending jazz, funk, and soul. Members include keyboardist Joe Sample and saxophonist Wilton Felder, renowned for their masterful improvisation and smooth arrangements, pioneering the jazz-funk genre."
       }
     ]
   },
@@ -16632,13 +16700,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Aaliyah 于 2002 年发行。",
-        "descriptionEn": "Released by Aaliyah in 2002.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《I Care 4 U》是美国R&B歌手Aaliyah于2002年发行的遗作精选集，收录了她生前未发表的歌曲及热门单曲。风格以R&B为主，融合了嘻哈和流行元素，展现了Aaliyah柔滑的嗓音和前瞻性的音乐品味。",
+        "descriptionEn": "\"I Care 4 U\" is a 2002 posthumous compilation album by American R&B singer Aaliyah, featuring unreleased tracks and hit singles. The style is primarily R&B blended with hip-hop and pop, showcasing Aaliyah's smooth vocals and forward-thinking musical taste.",
+        "storiesZh": "这张专辑在Aaliyah因空难去世后不久发行，制作团队从她生前的录音素材中挑选出未完成的作品进行后期制作。录制过程中，制作人Timbaland和Missy Elliott曾多次在录音室中因怀念Aaliyah而暂停工作。专辑中的《Miss You》原本只是一段Demo，但因其真挚的情感被选为主打曲。",
+        "storiesEn": "Released shortly after Aaliyah's tragic plane crash, the album was compiled from her unfinished recordings. Producers Timbaland and Missy Elliott often paused work in the studio due to missing her. The track \"Miss You\" was originally just a demo but was chosen as the lead single for its heartfelt emotion.",
+        "historicalImpactZh": "《I Care 4 U》延续了Aaliyah的音乐影响力，巩固了她作为R&B先锋的地位。专辑中的歌曲影响了2000年代后期的R&B和嘻哈制作，尤其是对当代R&B歌手的启发。",
+        "historicalImpactEn": "\"I Care 4 U\" extended Aaliyah's musical legacy, solidifying her status as an R&B pioneer. Its tracks influenced late-2000s R&B and hip-hop production, especially inspiring contemporary R&B artists.",
+        "links": {},
+        "artistIntroZh": "Aaliyah，美国R&B歌手和演员，1979年出生，1990年代出道即成为流行偶像。她以独特的嗓音、性感风格和与Timbaland的合作闻名，代表作包括《Try Again》和《Are You That Somebody?》。2001年因空难去世，年仅22岁。",
+        "artistIntroEn": "Aaliyah was an American R&B singer and actress, born in 1979, who became a pop icon in the 1990s. Known for her distinctive voice, sexy style, and collaborations with Timbaland, her hits include \"Try Again\" and \"Are You That Somebody?\" She died in a plane crash in 2001 at age 22."
       },
       {
         "id": "enigma-mcmxc-a-d",
@@ -16655,13 +16725,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Enigma 于 1990 年发行。",
-        "descriptionEn": "Released by Enigma in 1990.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《MCMXC a.D.》是Enigma的首张专辑，融合了新世纪音乐、电子、格里高利圣咏和世界音乐元素，营造出一种神秘而空灵的氛围。其标志性单曲《Sadeness (Part I)》以拉丁文祈祷与性感节奏交织，开创了90年代早期全球音乐潮流。",
+        "descriptionEn": "MCMXC a.D. is Enigma's debut album, blending new age, electronic, Gregorian chants, and world music to create a mysterious, ethereal atmosphere. Its iconic single Sadeness (Part I) intertwines Latin prayers with sensual rhythms, pioneering a global music trend in the early 1990s.",
+        "storiesZh": "制作人Michael Cretu在罗马尼亚的城堡录音室中，利用采样器将格里高利圣咏与舞曲节拍结合，创造出前所未有的声音。专辑标题“MCMXC a.D.”是罗马数字的1990年，寓意跨越千年的神秘感。单曲《Sadeness》最初被电台拒绝，但听众狂热追捧后迅速成为全球热门。",
+        "storiesEn": "Producer Michael Cretu, in his Romanian castle studio, used samplers to fuse Gregorian chants with dance beats, creating an unprecedented sound. The album title MCMXC a.D. is Roman numerals for 1990, evoking a millennium-spanning mystery. The single Sadeness was initially rejected by radio stations but became a global hit after listener demand.",
+        "historicalImpactZh": "《MCMXC a.D.》全球销量超过1200万张，定义了90年代新世纪电子音乐风格，并引发了格里高利圣咏在流行文化中的复兴。",
+        "historicalImpactEn": "MCMXC a.D. sold over 12 million copies worldwide, defined the 1990s new-age electronic sound, and sparked a revival of Gregorian chants in pop culture.",
+        "links": {},
+        "artistIntroZh": "Enigma是罗马尼亚裔德国音乐人Michael Cretu于1990年创立的音乐项目，以神秘、哲学主题和融合电子、世界音乐著称。Cretu刻意保持匿名，常以女声和圣咏采样营造超验氛围，成为新世纪音乐最具代表性的名字之一。",
+        "artistIntroEn": "Enigma is a musical project founded in 1990 by Romanian-German musician Michael Cretu, known for its mystical, philosophical themes and fusion of electronic and world music. Cretu deliberately remains anonymous, using female vocals and chant samples to create a transcendent atmosphere, making Enigma one of the most iconic names in new-age music."
       }
     ]
   },
@@ -16683,13 +16755,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "The Miles Davis Sextet 于 1961 年发行。",
-        "descriptionEn": "Released by The Miles Davis Sextet in 1961.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Someday My Prince Will Come》是Miles Davis六重奏1961年的经典专辑，以柔和的硬波普风格重新演绎迪士尼经典曲目，并融入原创作品。Davis的弱音小号与John Coltrane、Hank Mobley的萨克斯交织，呈现优雅而深邃的爵士对话。",
+        "descriptionEn": "Someday My Prince Will Come is a 1961 classic by the Miles Davis Sextet, reimagining a Disney standard in a mellow hard bop style alongside original compositions. Davis's muted trumpet intertwines with saxophones by John Coltrane and Hank Mobley, delivering an elegant and profound jazz dialogue.",
+        "storiesZh": "这张专辑是Coltrane离开Davis乐队前的最后一次合作。录制时，Davis坚持用Coltrane替代原本的萨克斯手，但Coltrane因即将单飞而情绪复杂。标题曲中，Davis的弱音小号独奏仅一遍完成，被乐手们称为“完美的一镜到底”。",
+        "storiesEn": "This album was the final collaboration before Coltrane left Davis's band. Davis insisted on Coltrane replacing the original saxophonist, but Coltrane was emotionally conflicted due to his impending solo career. Davis's muted trumpet solo on the title track was recorded in one take, hailed by the musicians as 'a perfect one-shot.'",
+        "historicalImpactZh": "该专辑是Davis六重奏巅峰时期的代表作，展现了后波普向调式爵士过渡的里程碑，并成为爵士乐史上最优雅的迪士尼改编范例。",
+        "historicalImpactEn": "This album is a masterpiece of Davis's sextet at its peak, marking a milestone in the transition from post-bop to modal jazz, and remains one of the most elegant Disney adaptations in jazz history.",
+        "links": {},
+        "artistIntroZh": "Miles Davis（1926-1991）是美国爵士小号手、乐队领袖，被誉为20世纪最具影响力的音乐家之一。他不断革新爵士风格，从波普到调式爵士、融合爵士，始终走在时代前沿。其六重奏时期（1958-1963）是硬波普与调式爵士的黄金组合。",
+        "artistIntroEn": "Miles Davis (1926-1991) was an American jazz trumpeter and bandleader, hailed as one of the most influential musicians of the 20th century. He constantly revolutionized jazz, from bebop to modal jazz and fusion. His sextet period (1958-1963) was a golden combination of hard bop and modal jazz."
       },
       {
         "id": "the-game-jesus-piece",
@@ -16706,13 +16780,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "The Game 于 2012 年发行。",
-        "descriptionEn": "Released by The Game in 2012.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Jesus Piece》是The Game的第五张录音室专辑，以黑暗、硬核的西海岸说唱为核心，融合了G-funk旋律和街头叙事。专辑名称象征“基督像挂饰”，探讨信仰、暴力和名利之间的冲突，邀请Kanye West、Lil Wayne等巨星助阵。",
+        "descriptionEn": "Jesus Piece is The Game's fifth studio album, rooted in dark, hardcore West Coast rap with G-funk melodies and street narratives. The title, referencing a 'Jesus piece' pendant, explores conflicts between faith, violence, and fame, featuring guest stars like Kanye West and Lil Wayne.",
+        "storiesZh": "专辑录制期间，The Game与G-Unit成员间的矛盾激化，导致原定合作取���。他在洛杉矶家中搭建临时录音室，每日工作18小时，并请来牧师为专辑祈祷。标题曲《Jesus Piece》的MV因宗教意象引发争议，但The Game坚持这是对街头救赎的真实表达。",
+        "storiesEn": "During recording, tensions between The Game and G-Unit members escalated, canceling planned collaborations. He set up a temporary studio in his Los Angeles home, working 18-hour days, and invited a pastor to pray over the album. The title track's music video sparked controversy over religious imagery, but The Game insisted it was an honest expression of street redemption.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "The Game（本名Jayceon Terrell Taylor）是美国西海岸说唱歌手，1979年生于洛杉矶康普顿。他以激烈的叙事风格和G-funk复兴著称，2005年首张专辑《The Documentary》奠定其地位。他常以街头诗人身份探讨社会现实，是00年代后西海岸说唱的代表人物。",
+        "artistIntroEn": "The Game (born Jayceon Terrell Taylor) is an American West Coast rapper from Compton, Los Angeles, born in 1979. Known for his intense storytelling and G-funk revival, his 2005 debut The Documentary cemented his status. He often addresses social realities as a street poet, representing post-2000s West Coast rap."
       },
       {
         "id": "lynn-anderson-home-for-the-holidays",
@@ -16729,13 +16805,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Lynn Anderson 于 1999 年发行。",
-        "descriptionEn": "Released by Lynn Anderson in 1999.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Home for the Holidays》是Lynn Anderson的圣诞专辑，以乡村流行风格演绎经典节日歌曲与原创作品。她的嗓音温暖明亮，配以弦乐和轻快的乡村编曲，营造出温馨的家庭节日氛围，是90年代末乡村圣诞专辑的代表之一。",
+        "descriptionEn": "Home for the Holidays is Lynn Anderson's Christmas album, delivering classic holiday songs and originals in a country-pop style. Her warm, bright vocals, paired with strings and cheerful country arrangements, create a cozy family holiday atmosphere, making it a representative late-1990s country Christmas album.",
+        "storiesZh": "Anderson在纳什维尔的录音室录制这张专辑时，特意邀请了小时候一起唱圣诞颂歌的家人合唱背景和声。她回忆说，录制《Silent Night》时录音室停电，大家用蜡烛照明继续演唱，意外捕捉到了最纯净的一版人声。",
+        "storiesEn": "While recording this album at a Nashville studio, Anderson invited her family—with whom she sang Christmas carols as a child—to provide background harmonies. She recalled that during Silent Night, a power outage forced them to sing by candlelight, accidentally capturing the purest vocal take.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "Lynn Anderson（1947-2015）是美国乡村音乐女歌手，以1970年冠军单曲《Rose Garden》闻名全球。她出生于音乐世家，嗓音清亮，风格横跨传统乡村与流行。职业生涯中获得多项格莱美提名，是70年代乡村音乐的代表女性之一。",
+        "artistIntroEn": "Lynn Anderson (1947-2015) was an American country music singer, best known for her 1970 worldwide hit Rose Garden. Born into a musical family, her clear voice spanned traditional country and pop. She received multiple Grammy nominations and was a leading female figure in 1970s country music."
       }
     ]
   },
@@ -16757,13 +16835,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Keith Jarrett 于 1975 年发行。",
-        "descriptionEn": "Released by Keith Jarrett in 1975.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《The Köln Concert》是Keith Jarrett 1975年在德国科隆歌剧院的现场钢琴独奏专辑，被誉为即兴音乐的巅峰之作。全曲由Jarrett在简陋的钢琴上即兴创作，融合古典、爵士、福音和民谣元素，情感层次丰富，从静谧冥想到激昂爆发，令人叹为观止。",
+        "descriptionEn": "The Köln Concert is Keith Jarrett's 1975 live solo piano album at the Cologne Opera House, hailed as the pinnacle of improvisational music. Entirely improvised on a substandard piano, it blends classical, jazz, gospel, and folk elements, with emotional layers ranging from meditative calm to explosive passion.",
+        "storiesZh": "演出当晚，Jarrett因长途旅行背部剧痛，且主办方提供的贝森朵夫钢琴音色糟糕、踏板失灵。他几乎取消演出，但最终决定“用这堆废铁创造奇迹”。他全程采用重复低音线条和即兴旋律，克服钢琴缺陷，反而成就了史上最畅销的钢琴独奏专辑。",
+        "storiesEn": "That night, Jarrett suffered severe back pain from travel, and the provided Bösendorfer piano had terrible tone and a broken pedal. He nearly canceled the concert but decided to 'make miracles with this junk.' He used repetitive bass lines and improvised melodies to overcome the piano's flaws, creating the best-selling solo piano album in history.",
+        "historicalImpactZh": "《The Köln Concert》是史上最畅销的钢琴独奏专辑（超过400万张），重新定义了即兴音乐的艺术高度，并激励了无数音乐家探索现场即兴创作的可能性。",
+        "historicalImpactEn": "The Köln Concert is the best-selling solo piano album ever (over 4 million copies), redefining the artistic heights of improvisation and inspiring countless musicians to explore live spontaneous creation.",
+        "links": {},
+        "artistIntroZh": "Keith Jarrett（1945���生）是美国钢琴家、作曲家，被誉为当代最伟大的即兴演奏家之一。他横跨古典、爵士和当代音乐，以长达数小时的完全即兴独奏会闻名。其作品兼具技术精湛与深刻情感，是20世纪后期音乐界最具独创性的声音之一。",
+        "artistIntroEn": "Keith Jarrett (born 1945) is an American pianist and composer, hailed as one of the greatest improvisers of our time. He spans classical, jazz, and contemporary music, famous for hours-long fully improvised solo concerts. His work combines technical mastery with deep emotion, making him one of the most original voices in late 20th-century music."
       },
       {
         "id": "nana-mizuki-rockbound-neighbors",
@@ -16780,13 +16860,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Nana Mizuki 于 2012 年发行。",
-        "descriptionEn": "Released by Nana Mizuki in 2012.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Rockbound Neighbors》是水树奈奈在2012年发行的第八张原创专辑，融合了摇滚、流行与电子元素，展现了其极具爆发力的嗓音与细腻的情感表达。专辑以“羁绊”为主题，曲风多样，既有激昂的摇滚劲歌，也有温柔的抒情 ballad，充分体现了她作为声优歌手的全能魅力。",
+        "descriptionEn": "Rockbound Neighbors is Nana Mizuki's 8th original album released in 2012, blending rock, pop, and electronic elements to showcase her powerful vocals and delicate emotional expression. The album's theme of 'bonds' is reflected in diverse tracks ranging from激昂 rock anthems to tender ballads, highlighting her versatility as a voice actress and singer.",
+        "storiesZh": "专辑录制期间，水树奈奈正值繁忙的巡回演唱会与配音工作并行阶段。为了打磨《Rockbound Neighbors》的摇滚质感，她特意与吉他手合作进行了多次即兴录音，其中主打歌的副歌部分是在录音室凌晨三点才最终定稿。据制作人回忆，奈奈在录制抒情曲时曾因投入情感而数度哽咽，不得不暂停重录。",
+        "storiesEn": "During the album's recording, Nana Mizuki was simultaneously juggling a busy concert tour and voice acting work. To achieve the rock texture of Rockbound Neighbors, she collaborated with guitarists on several impromptu jam sessions; the chorus of the lead track was finalized at 3 AM in the studio. According to the producer, Mizuki became so emotionally invested while recording a ballad that she choked up multiple times, requiring pauses to recompose herself.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "水树奈奈（Nana Mizuki），日本声优、歌手，以极具穿透力的嗓音和充满活力的舞台表现闻名。自2000年出道以来，她多次登上日本武道馆及东京巨蛋举办演唱会，是首位在东京巨蛋开唱的声优，被誉为“声优界的女王”。",
+        "artistIntroEn": "Nana Mizuki is a Japanese voice actress and singer renowned for her piercing, powerful vocals and energetic stage presence. Since her debut in 2000, she has performed multiple times at the Nippon Budokan and Tokyo Dome, becoming the first voice actress to headline a concert at Tokyo Dome, earning her the title 'Queen of Voice Actors.'"
       }
     ]
   },
@@ -16812,13 +16894,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "The Dave Brubeck Quartet 于 1959 年发行。",
-        "descriptionEn": "Released by The Dave Brubeck Quartet in 1959.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Time Out》是戴夫·布鲁贝克四重奏于1959年发行的爵士乐里程碑专辑，以非传统拍号（如5/4、9/8）��实验性即兴为核心特色。专辑将古典音乐的结构感与爵士的即兴自由完美结合，创��出既严谨又松弛的独特听感，被誉为“酷爵士”与“西海岸爵士”的代表作。",
+        "descriptionEn": "Time Out is a landmark jazz album by The Dave Brubeck Quartet, released in 1959, featuring unconventional time signatures (e.g., 5/4, 9/8) and experimental improvisation. It masterfully blends classical structure with jazz freedom, creating a unique sound that is both disciplined and relaxed, hailed as a quintessential work of cool jazz and West Coast jazz.",
+        "storiesZh": "专辑录制前，哥伦比亚唱片公司曾对非传统节奏的商业前景表示担忧。制作人要求布鲁贝克至少收录一首4/4拍的标准曲，但布鲁贝克坚持全盘实验。录制《Take Five》时，萨克斯手保罗·戴斯蒙德即兴创作的旋律让在场工作人员不自觉地跟着节拍摇摆，最终公司妥协。专辑封面拍摄于纽约地铁站，因摄影师要求，乐队成员在站台反复跳跃近半小时才得到满意的动态画面。",
+        "storiesEn": "Before recording, Columbia Records expressed concerns about the commercial viability of unconventional rhythms. The producer demanded at least one standard 4/4 track, but Brubeck insisted on full experimentation. During the recording of 'Take Five,' saxophonist Paul Desmond's improvised melody made the staff involuntarily sway to the beat, leading the label to relent. The album cover was shot at a New York subway station; the photographer had the band members jump repeatedly on the platform for nearly half an hour to capture the perfect dynamic shot.",
+        "historicalImpactZh": "《Time Out》是首张销量突破百万的爵士专辑，彻底打破了“爵士乐无法商业成功”的偏见。其主打曲《Take Five》成为史上最著名的爵士标准曲之一，激励了无数音乐人探索非传统节奏的可能性，直接影响了后来融合爵士与实验摇滚的发展。",
+        "historicalImpactEn": "Time Out was the first jazz album to sell over a million copies, shattering the bias that jazz couldn't achieve commercial success. Its lead track 'Take Five' became one of the most famous jazz standards in history, inspiring countless musicians to explore unconventional time signatures and directly influencing the development of fusion jazz and experimental rock.",
+        "links": {},
+        "artistIntroZh": "戴夫·布鲁贝克（Dave Brubeck），美国爵士钢琴家、作曲家，以其复杂的节奏结构和跨文化融合创作闻名。他领导的四重奏在20世纪50-60年代风靡全球，将爵士乐带入大学校园和主流听众视野。布鲁贝克一生致力于打破音乐边界，被誉为“爵士乐的革新者”。",
+        "artistIntroEn": "Dave Brubeck was an American jazz pianist and composer known for his complex rhythmic structures and cross-cultural compositions. His quartet achieved global fame in the 1950s-60s, bringing jazz to college campuses and mainstream audiences. Brubeck spent his life breaking musical boundaries and is regarded as a 'jazz innovator.'"
       },
       {
         "id": "r-kelly-love-letter",
@@ -16835,13 +16919,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "R. Kelly 于 2010 年发行。",
-        "descriptionEn": "Released by R. Kelly in 2010.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Love Letter》是R. Kelly于2010年发行的第11张录音室专辑，风格回归经典的灵魂乐与节奏蓝调，致敬70年代费城灵魂乐与芝加哥福音传统。专辑以情书为概念，用温暖醇厚的嗓音演绎了关于爱情、忏悔与救赎的深情叙事，制作上大量采用真实弦乐与铜管乐器。",
+        "descriptionEn": "Love Letter is R. Kelly's 11th studio album, released in 2010, marking a return to classic soul and R&B, paying homage to 70s Philadelphia soul and Chicago gospel traditions. With a 'love letter' concept, his warm, rich vocals narrate tales of love, remorse, and redemption, with production heavily featuring live strings and brass.",
+        "storiesZh": "专辑灵感源于R. Kelly在芝加哥老教堂听到的福音合唱。他临时决定将原定的流行R&B计划推翻，转而录制一张“纯灵魂乐”专辑。录制过程中，他坚持用模拟设备而非数字录音以捕捉复古音色。同名曲《Love Letter》的弦乐部分邀请了底特律交响乐团成员参与，录制当天突降暴雪，乐团成员徒步两小时才到达录音棚。",
+        "storiesEn": "The album was inspired by a gospel choir R. Kelly heard in an old Chicago church. He abruptly scrapped his original pop-R&B plan to record a 'pure soul' album. During recording, he insisted on using analog equipment instead of digital to capture a vintage sound. The string section for the title track 'Love Letter' involved members of the Detroit Symphony Orchestra, who had to walk two hours through a blizzard to reach the studio on recording day.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "R. Kelly，美国R&B歌手、词曲作者与制作人，被誉为“R&B之王”。他以流畅的假声和深刻的叙事能力著称，创作了《I Believe I Can Fly》等经典作品，职业生涯销量超7500万张，对当代R&B与嘻哈音乐产生了深远影响。",
+        "artistIntroEn": "R. Kelly is an American R&B singer, songwriter, and producer, often called the 'King of R&B.' Known for his smooth falsetto and deep storytelling, he created classics like 'I Believe I Can Fly.' With career sales exceeding 75 million records, he has profoundly influenced contemporary R&B and hip-hop."
       },
       {
         "id": "various-artists-the-best-of-detective-conan-4-detective-cona",
@@ -16858,13 +16944,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "various artists 于 2011 年发行。",
-        "descriptionEn": "Released by various artists in 2011.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《THE BEST OF DETECTIVE CONAN 4 ~名侦探柯南主题曲合集4~》于2011年发行，收录了动画《名侦探柯南》2008年至2011年间使用的主题曲。专辑风格横跨J-Pop、摇滚、流行与动画歌谣，汇集了仓木麻衣、B'z、GARNET CROW等众多人气歌手与乐队的代表作，是柯南音乐系列的经典收藏。",
+        "descriptionEn": "Released in 2011, THE BEST OF DETECTIVE CONAN 4 compiles theme songs used in the anime Detective Conan between 2008 and 2011. The album spans J-Pop, rock, pop, and anime ballads, featuring hits by popular artists like Mai Kuraki, B'z, and GARNET CROW, making it a classic collection in the Conan music series.",
+        "storiesZh": "该专辑的选曲过程历时数月，制作团队从二十余首候选曲目中反复筛选，最终因粉丝强烈要求，额外收录了未在电视播出的剧场版主题曲。录制期间，仓木麻衣特意为专辑重新编曲了她与柯南的经典合作曲《Secret of my heart》的钢琴版。封面设计由原作者青山刚昌亲自监修，要求柯南的姿势必须与2008年第一张合集中的封面形成呼应。",
+        "storiesEn": "The track selection process took months, with the production team repeatedly narrowing down from over twenty candidates. Due to strong fan demand, they ultimately included movie theme songs not aired on TV. During production, Mai Kuraki specially rearranged a piano version of her classic Conan collaboration 'Secret of my heart' for the album. The cover art was personally supervised by original author Gosho Aoyama, who insisted that Conan's pose echo the cover of the first compilation from 2008.",
+        "historicalImpactZh": "该系列合集见证了《名侦探柯南》音乐阵容的黄金期，推动了动画主题曲作为独立音乐形式的商业成功，对后来动漫音乐合集的策划模式产生了示范性影响。",
+        "historicalImpactEn": "This compilation series witnessed the golden age of Detective Conan's music lineup, propelled the commercial success of anime theme songs as an independent music format, and set a benchmark for future anime music compilation strategies.",
+        "links": {},
+        "artistIntroZh": "本专辑为多位艺术家的合集，核心贡献者包括：仓木麻衣（日本流行天后，与柯南合作超过20首主题曲）、B'z（日本摇滚天团，销量破亿）、GARNET CROW（神秘系乐队，以哀愁旋律著称）。这些艺术家共同塑造了《名侦探柯南》的音乐世界。",
+        "artistIntroEn": "This album is a compilation featuring multiple artists, with key contributors including: Mai Kuraki (Japanese pop diva with over 20 Conan theme songs), B'z (Japanese rock giants with over 100 million records sold), and GARNET CROW (a mysterious band known for melancholic melodies). Together, these artists shaped the musical world of Detective Conan."
       }
     ]
   },
@@ -16886,13 +16974,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Dr. Dre 于 1992 年发行。",
-        "descriptionEn": "Released by Dr. Dre in 1992.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《The Chronic》是Dr. Dre于1992年发行的首张个人录音室专辑，定义了西海岸G-Funk风格——以慵懒的合成器旋律、沉重贝斯线、放克采样和街头叙事为核心。专辑以帮派视角描绘了洛杉矶的黑帮生活、社会现实与享乐主义，是匪帮说唱（Gangsta Rap）史上最具影响力的作品之一。",
+        "descriptionEn": "The Chronic is Dr. Dre's debut solo studio album, released in 1992, defining the West Coast G-Funk style—characterized by laid-back synth melodies, heavy basslines, funk samples, and street narratives. The album depicts gang life, social realities, and hedonism in Los Angeles from a gangsta perspective, making it one of the most influential works in Gangsta Rap history.",
+        "storiesZh": "专辑录制期间，Dr. Dre刚离开N.W.A，与Suge Knight共同创立Death Row唱片。为了摆脱前东家的束缚，他在地下室搭建临时录音室，用借来的设备完成大部分编曲。主打歌《Nuthin' but a 'G' Thang》的歌词由Snoop Dogg在录音室厕所内即兴写出，当时Dre正在调试鼓机，Snoop随口哼出的旋律让Dre立刻按下录音键。专辑封面上的大麻叶图���因过于敏感，部分唱片店拒绝上架。",
+        "storiesEn": "During recording, Dr. Dre had just left N.W.A and co-founded Death Row Records with Suge Knight. To escape his former label's constraints, he set up a makeshift studio in a basement, completing most of the arrangements with borrowed equipment. The lyrics for the lead single 'Nuthin' but a 'G' Thang' were improvised by Snoop Dogg in the studio bathroom; while Dre was tuning a drum machine, Snoop's casual humming prompted Dre to hit record. The album cover's cannabis leaf motif was so controversial that some record stores refused to stock it.",
+        "historicalImpactZh": "《The Chronic》将G-Funk推向主流，使西海岸嘻哈在90年代初与东海岸分庭抗礼。它捧红了Snoop Dogg，确立了Death Row唱片在嘻哈产业的霸主地位，并彻底改变了说唱音乐的制作美学——采样放克成为此后十年的行业标准。",
+        "historicalImpactEn": "The Chronic brought G-Funk to the mainstream, positioning West Coast hip-hop as a rival to the East Coast in the early 90s. It launched Snoop Dogg's career, established Death Row Records as a dominant force in hip-hop, and forever changed rap production aesthetics—funk sampling became the industry standard for the next decade.",
+        "links": {},
+        "artistIntroZh": "Dr. Dre（安德烈·杨），美国说唱歌手、制作人、企业家，被誉为“嘻哈音乐最伟大的制作人之一”。作为N.W.A创始成员，他开创了G-Funk风格；后创立Death Row与Aftermath唱片，发掘了Snoop Dogg、Eminem、50 Cent等巨星，个人专辑销量超2000万张。",
+        "artistIntroEn": "Dr. Dre (Andre Young) is an American rapper, producer, and entrepreneur, hailed as one of hip-hop's greatest producers. As a founding member of N.W.A, he pioneered G-Funk; he later founded Death Row and Aftermath Records, discovering superstars like Snoop Dogg, Eminem, and 50 Cent. His personal album sales exceed 20 million copies."
       },
       {
         "id": "cliff-richard-the-young-ones",
@@ -16909,13 +16999,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Cliff Richard 于 1961 年发行。",
-        "descriptionEn": "Released by Cliff Richard in 1961.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这张专辑是克里夫·理查德的经典之作，融合了流行、摇滚和轻快的英伦风格，充满青春活力。核心特色在于其朗朗上口的旋律和阳光般的演唱，展现了60年代初英国流行音乐的清新与乐观。",
+        "descriptionEn": "This album is a classic by Cliff Richard, blending pop, rock, and upbeat British style, brimming with youthful energy. Its core feature lies in catchy melodies and sunny vocals, showcasing the freshness and optimism of early 1960s British pop music.",
+        "storiesZh": "录制过程中，克里夫·理查德和乐队常常在录音室里即兴创作，有一次为了捕捉完美的和声，他们连续录制了十几个小时，直到凌晨才满意。专辑同名歌曲《The Young Ones》原本是为一部电影创作，结果意外成为当年最畅销单曲。",
+        "storiesEn": "During recording, Cliff Richard and the band often improvised in the studio. To capture perfect harmonies, they once recorded for over ten hours straight until satisfied in the early morning. The title track 'The Young Ones' was originally written for a film but unexpectedly became the best-selling single of the year.",
+        "historicalImpactZh": "这张专辑巩固了克里夫·理查德作为英国流行偶像的地位，并影响了60年代英国摇滚乐的发展。",
+        "historicalImpactEn": "This album solidified Cliff Richard's status as a British pop icon and influenced the development of 1960s British rock music.",
+        "links": {},
+        "artistIntroZh": "克里夫·理查德是英国传奇歌手和演员，被誉为“英国猫王”。他自1958年出道以来，凭借多首热门单曲和电影作品，成为英国流行音乐史上最成功的艺人之一。",
+        "artistIntroEn": "Cliff Richard is a legendary British singer and actor, often called the 'British Elvis.' Since his debut in 1958, he has become one of the most successful artists in British pop music history, with numerous hit singles and film roles."
       },
       {
         "id": "patricia-kaas-kabaret",
@@ -16932,13 +17024,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Patricia Kaas 于 2008 年发行。",
-        "descriptionEn": "Released by Patricia Kaas in 2008.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "这张专辑是法国香颂女王帕翠西亚·卡斯的深情之作，风格以法式流行和爵士为主，融合了戏剧性的编曲和细腻的情感表达。核心特色在于她独特的沙哑嗓音和充满张力的演绎，营造出浓郁的怀旧与浪漫氛围。",
+        "descriptionEn": "This album is a heartfelt work by French chanson queen Patricia Kaas, blending French pop and jazz with dramatic arrangements and delicate emotional expression. Its core feature lies in her unique husky voice and powerful delivery, creating a nostalgic and romantic atmosphere.",
+        "storiesZh": "录制专辑《Kabaret》时，帕翠西亚·卡斯特意邀请了一支小型管弦乐队现场伴奏，以捕捉最真实的音色。有一次，她因为过度投入演唱而泪洒录音室，导演不得不暂停录制让她平复情绪。",
+        "storiesEn": "While recording 'Kabaret,' Patricia Kaas specially invited a small orchestra to play live to capture the most authentic sound. Once, she burst into tears in the studio due to emotional immersion, forcing the director to pause recording for her to compose herself.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "帕翠西亚·卡斯是法国著名歌手和演员，以沙哑性感的嗓音和法式香颂风格闻名。她在全球售出超过1600万张唱片，被誉为法语流行音乐的代表人物之一。",
+        "artistIntroEn": "Patricia Kaas is a renowned French singer and actress, famous for her husky, sensual voice and French chanson style. She has sold over 16 million records worldwide and is regarded as a representative figure of French pop music."
       }
     ]
   },
@@ -16960,13 +17054,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "W-inds 于 2003 年发行。",
-        "descriptionEn": "Released by W-inds in 2003.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "这张专辑是日本流行组合w-inds.的早期代表作，风格以J-pop和舞曲为主，融合了电子元素和青春活力的编曲。核心特色在于三位成员和谐的和声与动感的舞蹈节奏，展现了2000年代初日本偶像音乐的巅峰状态。",
+        "descriptionEn": "This album is an early masterpiece by Japanese pop group w-inds., blending J-pop and dance music with electronic elements and youthful arrangements. Its core feature lies in the harmonious vocals and dynamic dance rhythms of the three members, showcasing the peak of early 2000s Japanese idol music.",
+        "storiesZh": "录制《Prime of Life》时，成员们为了追求完美的舞蹈同步，每天排练超过八小时。有一次，主唱橘庆太在录音时嗓子突然沙哑，团队紧急调整录音计划，最终意外发现沙哑版本反而更具感染力。",
+        "storiesEn": "During the recording of 'Prime of Life,' the members rehearsed over eight hours daily to achieve perfect dance synchronization. Once, lead vocalist Keita Tachibana suddenly lost his voice, forcing the team to adjust the recording schedule, only to find the husky version unexpectedly more emotive.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "w-inds.是日本男子流行舞蹈组合，由橘庆太、千叶凉平和绪方龙一组成。他们于2001年出道，凭借出色的唱跳实力在日本和亚洲地区拥有大量粉丝，是日本偶像团体��代表之一。",
+        "artistIntroEn": "w-inds. is a Japanese male pop dance group consisting of Keita Tachibana, Ryohei Chiba, and Ryuichi Ogata. Debuting in 2001, they gained a massive fanbase in Japan and Asia for their exceptional singing and dancing skills, representing Japanese idol groups."
       }
     ]
   },
@@ -16988,13 +17084,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "The Jackson 5 于 1969 年发行。",
-        "descriptionEn": "Released by The Jackson 5 in 1969.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这张专辑是杰克逊五人组的首张录音室专辑，风格以摩城灵魂乐和流行为主，融合了放克和节奏蓝调元素。核心特色在于年幼的迈克尔·杰克逊惊人的嗓音和充满活力的表演，奠定了组合在灵魂乐界的地位。",
+        "descriptionEn": "This album is the debut studio album by The Jackson 5, blending Motown soul and pop with funk and R&B elements. Its core feature lies in young Michael Jackson's astonishing vocals and energetic performances, establishing the group's place in soul music.",
+        "storiesZh": "录制过程中，摩城唱片创始人贝瑞·戈迪亲自监制，要求孩子们反复录制直到完美。有一次，迈克尔因为太累在录音室睡着，哥哥们只好用冰淇淋把他哄醒继续录音。专辑主打歌《I Want You Back》原本是为另一组歌手写的，最终成为杰克逊五人组的成名曲。",
+        "storiesEn": "During recording, Motown founder Berry Gordy personally oversaw the sessions, demanding repeated takes until perfection. Once, Michael fell asleep in the studio from exhaustion, and his brothers had to wake him with ice cream to continue recording. The lead single 'I Want You Back' was originally written for another group but became The Jackson 5's breakthrough hit.",
+        "historicalImpactZh": "这张专辑开启了杰克逊五人组的辉煌生涯，并让迈克尔·杰克逊成为全球瞩目的童星，对流行音乐史产生了深远影响。",
+        "historicalImpactEn": "This album launched The Jackson 5's illustrious career and made Michael Jackson a globally recognized child star, profoundly impacting pop music history.",
+        "links": {},
+        "artistIntroZh": "杰克逊五人组是来自美国印第安纳州加里市的家庭乐队，由杰克逊家族的五个兄弟组成。他们在摩城唱片旗下取得了巨大成功，被誉为灵魂乐和流行音乐史上最具影响力的团体之一。",
+        "artistIntroEn": "The Jackson 5 is a family band from Gary, Indiana, consisting of five Jackson brothers. They achieved great success under Motown Records and are regarded as one of the most influential groups in soul and pop music history."
       },
       {
         "id": "nas-stillmatic",
@@ -17011,13 +17109,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Nas 于 2001 年发行。",
-        "descriptionEn": "Released by Nas in 2001.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这张专辑是美国说唱歌手纳斯的重要作��，风格以东海岸嘻哈为主，融合了硬核说唱和街头叙事。核心特色在于纳斯犀利的歌词和深刻的主题，探讨了社会问题、个人成长与街头生活，展现了2000年代初嘻哈音乐的成熟与反思。",
+        "descriptionEn": "This album is a significant work by American rapper Nas, blending East Coast hip-hop with hardcore rap and street narratives. Its core feature lies in Nas's sharp lyrics and profound themes, exploring social issues, personal growth, and street life, showcasing the maturity and reflection of early 2000s hip-hop.",
+        "storiesZh": "录制《Stillmatic》时，纳斯正处于与另一位说唱歌手Jay-Z的激烈竞争中，专辑中的歌曲《Ether》就是直接回应Jay-Z的挑衅。为了保持真实感，纳斯坚持在简陋的地下室录音，拒绝过度修饰，甚至有一次因为录音设备故障而即兴创作了一段经典歌词。",
+        "storiesEn": "While recording 'Stillmatic,' Nas was in a fierce rivalry with fellow rapper Jay-Z, and the track 'Ether' was a direct response to Jay-Z's provocations. To maintain authenticity, Nas insisted on recording in a modest basement studio, refusing over-polishing, and once improvised classic lyrics after equipment failure.",
+        "historicalImpactZh": "这张专辑被视为纳斯职业生涯的复兴之作，复兴了东海岸说唱的精髓，并影响了2000年代后众多说唱歌手的创作方向。",
+        "historicalImpactEn": "This album is considered a career revival for Nas, rejuvenating the essence of East Coast rap and influencing the creative direction of many rappers in the 2000s.",
+        "links": {},
+        "artistIntroZh": "纳斯是美国东海岸说唱歌手和词曲作者，被誉为嘻哈史上最伟大的MC之一。他1994年凭借首张专辑《Illmatic》一举成名，以深刻的街头叙事和复杂的韵律技巧闻名。",
+        "artistIntroEn": "Nas is an American East Coast rapper and songwriter, hailed as one of the greatest MCs in hip-hop history. He rose to fame with his 1994 debut album 'Illmatic,' known for profound street narratives and complex lyrical techniques."
       },
       {
         "id": "csaba-vastag-q785150",
@@ -17034,13 +17134,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Csaba Vastag 于 2010 年发行。",
-        "descriptionEn": "Released by Csaba Vastag in 2010.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "这张专辑是匈牙利歌手Csaba Vastag的同名首张个人专辑，风格以流行摇滚为主，融合了民谣元素，旋律朗朗上口，歌词充满情感张力。核心特色在于他浑厚而富有穿透力的嗓音，搭配精致的编曲，展现了他作为新一代歌手的不俗实力。",
+        "descriptionEn": "This self-titled debut album by Hungarian singer Csaba Vastag features pop-rock with folk influences, characterized by catchy melodies, emotional lyrics, and his powerful, resonant vocals paired with polished arrangements.",
+        "storiesZh": "录制过程中，Csaba曾透露为了捕捉最真实的情感，他在录音棚里反复尝试了数十次，甚至一度因情绪投入而哽咽。制作人特意为他保留了其中一次现场感极强的即兴演唱版本，成为专辑中备受歌迷喜爱的隐藏亮点。",
+        "storiesEn": "During recording, Csaba revealed he repeated takes dozens of times to capture genuine emotion, once choking up from intensity. The producer kept an impromptu live-style version, which became a fan-favorite hidden gem on the album.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "Csaba Vastag是匈牙利流行摇滚歌手，因参加电视选秀节目而崭露头角。他以其独特的嗓音和舞台魅力迅速积累人气，成为匈牙利乐坛备受关注的新星。",
+        "artistIntroEn": "Csaba Vastag is a Hungarian pop-rock singer who rose to fame through a TV talent show. Known for his distinctive voice and stage presence, he quickly became a rising star in the Hungarian music scene."
       }
     ]
   },
@@ -17062,13 +17164,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Kollegah 于 2009 年发行。",
-        "descriptionEn": "Released by Kollegah in 2009.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这张专辑是德国说唱歌手Kollegah的第三张混音带，属于硬核说唱风格，以复杂的技术性韵脚、双关语和咄咄逼人的Flow著称。核心特色在于其黑暗的街头叙事和极具冲击力的制作，奠定了他在德国地下说唱界的地位。",
+        "descriptionEn": "This third mixtape by German rapper Kollegah features hardcore rap with complex technical rhymes, puns, and aggressive flow. Its dark street narratives and powerful production cemented his status in the German underground rap scene.",
+        "storiesZh": "录制时，Kollegah为了追求极致的押韵密度，曾连续48小时待在录音室不眠不休。专辑中一首歌的歌词包含了超过50个连续的双关语，被粉丝称为“语言杂技”。制作过程中，他还因与制作人争论一个鼓点节奏而差点重录整首歌。",
+        "storiesEn": "During recording, Kollegah spent 48 hours nonstop in the studio to achieve maximum rhyme density. One track contains over 50 consecutive puns, dubbed 'linguistic acrobatics' by fans. He nearly re-recorded an entire song over a drum pattern dispute with the producer.",
+        "historicalImpactZh": "该专辑被视为德国说唱史上最具技术性的混音带之一，影响了后来一批注重文字游戏和Flow技巧的德语说唱歌手。",
+        "historicalImpactEn": "This mixtape is considered one of the most technical in German rap history, influencing a generation of German rappers who emphasize wordplay and flow techniques.",
+        "links": {},
+        "artistIntroZh": "Kollegah是德国知名硬核说唱歌手，以复杂的押韵和文学化的歌词著称。他拥有法学博士学位，音乐中常融入精英主义和社会批判主题，是德语说唱界最具争议和影响力的艺人之一。",
+        "artistIntroEn": "Kollegah is a renowned German hardcore rapper known for complex rhymes and literary lyrics. Holding a PhD in law, his music often incorporates elitism and social critique, making him one of the most controversial and influential figures in German rap."
       },
       {
         "id": "maaya-sakamoto-dive",
@@ -17085,13 +17189,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Maaya Sakamoto 于 1998 年发行。",
-        "descriptionEn": "Released by Maaya Sakamoto in 1998.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "这是日本声优兼歌手坂本真绫的个人首张原创���辑，风格以J-Pop为主，融合了梦幻流行和电子元素。核心特色在于她空灵清澈的嗓音，配合制作人菅野洋子精心打造的旋律，营造出如同潜入深海般的沉浸感与青春气息。",
+        "descriptionEn": "This debut original album by Japanese voice actress and singer Maaya Sakamoto features J-Pop with dream pop and electronic elements. Its core is her ethereal, clear voice paired with Yoko Kanno's meticulous melodies, creating an immersive, youthful atmosphere like diving into the deep sea.",
+        "storiesZh": "录制时，年仅18岁的坂本真绫在菅野洋子的指导下，首次尝试了复杂的多轨和声录制。为了达到专辑名‘Dive’的意境，她曾在录音棚里闭眼想象自己潜入海底，结果因为太投入而差点从椅子上摔下来，引得工作人员大笑。",
+        "storiesEn": "During recording, 18-year-old Maaya Sakamoto, under Yoko Kanno's guidance, attempted complex multi-track harmonies for the first time. To embody the album's 'Dive' theme, she closed her eyes and imagined sinking into the ocean, nearly falling off her chair, making the staff laugh.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "坂本真绫是日本著名声优、歌手和演员，8岁起便以声优身份出道。她以其独特的透明感��音和与菅野洋子的长期合作而闻名，代表作品包括《机动战士高达SEED DESTINY》等。",
+        "artistIntroEn": "Maaya Sakamoto is a renowned Japanese voice actress, singer, and actress, debuting as a voice actress at age 8. Known for her transparent voice and long-time collaboration with Yoko Kanno, she is famous for works like 'Mobile Suit Gundam SEED DESTINY'."
       }
     ]
   },
@@ -17113,13 +17219,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Namie Amuro 于 2000 年发行。",
-        "descriptionEn": "Released by Namie Amuro in 2000.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这是日本天后安室奈美惠的第四张原创专辑，风格以舞曲和R&B为主，融合了电子和嘻哈元素。核心特色在于她标志性的酷感声线与强烈的节奏感，专辑整体充满自信与叛逆气息，展现了她从少女偶像向成熟女王的转型。",
+        "descriptionEn": "This fourth original album by Japanese diva Namie Amuro features dance-pop and R&B with electronic and hip-hop elements. Its core is her signature cool vocals and strong beats, exuding confidence and rebellion, marking her transition from teen idol to mature queen.",
+        "storiesZh": "录制期间，安室奈美惠刚刚成为母亲，她曾在采访中透露，为了平衡育儿和录音，她经常凌晨三点就开始工作。专辑主打歌的编舞是她亲自参与设计的，其中一段高难度动作让伴舞都练到膝盖淤青。",
+        "storiesEn": "During recording, Namie Amuro had just become a mother. She revealed in interviews that she often started work at 3 a.m. to balance childcare. She personally co-designed the choreography for the lead single, with a difficult move that left backup dancers with bruised knees.",
+        "historicalImpactZh": "该专辑进一步巩固了安室奈美惠在亚洲舞曲界的女王地位，其时尚造型和音乐风格引领了2000年代初的日本流行文化潮流。",
+        "historicalImpactEn": "The album cemented Namie Amuro's reign as the queen of Asian dance music, with its fashion and sound influencing early 2000s Japanese pop culture trends.",
+        "links": {},
+        "artistIntroZh": "安室奈美惠是日本传奇歌手、舞者，被誉为‘平成歌姬’之一。她以不断创新的音乐风格和极具感染力的舞台表演闻名，职业生涯跨越三十年，是亚洲流行音乐史上最具影响力的女性艺人之一。",
+        "artistIntroEn": "Namie Amuro is a legendary Japanese singer and dancer, hailed as one of the 'Heisei Divas'. Known for her ever-evolving music style and electrifying stage performances, her three-decade career makes her one of the most influential female artists in Asian pop history."
       },
       {
         "id": "faye-wong-please-myself",
@@ -17136,13 +17244,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Faye Wong 于 1994 年发行。",
-        "descriptionEn": "Released by Faye Wong in 1994.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "这是王菲的第八张粤语专辑，也是她首张全创作专辑，风格以另类流行和独立摇滚为主。核心特色在于她空灵迷幻的嗓音与极具个人化的词曲创作，专辑充满实验性和自我表达，标志着她从主流偶像向独立音乐人的彻底转变。",
+        "descriptionEn": "This is Faye Wong's eighth Cantonese album and her first full self-written album, featuring alternative pop and indie rock. Its core is her ethereal, dreamy voice and highly personal songwriting, full of experimentation and self-expression, marking her complete shift from mainstream idol to indie artist.",
+        "storiesZh": "录制时，王菲为了追求专辑的‘随意感’，坚持在录音棚里赤脚演唱，并拒绝使用任何自动调音设备。其中一首歌的歌词是她凌晨三点在酒店便签上写下的，后来直接成了专辑的标题曲。制作人曾担心风格太另类，但王菲坚持不改。",
+        "storiesEn": "During recording, Faye insisted on singing barefoot in the studio and refused any auto-tune to achieve a 'casual feel'. The lyrics for one track were written on a hotel notepad at 3 a.m., later becoming the album's title track. The producer worried it was too avant-garde, but Faye stood firm.",
+        "historicalImpactZh": "这张专辑被视为华语流行音乐的分水岭，极大地推动了‘唱作人’概念在华语乐坛的普及，影响了后来一批如张亚东等音乐人。",
+        "historicalImpactEn": "This album is considered a watershed in Mandarin pop music, greatly promoting the 'singer-songwriter' concept and influencing later artists like Zhang Yadong.",
+        "links": {},
+        "artistIntroZh": "王菲是华语乐坛最具标志性的天后之一，以独特的嗓音、前卫的音乐风格和特立独行的个性闻名。她横跨粤语和国语市场，代表作无数，是亚洲流行文化的象征人物。",
+        "artistIntroEn": "Faye Wong is one of the most iconic divas in Mandarin pop, known for her unique voice, avant-garde music style, and independent personality. Spanning Cantonese and Mandarin markets, she has countless classics and is a symbol of Asian pop culture."
       },
       {
         "id": "flow-flow-the-best",
@@ -17159,13 +17269,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Flow 于 2006 年发行。",
-        "descriptionEn": "Released by Flow in 2006.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Flow The Best》是日本摇滚乐队Flow于2006年发行的精选集，收录了他们早期最受欢迎的动漫主题曲和原创作品。风格融合了流行摇滚、说唱和电子元素，旋律激昂、节奏明快，充满青春能量。核心特色在于乐队标志性的双主唱配置和极具感染力的副歌，是J-Rock爱好者的入门必听。",
+        "descriptionEn": "\"Flow The Best\" is a 2006 compilation by Japanese rock band Flow, featuring their early hit anime themes and originals. The style blends pop rock, rap, and electronic elements with energetic melodies and uplifting choruses. Its core feature is the dual-vocalist setup and infectious hooks, making it a must-listen for J-Rock beginners.",
+        "storiesZh": "这张精选集的曲目顺序经过精心编排，模拟了一场完整演唱会的起承转合。录制过程中，主唱Keigo曾因连续高音演唱导致声带疲劳，但坚持用蜂蜜水润喉完成所有曲目的重录。吉他手Got‘s为追求音色完美，在录音室反复调试效果器，甚至拆解了三把吉他来寻找最合适的拾音器组合。",
+        "storiesEn": "The tracklist was carefully arranged to simulate the flow of a live concert. During recording, vocalist Keigo strained his vocal cords from sustained high notes but persevered by drinking honey water. Guitarist Got's dismantled three guitars to find the perfect pickup combination for the ideal tone.",
+        "historicalImpactZh": "作为Flow的首张精选集，它巩固了乐队在动漫音乐界的地位，并推动了J-Rock在海外粉丝中的传播。",
+        "historicalImpactEn": "As Flow's first compilation, it solidified the band's status in anime music and boosted J-Rock's overseas fanbase.",
+        "links": {},
+        "artistIntroZh": "Flow是一支来自日本的五人摇滚乐队，成立于1998年。以双主唱（Keigo和Koishi）和说唱与旋律结合的风格闻名，曾为《火影忍者》《龙珠Z》等经典动漫演唱主题曲。他们的音乐充满活力和感染力，在日本国内外拥有大量忠实粉丝。",
+        "artistIntroEn": "Flow is a five-member Japanese rock band formed in 1998, known for dual vocalists (Keigo and Koishi) and a blend of rap and melody. They have sung themes for classics like \"Naruto\" and \"Dragon Ball Z,\" earning a loyal fanbase worldwide with their energetic music."
       }
     ]
   },
@@ -17187,13 +17299,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Frank Zappa 于 1999 年发行。",
-        "descriptionEn": "Released by Frank Zappa in 1999.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Everything Is Healing Nicely》是美国作曲家Frank Zappa的遗作专辑，于1999年发行，收录了他1991年至1992年间与Ensemble Modern合作的管弦乐作品。风格以前卫古典、实验音乐和复杂节奏结构为核心，充满不和谐音和幽默的音乐动机。特色在于将古典严谨性与Zappa式的讽刺和即兴精神完美融合。",
+        "descriptionEn": "\"Everything Is Healing Nicely\" is a posthumous album by Frank Zappa, released in 1999, featuring orchestral works from 1991–1992 with Ensemble Modern. It blends avant-garde classical, experimental music, and complex rhythms, filled with dissonance and humorous motifs. Its hallmark is the fusion of classical rigor with Zappa's satirical and improvisational spirit.",
+        "storiesZh": "这张专辑的录音素材是Zappa在1991年与Ensemble Modern合作排练时的珍贵片段。Zappa当时已身患绝症，但仍坚持亲自指挥和修改乐谱。由于他无法长时间站立，录音室特意为他准备了一把高脚椅。有趣的是，专辑名源于Zappa对排练中一次意外和谐音效的调侃，他说“一切都在美好地愈合”。",
+        "storiesEn": "The album uses rehearsal recordings from Zappa's 1991 collaboration with Ensemble Modern. Despite terminal illness, Zappa insisted on conducting and revising scores. He used a high stool due to weakness. The title comes from his joke about an unexpectedly harmonious sound during rehearsal: \"Everything is healing nicely.\"",
+        "historicalImpactZh": "作为Zappa最后的管弦乐作品之一，它展示了他晚期对复杂作曲的执着，并对当代古典与摇滚跨界创作产生了启发。",
+        "historicalImpactEn": "As one of Zappa's final orchestral works, it demonstrates his late-career compositional complexity and inspired crossovers between classical and rock.",
+        "links": {},
+        "artistIntroZh": "Frank Zappa（1940-1993）是美国传奇作曲家、吉他手和讽刺作家，以融合摇滚、爵士、古典和实验音乐而闻名。他一生录制了60多张专辑，以复杂的编曲、社会讽刺和精湛的吉他技巧著称，被誉为20世纪最具创新精神的音乐家之一。",
+        "artistIntroEn": "Frank Zappa (1940-1993) was an American composer, guitarist, and satirist known for blending rock, jazz, classical, and experimental music. With over 60 albums, he was famed for complex arrangements, social satire, and virtuosic guitar, regarded as one of the 20th century's most innovative musicians."
       },
       {
         "id": "emmerson-nogueira-vers-o-ac-stica",
@@ -17210,13 +17324,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Emmerson Nogueira 于 2001 年发行。",
-        "descriptionEn": "Released by Emmerson Nogueira in 2001.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Versão acústica》是巴西音乐人Emmerson Nogueira于2001年发行的不插电翻唱专辑，他将经典摇滚歌曲改编为温暖的原声吉他版本。风格以民谣、乡村和轻柔摇滚为主，特色在于极简的编曲和Nogueira醇厚沉稳的嗓音，赋予原作全新的情感深度，营造出宁静而怀旧的聆听体验。",
+        "descriptionEn": "\"Versão acústica\" is a 2001 unplugged cover album by Brazilian musician Emmerson Nogueira, reimagining classic rock songs with warm acoustic guitar. The style leans toward folk, country, and soft rock, featuring minimalist arrangements and Nogueira's deep, calm voice, giving the originals new emotional depth for a serene, nostalgic listen.",
+        "storiesZh": "录制这张专辑时，Nogueira和制作人决定只用一把尼龙弦吉他和简单打击乐，避免任何电子音效。为了捕捉最自然的共鸣，他们选择在小型录音室中现场录制，所有歌手围成一圈同时演奏。有一次，邻居的狗叫声意外被录进音轨，Nogueira觉得它增添了生活气息，决定保留下来。",
+        "storiesEn": "For this album, Nogueira and his producer decided to use only a nylon-string guitar and minimal percussion, avoiding electronic effects. They recorded live in a small studio with all musicians in a circle to capture natural resonance. A neighbor's dog barking accidentally made it onto a track; Nogueira kept it for its authentic feel.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "Emmerson Nogueira是巴西歌手、词曲作者和吉他手，以原声翻唱经典摇滚歌曲而闻名。他擅长��不插电的方式重新���绎国际流行和摇滚金曲，嗓音温暖而富有磁性。自1990年代出道以来，他在巴西国内拥有稳定的听众群，被誉为“巴西原声翻唱之王”。",
+        "artistIntroEn": "Emmerson Nogueira is a Brazilian singer, songwriter, and guitarist known for acoustic covers of classic rock songs. He specializes in unplugged reinterpretations of international pop/rock hits, with a warm, magnetic voice. Active since the 1990s, he has a loyal following in Brazil, often called the \"King of Acoustic Covers.\""
       }
     ]
   },
@@ -17238,13 +17354,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Kollegah 于 2005 年发行。",
-        "descriptionEn": "Released by Kollegah in 2005.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Zuhältertape》是德国说唱歌手Kollegah于2005年发行的首张混音带，风格以硬核说唱和黑帮叙事为主。特色在于华丽的文字游戏、夸张的街头自信和充满挑衅性的歌词，节奏沉重且采样丰富。这张专辑奠定了Kollegah标志性的“黑帮皇帝”形象，对德国地下说唱圈产生了深远影响。",
+        "descriptionEn": "\"Zuhältertape\" is the 2005 debut mixtape by German rapper Kollegah, featuring hardcore rap and gangsta narratives. It's characterized by elaborate wordplay, exaggerated street confidence, and provocative lyrics over heavy beats and rich samples. The album established Kollegah's iconic \"gangster emperor\" persona and deeply influenced German underground rap.",
+        "storiesZh": "这张混音带完全是Kollegah在自家卧室用简陋设���录制的，他曾回忆说录音时邻居经常投诉噪音。为了模仿黑帮电影的氛围，他在一些曲目中加入了电影对白采样，甚至自己用变声器录制了旁白。由于预算有限，封面是他用手机自拍后简单PS完成的，却意外成为经典视觉符号。",
+        "storiesEn": "Kollegah recorded this mixtape in his bedroom with basic equipment; neighbors often complained about the noise. To mimic gangster movie vibes, he sampled film dialogues and recorded narrations with a voice changer. The cover was a selfie edited on his phone due to budget limits, but it became an iconic visual.",
+        "historicalImpactZh": "《Zuhältertape》被视为德国硬核说唱复兴的里程碑，激励了大量地下艺人，并帮助定义了2000年代后期德语的“黑帮说唱”风格。",
+        "historicalImpactEn": "\"Zuhältertape\" is considered a milestone in German hardcore rap revival, inspiring countless underground artists and defining late-2000s German gangsta rap style.",
+        "links": {},
+        "artistIntroZh": "Kollegah（本名Felix Blume）是德国说唱歌手和词曲作者，1984年出生。以复杂的双关语、夸张的自我吹嘘和黑帮主题著称，是德国最成功的说唱歌手之一。他创立了独立厂牌Selfmade Records，并多次获得德国嘻哈大奖，销量超过百万张。",
+        "artistIntroEn": "Kollegah (born Felix Blume, 1984) is a German rapper and songwriter known for complex wordplay, exaggerated braggadocio, and gangsta themes. One of Germany's most successful rappers, he founded Selfmade Records, won multiple German Hip-Hop Awards, and sold over a million records."
       },
       {
         "id": "atif-aslam-doorie",
@@ -17261,13 +17379,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Atif Aslam 于 2006 年发行。",
-        "descriptionEn": "Released by Atif Aslam in 2006.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Doorie》是巴基斯坦歌手Atif Aslam于2006年发行的首张个人录音室专辑，风格以流行摇滚和抒情慢歌为主。特色在于Atif标志性的高亢嗓音和充满情感的演绎，歌曲主题围绕爱情、思念与离别。专辑中的同名曲《Doorie》成为南亚地区的现象级情歌，奠定了他在印度和巴基斯坦乐坛的地位。",
+        "descriptionEn": "\"Doorie\" is the debut studio album by Pakistani singer Atif Aslam, released in 2006, featuring pop rock and emotional ballads. It showcases Atif's signature high-pitched, soulful vocals and heartfelt delivery, with themes of love, longing, and separation. The title track \"Doorie\" became a phenomenon across South Asia, cementing his stardom in India and Pakistan.",
+        "storiesZh": "专辑录制期间，Atif刚从乐队Jal单飞，经济拮据，大部分歌曲是在临时搭建的家庭工作室完成的���主打歌《Doorie》的副歌部分是他凌晨灵感迸发时一气呵成写下的。有趣的是，印度电影《Bas Ek Pal》曾想购买这首歌的版权，但Atif坚持保留专辑版本，最终该歌被用作电影配乐却未重新录制。",
+        "storiesEn": "During recording, Atif had just left his band Jal and was financially strained, recording most songs in a makeshift home studio. The chorus of \"Doorie\" was written in a burst of inspiration at dawn. Interestingly, the Indian film \"Bas Ek Pal\" wanted to buy the song's rights, but Atif kept the album version, though it was used in the film unaltered.",
+        "historicalImpactZh": "《Doorie》是巴基斯坦流行音乐进军印度市场的关键作品，推动了乌尔都语情歌的跨国流行，并让Atif Aslam成为南亚最受欢迎的歌手之一。",
+        "historicalImpactEn": "\"Doorie\" was pivotal in bringing Pakistani pop to the Indian market, boosting the cross-border popularity of Urdu love songs and making Atif Aslam one of South Asia's most beloved singers.",
+        "links": {},
+        "artistIntroZh": "Atif Aslam是巴基斯坦歌手、词曲作者和演员，1983年出生。以高亢而富有感染力的嗓音闻名，擅长流行摇滚和抒情歌曲。他最初是乐队Jal的主唱，单飞后凭借《Doorie》和大量宝莱坞配乐成为南亚超级巨星，获得过多项国��音乐奖项。",
+        "artistIntroEn": "Atif Aslam is a Pakistani singer, songwriter, and actor born in 1983, known for his high-pitched, emotive voice in pop rock and ballads. Starting as lead vocalist of band Jal, he became a South Asian superstar with \"Doorie\" and numerous Bollywood soundtracks, winning multiple international music awards."
       },
       {
         "id": "shir-sagisu-evangelion-death",
@@ -17284,13 +17404,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Shirō Sagisu 于 2004 年发行。",
-        "descriptionEn": "Released by Shirō Sagisu in 2004.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Evangelion: Death》是鹭巢诗郎为《新世纪福音战士》旧剧场版《死与新生》创作的配乐专辑。风格融合了古典、电子、合唱与实验音乐，充满压抑与神圣交织的氛围。核心特色在于用宏大的交响乐与诡异的人声采样，精准刻画了角色内心的孤独与末世感。",
+        "descriptionEn": "Evangelion: Death is a soundtrack album by Shirō Sagisu for the Evangelion movie Death (True)². It blends classical, electronic, choral, and experimental music, creating an atmosphere of both oppression and sanctity. Its core feature lies in using grand orchestration and eerie vocal samples to precisely depict the characters' inner loneliness and apocalyptic feel.",
+        "storiesZh": "专辑录制时，鹭巢诗郎与庵野秀明进行了大量实验性尝试，比如让合唱团发出非人声的嘶吼，以模拟使徒的“声音”。部分曲目直接使用了早期电视版未采用的素材，经过重新混音后呈现出更黑暗的质感。",
+        "storiesEn": "During recording, Sagisu and Hideaki Anno experimented extensively, such as having the choir produce non-human screams to simulate the 'voices' of the Angels. Some tracks directly used unused materials from the earlier TV series, which were remixed to achieve a darker texture.",
+        "historicalImpactZh": "这张专辑进一步确立了鹭巢诗郎在动画配乐领域的宗师地位，其黑暗交响风格深刻影响了后世科幻动画的配乐方向。",
+        "historicalImpactEn": "This album further established Shirō Sagisu as a master of anime scoring, and its dark symphonic style profoundly influenced the direction of sci-fi anime soundtracks in later years.",
+        "links": {},
+        "artistIntroZh": "鹭巢诗郎是日本著名作曲家、编曲家，生于1957年。以《新世纪福音战士》系列配乐闻名，擅长将古典、摇滚、爵士与电子元素融合，作品充满戏剧张力与哲学深度。",
+        "artistIntroEn": "Shirō Sagisu is a renowned Japanese composer and arranger, born in 1957. Best known for the Evangelion series soundtrack, he excels at blending classical, rock, jazz, and electronic elements, creating works full of dramatic tension and philosophical depth."
       }
     ]
   },
@@ -17320,13 +17442,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Melody Club 于 2002 年发行。",
-        "descriptionEn": "Released by Melody Club in 2002.",
-        "storiesZh": "",
-        "storiesEn": "",
+        "descriptionZh": "《Music Machine》是瑞典流行摇滚乐队Melody Club的第二张录音室专辑，风格以轻快的合成器流行、新浪潮和迪斯科舞曲为主。核心特色是 catchy 的旋律、复古的80年代电子音色，以及主唱慵懒又性感的嗓音，充满派对般的欢愉氛围。",
+        "descriptionEn": "Music Machine is the second studio album by Swedish pop-rock band Melody Club, characterized by upbeat synth-pop, new wave, and disco. Its core features include catchy melodies, retro 80s electronic timbres, and the lead singer's lazy yet sexy vocals, creating a party-like joyful atmosphere.",
+        "storiesZh": "专辑录制期间，乐队成员曾因编曲方向产生分歧，主唱决定将复古合成器作为主角，甚至从二手市场淘来老式Roland Juno-60。一次录音中合成器突然故障，反而产生了意外的低保真效果，被保留在最终版本中。",
+        "storiesEn": "During the recording, band members had disagreements over the arrangement direction. The lead singer decided to make vintage synthesizers the centerpiece, even buying an old Roland Juno-60 from a second-hand market. Once, a synth malfunctioned during recording, creating an unexpected lo-fi effect that was kept in the final version.",
         "historicalImpactZh": "",
         "historicalImpactEn": "",
-        "links": {}
+        "links": {},
+        "artistIntroZh": "Melody Club是瑞典流行摇滚乐队，成立于2000年。以复古合成器流行和华丽摇滚风格著称，音乐充满舞曲节奏与戏剧感，曾多次获得瑞典格莱美提名，是21世纪初斯堪的纳维亚流行音乐的代表之一。",
+        "artistIntroEn": "Melody Club is a Swedish pop-rock band formed in 2000. Known for their retro synth-pop and glam rock style, their music is full of dance rhythms and theatricality. They have been nominated for multiple Swedish Grammys and are a representative of early 2000s Scandinavian pop music."
       }
     ]
   },
@@ -17348,13 +17472,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "The Jackson 5 于 1971 年发行。",
-        "descriptionEn": "Released by The Jackson 5 in 1971.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Greatest Hits》是杰克逊五人组在摩城唱片旗下发行的精选集，收录了《I Want You Back》《ABC》《The Love You Save》等经典单曲。风格以灵魂乐、放克和泡泡糖流行为主，核心特色是迈克尔·杰克逊童年时期极具爆发力的嗓音与兄弟五人完美的和声。",
+        "descriptionEn": "Greatest Hits is a compilation album by The Jackson 5 released under Motown Records, featuring classic singles like I Want You Back, ABC, and The Love You Save. The style is mainly soul, funk, and bubblegum pop, with the core feature being Michael Jackson's explosive childhood vocals and the brothers' perfect harmonies.",
+        "storiesZh": "这张精选集发行时，杰克逊五人组正处于事业巅峰，但摩城唱片为了赶工，直接使用了早期单曲的原始母带，甚至没有重新混音。有趣的是，迈克尔在录制《I'll Be There》时因为变声期嗓子不适，却唱出了更感人的哭腔版本。",
+        "storiesEn": "When this compilation was released, The Jackson 5 were at their peak. Motown Records rushed the production by using original master tapes without remixing. Interestingly, Michael Jackson's voice was strained during the recording of I'll Be There due to puberty, but it resulted in a more touching, tearful version.",
+        "historicalImpactZh": "这张精选集是杰克逊五人组商业上最成功的合辑之一，帮助定义了70年代少年偶像团体的标准，也为迈克尔·杰克逊后来的个人巨星之路奠定了坚实基础。",
+        "historicalImpactEn": "This compilation is one of the most commercially successful albums by The Jackson 5, helping define the standard for 1970s teen idol groups and laying a solid foundation for Michael Jackson's later solo superstardom.",
+        "links": {},
+        "artistIntroZh": "杰克逊五人组是来自美国印第安纳州加里的家庭乐队，由杰克逊家族的五个兄弟组成，1969年签约摩城唱片。他们以充满活力的舞台表演和流行灵魂乐风靡全球，是70年代最成功的少年组合之一。",
+        "artistIntroEn": "The Jackson 5 were a family band from Gary, Indiana, composed of five Jackson brothers. Signed to Motown Records in 1969, they became a global sensation with their energetic stage performances and pop-soul music, one of the most successful teen groups of the 1970s."
       },
       {
         "id": "secret-garden-once-in-a-red-moon",
@@ -17371,13 +17497,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Secret Garden 于 2001 年发行。",
-        "descriptionEn": "Released by Secret Garden in 2001.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Once in a Red Moon》是神秘园乐队的第三张录音室专辑，延续了他们标志性的新古典主义凯尔特风格。核心特色是小提琴与钢琴的深情对话，旋律空灵悠远，充满诗意与治愈感。专辑中的《You Raise Me Up》后来成为全球翻唱最多的歌曲之一。",
+        "descriptionEn": "Once in a Red Moon is the third studio album by Secret Garden, continuing their signature neoclassical Celtic style. Its core features are the heartfelt dialogue between violin and piano, with ethereal, poetic melodies full of healing power. The track You Raise Me Up later became one of the most covered songs worldwide.",
+        "storiesZh": "《You Raise Me Up》的创作灵感来自乐队成员罗尔夫·勒夫兰在爱尔兰旅行时听到的一首古老民谣旋律。最初歌词由布兰登·格雷厄姆用英语填写，但录制时乐队坚持用挪威语试唱，直到最后才决定用英文版，结果一炮而红。",
+        "storiesEn": "The inspiration for You Raise Me Up came from a folk melody band member Rolf Løvland heard while traveling in Ireland. The lyrics were initially written in English by Brendan Graham, but during recording, the band insisted on trying a Norwegian version. Only at the last minute did they decide on the English version, which became a huge hit.",
+        "historicalImpactZh": "《You Raise Me Up》是21世纪最成功的跨界歌曲之一，被超过500位艺术家翻唱，包括乔什·格罗班、西城男孩等，成为婚礼、体育赛事和纪念活动的经典曲目。",
+        "historicalImpactEn": "You Raise Me Up is one of the most successful crossover songs of the 21st century, covered by over 500 artists including Josh Groban and Westlife, becoming a classic for weddings, sports events, and memorials.",
+        "links": {},
+        "artistIntroZh": "神秘园（Secret Garden）是成立于1994年的爱尔兰-挪威新世纪音乐二人组，由作曲家罗尔夫·勒夫兰和小提琴家菲奥诺拉·雪莉组成。他们以融合凯尔特民谣与古典音乐的治愈系风格闻名，1995年凭《夜曲》赢得欧洲歌唱大赛冠军。",
+        "artistIntroEn": "Secret Garden is an Irish-Norwegian new age duo formed in 1994, composed of composer Rolf Løvland and violinist Fionnuala Sherry. Known for their healing style blending Celtic folk and classical music, they won the Eurovision Song Contest in 1995 with Nocturne."
       }
     ]
   },
@@ -17403,13 +17531,15 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "Girls' Generation 于 2010 年发行。",
-        "descriptionEn": "Released by Girls' Generation in 2010.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Into the New World – The 1st Asia Tour》是少女时代于2010年发行的首场亚洲巡回演唱会现场专辑。风格以K-pop流行舞曲为主，融合了R&B、电子和抒情曲。核心特色是成员们极具感染力的现场演唱、整齐的刀群舞，以及充满青春活力的舞台氛围。",
+        "descriptionEn": "Into the New World – The 1st Asia Tour is a live album by Girls' Generation released in 2010, documenting their first Asia tour. The style is mainly K-pop dance pop, blended with R&B, electronic, and ballads. Its core features are the members' infectious live vocals, synchronized knife-like choreography, and a youthful, energetic stage atmosphere.",
+        "storiesZh": "演唱会筹备期间，成员们每天排练超过12小时，尤其是主打歌《Gee》的舞蹈动作被反复修改了20多个版本。首尔首场演出时，泰妍在唱《Dear Mom》时因想到家人而哽咽，但即兴发挥的颤音反而成为全场最动人的瞬间。",
+        "storiesEn": "During the concert preparation, the members rehearsed over 12 hours daily. The choreography for the hit song Gee was revised more than 20 times. At the Seoul opening, Taeyeon choked up while singing Dear Mom thinking of her family, but her improvised vibrato became the most touching moment of the show.",
+        "historicalImpactZh": "这张专辑标志着少女时代从韩国顶级女团向亚洲超级巨星的关键转折，其巡演模式成为后来K-pop团体世界巡演的范本。",
+        "historicalImpactEn": "This album marked a key turning point for Girls' Generation from a top Korean girl group to Asian superstars, and its tour model became a blueprint for later K-pop groups' world tours.",
+        "links": {},
+        "artistIntroZh": "少女时代是韩国SM娱乐于2007年推出的女子组合，由泰妍、杰西卡、珊妮、蒂芬妮、孝渊、俞利、秀英、允儿、徐贤九名成员组成。她们以清纯与性感并存的形象、出色的唱跳实力，被誉为“国民女团”，是韩流崛起的标志性团体。",
+        "artistIntroEn": "Girls' Generation is a South Korean girl group formed by SM Entertainment in 2007, consisting of nine members: Taeyeon, Jessica, Sunny, Tiffany, Hyoyeon, Yuri, Sooyoung, Yoona, and Seohyun. Known for their blend of pure and sexy images and outstanding singing and dancing skills, they are hailed as the 'Nation's Girl Group' and a symbol of the Hallyu wave."
       }
     ]
   },
@@ -17431,23 +17561,25 @@
         "language": "english",
         "languageZh": "英语",
         "type": "album",
-        "descriptionZh": "M.I.A. 于 2010 年发行。",
-        "descriptionEn": "Released by M.I.A. in 2010.",
-        "storiesZh": "",
-        "storiesEn": "",
-        "historicalImpactZh": "",
-        "historicalImpactEn": "",
-        "links": {}
+        "descriptionZh": "《Vicki Leekx》是M.I.A.在2010年发布的混音带，风格融合了嘻哈、电子、舞厅和世界音乐，充满实验性和政治隐喻。整张专辑节奏紧凑、音色杂乱而富有侵略性，展现了M.I.A.对全球边缘文化的敏锐捕捉和反叛精神。",
+        "descriptionEn": "Vicki Leekx is a 2010 mixtape by M.I.A., blending hip-hop, electronic, dancehall, and world music with an experimental and politically charged edge. The album is tight, chaotic, and aggressive, showcasing her sharp capture of global marginal cultures and rebellious spirit.",
+        "storiesZh": "这张混音带以化名“Vicki Leekx”发布，灵感来源于M.I.A.在网络上虚构的一个女性黑客形象。专辑在短短几周内录制完成，许多曲目直接采样自网络音频和YouTube片段，录制过程随性而自由，M.I.A.甚至在家中用笔记本电脑完成大部分混音。",
+        "storiesEn": "Released under the alias 'Vicki Leekx,' the mixtape was inspired by a fictional female hacker persona M.I.A. created online. It was recorded in just a few weeks, with many tracks sampling internet audio and YouTube clips. The process was spontaneous and free, with M.I.A. mixing most of it on her laptop at home.",
+        "historicalImpactZh": "该混音带被视为M.I.A.在主流商业专辑之外最具实验精神的作品之一，影响了后来独立电子和全球节拍音乐人的创作方向。",
+        "historicalImpactEn": "The mixtape is considered one of M.I.A.'s most experimental works outside her mainstream albums, influencing later independent electronic and global beat producers.",
+        "links": {},
+        "artistIntroZh": "M.I.A.（本名Mathangi Arulpragasam）是英国籍斯里兰卡裔歌手、制作人和视觉艺术家。她以融合政治评论、多元文化和前卫电子音乐而闻名，代表作《Paper Planes》曾风靡全球。",
+        "artistIntroEn": "M.I.A. (born Mathangi Arulpragasam) is a British-Sri Lankan singer, producer, and visual artist known for blending political commentary, multicultural influences, and avant-garde electronic music. Her hit 'Paper Planes' achieved global fame."
       }
     ]
   },
   "_meta": {
-    "generated": "2026-07-10T15:57:02.690Z",
+    "generated": "2026-07-11T02:43:54.130Z",
     "source": "Wikidata (genre-diverse)",
     "version": 9,
     "totalDays": 340,
     "totalItems": 636,
     "note": "Genre diversity prioritized. No artist bias.",
-    "enriched": 570
+    "enriched": 66
   }
 }
