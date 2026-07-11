@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/LonelyAstronaut03/Echo-Music-Of-The-Day-#readme",
   "dependencies": {
-    "canvas": "^3.2.3"
+    "canvas": "^3.2.3",
+    "qrcode": "^1.5.4"
   }
 }
